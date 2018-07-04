@@ -1,174 +1,180 @@
-Drug: Linaclotide|Drug: Placebo
-Drug: Voxelotor
-Drug: revefenacin|Drug: Placebo|Drug: Formoterol
-Drug: Cariprazine|Drug: Placebo
-Drug: ganaxolone|Drug: Placebo
-Drug: Ibuprofen|Drug: Lidocaine Patch 4%
-Drug: DEFINITY
-Drug: Teduglutide|Other: Standard Medical Therapy|Device: Syringe|Device: Needle
-Drug: deutetrabenazine Low|Drug: deutetrabenazine High|Drug: Placebo
-Drug: Olanzapine|Drug: Placebos
-Drug: Tisagenlecleucel after optional bridging and lymphodepleting chemotherapy|Drug: Platinum-based immunochemotherapy followed in responding patients with high dose chemotherapy and HSCT
-Drug: Levomilnacipran ER|Drug: Fluoxetine|Drug: Placebo
-Drug: Upadacitinib|Drug: Placebo for Upadacitinib
-Drug: Larazotide Acetate|Drug: Matching Placebo
-Drug: Transdermal Estrogen
-Drug: Delamanid (DLM)|Drug: Isoniazid (INH)|Dietary Supplement: Pyridoxine (vitamin B6)
-Drug: Tradipitant|Drug: Placebo
-Drug: Upadacitinib|Drug: Placebo for Upadacitinib|Drug: Topical corticosteroids (TCS)
-Drug: Daromun|Procedure: Surgery alone|Procedure: Surgery
-Drug: Oral dexamethasone|Drug: Nebulized Epinephrine|Drug: Oral placebo|Drug: Nebulized normal saline
-Drug: TEV-50717|Drug: Placebo
-Drug: ADS-5102
-Drug: Test naproxen sodium tablet|Drug: Commercial naproxen sodium tablet|Drug: Commercial naproxen sodium liquid gels capsule|Drug: Placebo tablet
-Drug: A4250|Drug: Placebo
-Drug: RVL-1201|Other: Vehicle ophthalmic solution
-Drug: iron isomaltoside(Monofer®)
-Drug: Tranexamic Acid
-Drug: Progesterone vaginal ring (PVR)
-Drug: S5G4T-1
-Drug: S5G4T-1|Drug: S5G4T-2
-Drug: Rilpivirine 25 mg|Drug: Tenofovir Disoproxil Fumarate (TDF)/Lamivudine (3TC)
-Drug: Test Product|Drug: Reference Product|Drug: Placebo
-Drug: BLI800|Drug: Fortrans
-Drug: Mepolizumab 100 milligrams|Drug: Placebo|Drug: Salbutamol
-Drug: Ixazomib, thalidomide, & dexamethasone (ITD) re-induction|Drug: Conventional autologous stem cell transplant (ASCT-con)|Drug: Augmented autologous stem cell transplant (ASCT-aug)|Drug: ITD consolidation and ixazomib maintenance vs. No further therapy
-Drug: VT-1161|Drug: Placebo
-Drug: IW-3718|Drug: placebo
-Drug: YYD302 2ml|Drug: Active comparator: Synovian Inj.
-Drug: capecitabine
-Drug: Neridronic acid|Drug: Placebo
-Drug: Rapastinel|Drug: Placebo
-Drug: Dupilumab (SAR231893/REGN668)|Drug: Asthma controller therapies (incl. prednisone/prednisolone)|Drug: Asthma reliever therapies
-Drug: AG-348
+Drug: SUVN-502
+Drug: Certolizumab Pegol
+Drug: Lacosamide
+Drug: Volanesorsen
+Drug: Fremanezumab
+Drug: TRx0237
+Drug: Riluzole
+Drug: Lenvatinib
+Drug: Brivaracetam
+Drug: rovalpituzumab tesirine
+Drug: Moxetumomab Pasudotox
+Drug: Everolimus
+Drug: cemiplimab
+Drug: cabotegravir, CAB
+Drug: Idebenone
+Drug: Pitolisant
+Drug: oral lamotrigine 100 mg|Drug: oral pregabalin 150 mg
+Drug: ABC294640
+Drug: gilteritinib
+Drug: Inotersen
+Drug: Trametinib 2 mg
+Drug: Fostamatinib disodium 100 mg|Drug: Fostamatinib disodium 150 mg
+Drug: Ustekinumab
+Drug: ARQ 092
+Drug: tezacaftor/ivacaftor
+Drug: Selumetinib
+Drug: LJPC-501
+Drug: ivosidenib (AG-120)
+Drug: LOXO-195
+Drug: Cannabidiol oral solution
+Drug: Lorlatinib
+Drug: Glassia
+Drug: Ruxolitinib
+Drug: VAL-083
+Drug: Inotuzumab Ozogamicin
+Drug: glecaprevir|Drug: pibrentasvir
+Drug: ABT-414
+Drug: Veliparib
+Drug: Venetoclax
+Drug: Avelumab
+Drug: Olaparib tablets
+Drug: Omegaven
+Drug: 3,4-Diaminopyridine
+Drug: Ganitumab
+Drug: Niraparib
+Drug: larotrectinib
+Drug: Dupilumab
+Drug: 131-I-meta-iodobenzylguanidine
+Drug: Veliparib|Drug: Cisplatin|Drug: Vinorelbine
+Drug: BMN190, recombinant human tripeptidyl peptidase-1 (rhTPP1)
+Drug: Ultratrace Iobenguane I131
+Drug: patisiran (ALN-TTR02)
+Drug: HBOC-201
+Drug: Omegaven IV lipid emulsion
+Drug: 4-Demethyl-4-cholesteryloxycarbonylpenclomedine
+Drug: nusinersen
+Drug: Elotuzumab|Drug: Lenalidomide|Drug: Dexamethasone
+Drug: Pasireotide
+Drug: Carbon-11 Sodium Acetate
+Drug: Abemaciclib
+Drug: Pimavanserin tartrate
+Drug: MT-3724
+Drug: 177Lu-DOTA0-Tyr3-Octreotate
+Drug: Estradiol 2Mg Tablet
+Drug: Cannabidiol
+Drug: Deferiprone
+Drug: LY2503029
+Drug: Midostaurin
+Drug: Brincidofovir
+Drug: Deflazacort
+Drug: Atezolizumab [TECENTRIQ]
+Drug: Panobinostat
+Drug: Domperidone
+Drug: 18 F-DOPA
+Drug: CPX-351
+Drug: 11C-choline|Device: PET/CT Scan
+Drug: Oral Domperidone
+Drug: Daratumumab
+Drug: Crizotinib
+Drug: PCI-32765 (Ibrutinib)
+Drug: [18 F]-6-L-fluorodihydroxyphenylalanine (18F-FDOPA)
+Drug: SMOFlipid
+Drug: Tacrolimus
+Drug: Cannabidiol (Epidiolex)
+Drug: LCZ696
+Drug: Elotuzumab in combination with Lenalidomide and Dexamethasone
+Drug: C-11 Choline PET Imaging
+Drug: Perampanel
+Drug: TAS-102
+Drug: Stiripentol
+Drug: Phase I Dose-finding Study of Sorafenib Study
+Drug: suspension of erythrocytes encapsulating L-asparaginase
+Drug: Amifampridine Phosphate
+Drug: Blinatumomab
+Drug: 68Ga DOTATATE
+Drug: nintedanib
+Drug: Pirfenidone
+Drug: Idelalisib|Drug: Rituximab
+Drug: Tecovirimat
+Drug: Fenretinide Lym-X-Sorb Oral Powder|Drug: Ketoconazole
+Drug: Abroma Augusta Q (mother tincture)
+Drug: Triheptanoin
+Drug: 3,4-diaminopyridine
+Drug: Pasireotide long acting release formulation
+Drug: LDK378
+Drug: Afatinib
+Drug: Triclabendazole
+Drug: Adding Magnesium Sulfate to the standard epidural and interscalene blocks for chronic pain
+Drug: Fleet enema
+Drug: 18F-DOPA
+Drug: sildenafil
+Drug: gemtuzumab ozogamicin|Other: laboratory biomarker analysis
+Drug: Omegaven 10%
+Drug: BMN 110
+Drug: 3, 4-Diaminopyridine
+Drug: Dextromethorphan
+Drug: Sofosbuvir|Drug: Ribavirin|Drug: Pegylated Interferon
 Drug: Baricitinib
-Drug: Galcanezumab|Drug: Placebo
-Drug: Dalteparin|Drug: Saline
-Drug: TEZ/IVA|Drug: IVA|Drug: Placebo
-Drug: Norgestrel 0.075 mg tablets
-Drug: D-PLEX
-Drug: Magnesium group|Drug: Normal saline group
-Drug: Photodynamic Therapy with indocyanine green and diode laser|Procedure: Mechanical debridement alone
-Drug: Melatonin 5 mg|Drug: Vitamin C 1 GM Oral Tablet|Drug: Vitamin E 400 UNT|Drug: N-acetylcysteine
-Drug: Atezolizumab|Drug: Bevacizumab|Drug: Cisplatin|Drug: Paclitaxel
-Drug: Mirikizumab
-Drug: Dexamethasone|Drug: Normal saline
-Drug: BOTOX®, Allergan|Drug: Placebo
-Drug: 18F-choline PET
-Drug: Selinexor|Drug: Placebo
-Drug: Ondansetron
-Drug: Simdax
-Drug: Somatropin
-Drug: Recombinant Human Growth Hormone (rhGH) Injection
-Drug: Acetaminophen|Drug: Ibuprofen 600 mg|Behavioral: Educational intervention|Drug: Placebo oral capsule
-Drug: Memantine Hydrochloride|Drug: Placebo
-Drug: Entresto|Drug: Valsartan
-Drug: D961H capsule 10mg|Drug: D961H sachet 10mg
-Drug: Decitabine|Drug: Cyclophosphamide|Drug: Doxorubicin|Drug: Vincristine|Drug: Prednisone
-Drug: Acetaminophen|Drug: Placebo|Drug: IV Hydromorphone
-Drug: Corticoids|Other: Placebo
-Drug: Tranexamic Acid 100 MG/ML|Drug: Placebo
-Drug: Semaglutide 1.0 mg|Drug: Semaglutide 2.4 mg|Drug: Placebo I (Semaglutide)|Drug: Placebo II (Semaglutide)
-Drug: sacubitril/valsartan|Drug: Valsartan
-Drug: Dabrafenib|Drug: Trametinib
-Drug: Spironolactone 25mg|Drug: Placebo oral capsule
-Drug: Administration of DAA-based treatment
-Drug: Bardoxolone methyl|Drug: Placebo
-Drug: Memantine|Radiation: Whole Brain Radiotherapy (WBRT)|Procedure: Stereotactic Radiosurgery (SRS)
-Drug: Placebo|Drug: 90 mcg Reference Product|Drug: 180 mcg Reference Product|Drug: 90 mcg Test Product
-Drug: Fitusiran (ALN-AT3SC)
-Drug: Cannabidiol (CBD) Oil Capsules|Drug: Sunflower Lecithin Oil in Capsule
-Drug: Sulfur hexafluoride lipid-type A microspheres
-Drug: Semaglutide|Drug: Placebo
-Drug: Semaglutide|Drug: Placebo (semaglutide)
-Drug: Brexpiprazole|Other: Placebo
-Drug: methylcobalamin|Drug: saline solution
-Drug: AG-348|Drug: Placebo
-Drug: B/F/TAF|Drug: Placebo to match DTG|Drug: Placebo to match F/TDF|Drug: DTG|Drug: F/TDF|Drug: Placebo to match B/F/TAF
-Drug: Indomethacin SR|Drug: Placebos
-Drug: RPh201|Other: Placebo
-Drug: 5mg Serlopitant Tablets|Drug: Placebo Tablets
-Drug: Preventive Gel|Drug: Marketed Control
-Drug: Placebos|Drug: Cattle Encephalon Glycoside and Ignotin
-Drug: Montelukast 10mg|Drug: Placebo
-Drug: Placebo Oral Tablet|Drug: Cortancyl Oral Tablet|Drug: Levocetirizine Oral Tablet
-Drug: Azithromycin|Drug: Amoxicillin
-Drug: ACT-541468|Other: Placebo
-Drug: TJP-008-1|Drug: TJP-008-2|Drug: Coolprep powder
-Drug: 18F-FES PET
-Drug: isosorbide mononitrate|Drug: Placebos
-Drug: Saline Solution for Injection|Drug: Leuprolide Acetate
-Drug: Molidustat (BAY85-3934)|Drug: Darbepoetin alfa|Drug: Placebo of Molidustat (BAY85-3934)|Drug: Placebo of Darbepoetin alfa
-Drug: Temocillin|Drug: meropenem or imipenem
-Drug: amyloid PET
-Drug: Magnesium Sulfate|Drug: Nifedipine
-Drug: Nivolumab 10 MG/ML Intravenous Solution|Other: Best Supportive Care
-Drug: Lipiodol|Device: Mock catheter
-Drug: Carvedilol
-Drug: Recombinant Human Prourokinase|Drug: Alteplase
-Drug: Aprocitentan 12.5 mg|Drug: Aprocitentan 25 mg|Drug: Placebo
-Drug: Polypill|Drug: Aspirin|Drug: Atorvastatin|Drug: Metoprolol|Drug: Valsartan
-Drug: Hydroxychloroquine|Drug: Placebo
-Drug: Cipros 20 association|Drug: Crestor 20 mg
-Drug: Progesterone
-Drug: 5 mg Serlopitant Tablets
-Drug: TETA 4HCL|Drug: Penicillamine
-Drug: Intranasal ketamine|Drug: Placebo
-Drug: Pomalidomide|Drug: Dexamethasone|Drug: Venetoclax
-Drug: Prazosin|Drug: Placebo
-Drug: Butylphthalide|Drug: Butylphthalide Placebo
-Drug: Brexpiprazole|Drug: Placebo|Drug: Citalopram Hydrobromide|Drug: Escitalopram|Drug: Fluoxetine|Drug: Paroxetine|Drug: Sertraline|Drug: Duloxetine|Drug: Venlafaxine Extended Release Oral Capsule
-Drug: Entinostat|Drug: Placebo|Drug: Exemestane
-Drug: Lactated Ringer's|Drug: Normosol
-Drug: TEZ|Drug: IVA
-Drug: Clonidine|Other: Morphine
-Drug: Lidocaine Jet Injector|Drug: Placebos
-Drug: Indomethacin|Drug: Acetaminophen
-Drug: Bimekizumab|Drug: Secukinumab|Other: Placebo
-Drug: Vitamin D 3
-Drug: D-cycloserine|Drug: Placebo
-Drug: Muscadine Plus|Drug: Placebos
-Drug: Recombinant Human Growth Hormone Injection (rhGH)
-Drug: Sarilumab
-Drug: Bismuth subsalicylate|Drug: Placebo Oral Tablet
-Drug: Mirikizumab|Drug: Placebo|Drug: Secukinumab
-Drug: Carboplatin|Drug: Paclitaxel|Drug: Cisplatin|Radiation: Radiotherapy
-Drug: Olaparib 300mg tablets
-Drug: Indomethacin 100Mg Suppository|Procedure: IVF/ICSI
-Drug: DEP-Ru
-Drug: LY01008|Drug: Bevacizumab
-Drug: JZP-258|Drug: Placebo Oral Tablet
-Drug: Podofilox Gel 0.5%|Drug: Condylox Topical Gel 0.5%|Drug: Placebo Gel
-Drug: Casimersen|Drug: Golodirsen
-Drug: Fermented Soy|Other: Placebo
-Drug: Chronocort®|Drug: Standard Care
-Drug: AJM300|Drug: Placebo
-Drug: APL-2
-Drug: Dexmedetomidine Hydrochloride
-Drug: FX006 32 mg
-Drug: Methylprednisolone
-Drug: CNG Chemotherapy|Drug: NCCN Chemotherapy|Radiation: CNG Radiation|Radiation: NCCN Radiation
-Drug: INSULIN GLARGINE/LIXISENATIDE (HOE901/AVE0010)|Drug: INSULIN GLARGINE (HOE901)|Drug: Metformin|Drug: Insulin Glulisine (HMR1964)
-Drug: Trastuzumab deruxtecan (DS-8201a)|Drug: Ado-trastuzumab emtansine (T-DM1)
-Drug: Sodium Zirconium Cyclosilicate 5g|Drug: Sodium Zirconium Cyclosilicate 10g|Drug: Placebo
-Drug: Zero-dose|Drug: 90 mcg of PROAIR® HFA|Drug: 180 mcg of 90 mcg of PROAIR® HFA|Drug: 90 mcg of albuterol sulfate inhalation aerosol
-Drug: Turoctocog alfa pegol
-Drug: SJP-0035 0.001%|Drug: Placebo
-Drug: Cipros 10 association|Drug: Crestor 10 mg
-Drug: Lidocaine 4% Topical Application Cream [LMX 4]|Drug: Lidocaine Hydrochloride 2 mg/mL Injectable Solution|Drug: Normal Saline
-Drug: Tralokinumab|Drug: Placebos
-Drug: Ketamine Hydrochloride
-Drug: APL-2|Other: Sham Procedure
-Drug: VX-445|Drug: TEZ|Drug: IVA
-Drug: VX-445|Drug: TEZ|Drug: IVA|Drug: TEZ/IVA
-Drug: VX-445|Drug: TEZ|Drug: IVA|Drug: Matched Placebos
-Drug: Dexmedetomidine
-Drug: Mirikizumab|Drug: Placebo
-Drug: 3M DuraPrep|Drug: ChloraPrep
-Drug: Ocrelizumab
-Drug: Venglustat GZ/SAR402671|Drug: Placebo
-Drug: Trastuzumab deruxtecan|Drug: Capecitabine|Drug: Lapatinib|Drug: Trastuzumab
-Drug: Apalutamide|Drug: ADT (Standard of Care)
-Drug: Ferric carboxymaltose|Drug: Ferrous Sulfate
-Drug: Napabucasin|Drug: Fluorouracil|Drug: Leucovorin|Drug: Irinotecan
-Drug: Clindamycin 1% Gel|Drug: Placebo
+Drug: cabozantinib
+Drug: Arbekacin Sulfate
+Drug: afatinib
+Drug: Paromomycin
+Drug: Pomalidomide
+Drug: MDV3100
+Drug: ponatinib
+Drug: Diclofenac
+Drug: Macugen (Pegaptanib Sodium)
+Drug: migalastat HCl
+Drug: TMC207
+Drug: triheptanoin
+Drug: uridine triacetate
+Drug: Carfilzomib
+Drug: VX-770
+Drug: 131 I-Metaiodobenzylguanidine (131 I-MIBG)
+Drug: Metaiodobenzylguanidine (MIBG)
+Drug: Bortezomib/Dexamethasone/Melphalan
+Drug: Eribulin Mesylate
+Drug: Voclosporin
+Drug: Abiraterone Acetate|Drug: Prednisone\Prednisolone
+Drug: docetaxel oxaliplatin
+Drug: Paclitaxel Cisplatin
+Drug: BIBW 2992
+Drug: CTH Chronic Hepatitis B
+Drug: brentuximab vedotin
+Drug: 131 I-Metaiodobenzylguanidine (131 I-MIBG)|Drug: 131 I-MIBG
+Drug: vismodegib (GDC-0449)
+Drug: SCB01A
+Drug: 3,4 diaminopyridine
+Drug: Aztreonam lysine
+Drug: Rosuvastatin,SFC fenofibrate
+Drug: velaglucerase alfa
+Drug: rosuvastatin,fenofibrate|Genetic: CYP2C9, UGT1A1, UGT1A3, OATP2, BCRP
+Drug: Tipranavir
+Drug: Oxcarbazepine Extended Release
+Drug: Nilotinib
+Drug: droxidopa
+Drug: Dasatinib and Imatinib
+Drug: OFF in experimental arm
+Drug: Miralax
+Drug: Iobenguane I 123 Injection
+Drug: Belatacept
+Drug: 3, 4 DAP
+Drug: tetrabenazine
+Drug: sodium stibogluconate (Pentostam)
+Drug: Aztreonam Lysine for Inhalation
+Drug: Sapropterin dihydrochloride
+Drug: Voraxaze (glucarpidase)
+Drug: Dasatinib
+Drug: eculizumab
+Drug: raltegravir
+Drug: VariZIG™
+Drug: lapatinib + capecitabine
+Drug: deferiprone
+Drug: AMD3100 + G-CSF
+Drug: TMC-114
+Drug: Mepolizumab
+Drug: Sutent
+Drug: Tipranavir|Drug: Ritonavir
+Drug: Adefovir Dipivoxil
+Drug: Pemetrexed|Drug: Cisplatin

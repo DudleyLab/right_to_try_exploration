@@ -1,0 +1,5642 @@
+Drug: Escitalopram 10mg
+Drug: insulin glargine (U300)
+Drug: Clotrimazole + Gentamicin
+Drug: Megestrol
+Drug: Routine medical care (active comparator)
+Drug: Dupilumab (SAR231893/REGN668)
+Drug: Clarithromycin 200 mg bid
+Drug: Etoposide (VP-16)
+Drug: Mosapride citrate
+Drug: FF/UMEC/VI 100/62.5/25 mcg
+Drug: Placebo powder
+Drug: TDF Placebo
+Drug: triple combination therapy
+Drug: Empagliflozin and Linagliptin
+Drug: Atezolizumab (MPDL3280A), an engineered anti-programmed death-ligand 1 (anti-PD-L1) antibody
+Drug: Octagam 10%
+Drug: R-IDARAM plus intrathecal chemotherapy
+Drug: Cediranib Maleate
+Drug: ATM-AVI
+Drug: Curcumin
+Drug: Goserelin acetate
+Drug: Placebo Acetylsalicylic acid
+Drug: Multimodal Oral Scheme
+Drug: Late Cabergoline 0.5mg
+Drug: Esomeprazole 40 mg Oral Tablet
+Drug: VB-111 + Paclitaxel
+Drug: Use Phase (Ulipristal Acetate, 30 mg)
+Drug: Placebo Oral Solution
+Drug: Nebulized Placebo
+Drug: Arm A (Fortecortin®-ETOPOPHOS®-IFO-cell®-CARBO-cell®)
+Drug: Misoprostol 400 sublingual
+Drug: Panitumumab
+Drug: VX-661
+Drug: I123
+Drug: Cisplatin-gemcitabine
+Drug: Sodium chloride 0.9%
+Drug: tramadol
+Drug: lapatinib
+Drug: SOF
+Drug: Apremilast tablet 20 mg
+Drug: 80 mg ixekizumab Dosing Regimen
+Drug: Cabergoline
+Drug: IV dexamethasone
+Drug: Standard dose
+Drug: GSP 301 Placebo NS
+Drug: 3-mixtatin
+Drug: Netarsudil
+Drug: Morphine Sulfate
+Drug: Lactated Ringer
+Drug: folinic acid
+Drug: FE 999049
+Drug: Platelet-Rich Plasma
+Drug: Abatacept subcutaneous
+Drug: Brimonidine Tartrate Ophthalmic Suspension
+Drug: Norgestrel 0.075 mg tablets
+Drug: Metformin/Atorvastatin 1500mg/40mg, QD
+Drug: Low-Dose Hormonal Add-Back
+Drug: ivacaftor
+Drug: Standard Adjuvant Endocrine Therapy
+Drug: PD
+Drug: JNJ-54861911
+Drug: Teduglutide
+Drug: Fludarabine
+Drug: Cholecalciferol
+Drug: BIBW 2992
+Drug: azacitidine
+Drug: Exenatide
+Drug: Magnesium Sulphate
+Drug: Chirocaine ketorolac epinephrine
+Drug: Pegylated-Proline-interferon alpha-2b
+Drug: Placebo with Azacitidine
+Drug: EC20
+Drug: lapatinib (GW572016) oral tablets
+Drug: SOV2012-F1
+Drug: Evolocumab
+Drug: injection bevacizumab
+Drug: Bendamustine IV
+Drug: Adjuvant chemotherapy
+Drug: docetaxel and capecitabine
+Drug: 0.3 mg intravitreal ranibizumab
+Drug: Afatinib Dimaleate
+Drug: Clofarabine, Methotrexate, Mercaptopurine, Dexamethasone, Etoposide, Dasatinib
+Drug: Bisoprolol
+Drug: Olanzapine
+Drug: Placebo for ABT-414
+Drug: Ringer's Acetate
+Drug: TAF based regimen (TBR)
+Drug: Dimethyl Fumarate
+Drug: Canagliflozin 300 mg
+Drug: vinorelbine plus cisplatin
+Drug: Reversion
+Drug: Flutemetamol (Vizamyl)
+Drug: 12 weeks (Sofosbuvir 400mg/Ledipasvir 90mg)
+Drug: Atorvastatin 10mg
+Drug: NETILDEX™ ophthalmic gel
+Drug: A4250
+Drug: Liraglutide (Saxenda) 6Mg/Ml Inj Pen 3Ml
+Drug: Dapsone (Disulone®)
+Drug: Placebo for arbaclofen ER tablets
+Drug: Daromun
+Drug: Pregabalin & Placebo
+Drug: Elamipretide
+Drug: Sitafloxacin
+Drug: Palbociclib + Letrozole or Fulvestrant
+Drug: Nelarabine
+Drug: B/F/TAF
+Drug: Donepezil 5 mg
+Drug: Alectinib
+Drug: Beraprost Sodium 314d Modified Release Tablets
+Drug: ADX-102 1% Topical Dermal Cream
+Drug: Zoplicone
+Drug: IVM
+Drug: Placebo -AP-CD/LD
+Drug: mFOLFOX6
+Drug: Day 1: Cisplatin 75 mg/m2
+Drug: QMF149 150/80 µg
+Drug: Unique Pharmaceutical Laboratories, India
+Drug: eltrombopag
+Drug: Cabotegravir - Injectable Suspension (CAB LA)
+Drug: Nilotinib
+Drug: Daclatasvir and sofosbuvir
+Drug: Neoadjuvant therapy
+Drug: Actovegin
+Drug: T
+Drug: Paritaprevir/ritonavir/ombitasvir
+Drug: Treosulfan
+Drug: Harvoni
+Drug: Amlodipine
+Drug: Dexmedetomidine 0.35µg/kg /h
+Drug: ABP 798
+Drug: GSK1358820
+Drug: oral sodium bicarbonate
+Drug: Rebif (interferon beta 1a)
+Drug: ZL-2306(nirapairb)
+Drug: AZLI
+Drug: 0.2-0.7 mcg/kg/h dexmedetomedine infusion.
+Drug: Pregabalin Dose Level 2
+Drug: NaCl (Control)
+Drug: Chlorhexidine
+Drug: Dapaconazole
+Drug: Muscadine Plus
+Drug: Conventional Consolidation Chemotherapy
+Drug: Thyroid blocking
+Drug: Tranexamic acid
+Drug: Ubrogepant
+Drug: Butylphthalide
+Drug: Arm B: FOLFIRI or FOLFOX
+Drug: Intravenous Immunoglobulins
+Drug: Metformin and Insulin sc
+Drug: SD-809
+Drug: Atezolizumab Placebo
+Drug: Esketamine
+Drug: Chemotherapy + Valproate
+Drug: Daunorubicin (DNR)
+Drug: Pevonedistat
+Drug: SOF/VEL for 6 weeks
+Drug: ALKS 5461
+Drug: Pregabalin Release Tablets
+Drug: Eulexin
+Drug: Clindamycin
+Drug: Placebo of DWJ1252
+Drug: Lorazepam
+Drug: pharmorubicin
+Drug: pazopanib
+Drug: Oral Placebo Ornidazole
+Drug: Filgastrim
+Drug: Postoperative chemotherapy with mFOLFOX6 or CAPOX regimens
+Drug: Injection, botulinum toxin + corticoid
+Drug: Rilpivirine Injectable Suspension
+Drug: F/TAF
+Drug: Non-insulin antihyperglycemic drugs
+Drug: Astragalus Powder
+Drug: zoledronic acid
+Drug: DFN-15 Active
+Drug: Danoprevir
+Drug: Insulin glargine (U300)
+Drug: Gemtuzumab Ozogamicin (Mylotarg)
+Drug: heparin
+Drug: OTM Dexmedetomidine 1µg/ kg.
+Drug: Bimekizumab
+Drug: Endocervical Lidocaine spray
+Drug: Caroverin
+Drug: Paclitaxel injection
+Drug: Tenofovir disoproxil
+Drug: Jinshuibao Capsule
+Drug: Ethiodized Oil + Doxorubicin
+Drug: Pregabalin & Magnesium sulphate
+Drug: DWJ1252
+Drug: regorafenib
+Drug: Autologous Serum 50%
+Drug: Risperidone ISM 75 mg
+Drug: HD201
+Drug: Capsaicin patch
+Drug: ADS-5102
+Drug: Cisplatin (DDP)
+Drug: Arm F: FOLFIRI or FOLFOX plus BEVACIZUMAB and CETUXIMAB
+Drug: Decitabine plus Modified BUCY
+Drug: CNP520 50mg
+Drug: Propofol
+Drug: 133 Xe scintigraphy
+Drug: 6 mg GSK1278863 tablet
+Drug: Nicotine Patch
+Drug: Amoxicillin-Clavulanate
+Drug: gefitinib
+Drug: lenalidomide
+Drug: Spironolactone 25mg
+Drug: PD-1 antibody
+Drug: Squalamine lactate ophthalmic solution, 0.2%
+Drug: 23.4% Hypertonic saline
+Drug: MEDA
+Drug: NOVOCART® Inject plus
+Drug: Guselkumab Dose 5
+Drug: Oseltamivir
+Drug: CR845
+Drug: Colchicine opocalcium 1mg
+Drug: caspofungin acetate
+Drug: Morphine 10mg
+Drug: Insulin (glargine)
+Drug: Realgar-Indigo naturalis formula
+Drug: Calcium Hydroxide, Iodoform, paste
+Drug: CRYR + TRF
+Drug: Vehicle topical ocular, eye drops
+Drug: Ginkgo biloba dispersible tablets and Donepezil
+Drug: SID142
+Drug: Clopidogrel or Aspirin and/or Dypyridamole
+Drug: sorafenib tosylate
+Drug: Vandetanib (SAR390530)
+Drug: Daprodustat large
+Drug: interferon-alpha (IFN-alpha)
+Drug: cyclosporin A
+Drug: Icotinib®
+Drug: Doxorubicin (DOX)
+Drug: Cyproterone acetate 50 mg; estradiol 0.5% percutaneous
+Drug: QPI-1007 Injection - 1.5 mg
+Drug: Symbicort® Turbohaler® Inhalation Powder
+Drug: Vinblastine/prednisone
+Drug: Cisplatin 75mg/m2
+Drug: Neulasta
+Drug: Steroid active
+Drug: Vitamin D alone
+Drug: Long term androgen deprivation
+Drug: Early Vasopressors
+Drug: Eziclen®/Izinova®
+Drug: KL-140
+Drug: Octanorm 16.5%
+Drug: Rivipansel
+Drug: Lurasidone HCl
+Drug: Secukinumab 300 mg s.c.
+Drug: Lamotrigine
+Drug: Vortioxetine
+Drug: Steroid + cyclophosphamide
+Drug: Paclitaxel
+Drug: Cyclosporine
+Drug: AMPHORA
+Drug: CCX168
+Drug: Dexmedetomidine sedation
+Drug: BFF MDI 320/9.6 µg
+Drug: Gabapentinoids
+Drug: Placebo to match valsartan
+Drug: Mometasone spray nasal
+Drug: Morphine sulphate
+Drug: Enzastaurin Hydrochloride
+Drug: Placebo for Atorvastatin 40mg
+Drug: CPI 613, mFolfirinox
+Drug: cephalexin, or levofloxacin, or clindamycin
+Drug: AJM300
+Drug: Grazoprevir/Elbasvir 100mg/50mg
+Drug: GROUP 2: Short testosterone
+Drug: Aflibercept (Eylea, VEGF Trap-Eye, BAY86-5321)
+Drug: Placebo (for adalimumab)
+Drug: S-1 plus Cisplatin
+Drug: docetaxel, nedaplatin, and fluorouracil
+Drug: EMS Fluticasone 2
+Drug: Adjuvant chemotherapy using PF (5-Fluorouracil )
+Drug: Orteronel
+Drug: LV5FU2
+Drug: ponatinib 30 mg QD
+Drug: 15 mg E4/3 mg DRSP
+Drug: no therapy
+Drug: Fosphenytoin
+Drug: EMS Fluticasone 1
+Drug: Placebo IV
+Drug: cytarabine
+Drug: DE-109
+Drug: Desmopressin
+Drug: YH14755
+Drug: Morphine prolonged release
+Drug: Ribavirin (RBV)
+Drug: Routine Treatment of CD
+Drug: Tamsulosin 0.2mg + Solifenacin 5mg
+Drug: Antithyroid Drug
+Drug: combined contraceptive pills (microcept)
+Drug: E/C/F/TDF Placebo
+Drug: Varenicline Placebo
+Drug: DTG Placebo
+Drug: Nasotestt 5 mg
+Drug: Hydrea
+Drug: Experimental drug: Dexamethasone
+Drug: Sirolimus
+Drug: Radiosynoviorthesis
+Drug: Echinaforce
+Drug: MOB015B
+Drug: Brexpiprazole
+Drug: slow release morphine
+Drug: Fluvastatin
+Drug: tissue plasminogen activator
+Drug: Etrolizumab
+Drug: Fosfomycin Oral Suspension
+Drug: R-DA-EPOCH
+Drug: Genotropin®
+Drug: Peri-operative chemotherapy
+Drug: Capecitabine(Aibin)
+Drug: Experimental drug: Olanzapine
+Drug: Arsenic Trioxide
+Drug: Dichloroacetate (DCA)
+Drug: meropenem or imipenem
+Drug: 6L PegLyte + 15 mg bisacodyl
+Drug: netupitant/palonosetron
+Drug: 13C-Methacetin
+Drug: Gemcitabine/Cisplatin /S-1
+Drug: Placebo tablets
+Drug: Ginkgo biloba dispersible tablets
+Drug: cellcept
+Drug: Acthar Injectable Product
+Drug: Cetuximab + FOLFIRI
+Drug: GLP-1 receptor agonist (liraglutide)
+Drug: dexrazoxane hydrochloride
+Drug: H
+Drug: Traumeel S: intra-operative irrigation + oral ingestion
+Drug: toremifene or tamoxifen
+Drug: aspirin intake
+Drug: Placebo Erlotinib 150/100mg
+Drug: Maekmoondong-tang
+Drug: Standard oral preparation (2L of PEG+Asc, "Coolprep®")
+Drug: Sofosbuvir and Daklatasuvir
+Drug: Tildrakizumab 200 mg
+Drug: Placebo Oral Tablet with calcium and clomiphene citrate
+Drug: Lansoprazole Placebo
+Drug: levo-folinic acid
+Drug: Amiodarone Hydrochloride
+Drug: adalimumab
+Drug: MOD-4023
+Drug: DE-117
+Drug: Ropivacaine and Dexamethasone
+Drug: ALKS 8700
+Drug: Tremelimumab (Regimen 1)
+Drug: ZX008 - 20 mg/day maximum dose
+Drug: Endocrine therapy combined with trastuzumab
+Drug: PRT-201
+Drug: Placebo for CAB LA
+Drug: Ketotifen
+Drug: Elbasvir/Grazoprevir Fixed Dose Combination
+Drug: OCP + Placebo
+Drug: gemcitabine and cisplatin (Induction and adjuvant chemotherapy)
+Drug: Vaginal progesterone
+Drug: TGF
+Drug: Placebo Control
+Drug: TJP-008-2
+Drug: HL151
+Drug: Profilaxis recommended
+Drug: Metformin = 1000 mg
+Drug: Sodium Butyrate
+Drug: Crestor 20 mg
+Drug: Dinoprostone
+Drug: OLAPARIB
+Drug: 18F-Flutemetamol PET/MRI
+Drug: Dexmedetomidine Injection
+Drug: FS MDPI
+Drug: Placebo to match idelalisib
+Drug: Obeticholic acid (10 mg)
+Drug: Syntocinon
+Drug: osilodrostat
+Drug: EPREX
+Drug: Placebo Linezolid
+Drug: Remodulin
+Drug: Exparel Injectable Product
+Drug: Arterolane-piperaquine
+Drug: Brimonidine Tartrate Ophthalmic Solution
+Drug: Aspirin Placebo
+Drug: Sodium Lactate high dose
+Drug: Testosterone
+Drug: Fasinumab PFS
+Drug: Platelet rich plasma
+Drug: Nilotinib (Tasigna ®) and Pegylated interferon alfa 2a (Pegasys®)
+Drug: Ado-trastuzumab emtansine (T-DM1)
+Drug: Acetylicsalicylic acid
+Drug: 0.5% Ropivacaine
+Drug: Ceftriaxone
+Drug: Cisplatin/Carboplatin
+Drug: Misoprostol 200mcg
+Drug: Sodium Zirconium Cyclosilicate (ZS)
+Drug: Placebo capsule of Omeprazole
+Drug: SP-102
+Drug: Amantadine
+Drug: Self-adhesive resin
+Drug: Phylloquinone
+Drug: Atorvastatin
+Drug: Investigator Choice (IC) Chemotherapy
+Drug: Oxycodone, 0.02 mg/kg dose
+Drug: lanreotide
+Drug: methylprednisolone
+Drug: Rivaroxaban, 10 mg
+Drug: FEC-T+Pertuzumab
+Drug: imiquimod
+Drug: Epigallocatechin-Gallate
+Drug: daunorubicin hydrochloride
+Drug: FAI Insert
+Drug: Bivalirudin
+Drug: Gabapentin
+Drug: dofetilide
+Drug: Metronidazole 250 mg bid
+Drug: Desflurane
+Drug: FOLFIRI/FOLFOX/CapeOX
+Drug: Tranexamic Acid (Cyklokapron)
+Drug: Ca plus vit D
+Drug: D/C/F/TAF
+Drug: CNP520 15mg
+Drug: Dulaglutide
+Drug: 2.5 mg Chlorhexidine gluconate chip
+Drug: VSL#3
+Drug: Flucytosine
+Drug: KW-0761 0.3 mg/kg IV
+Drug: SR-B + Epratuzumab
+Drug: Riboflavin/Dextran
+Drug: Tretinoin
+Drug: Prednisolone Acetate Ophthalmic (1%)
+Drug: Avelumab (MSB0010718C)
+Drug: Ketamine , Lidocaine , Dexmedetomidine
+Drug: NPO-11
+Drug: lasmiditan 100 mg
+Drug: Ixazomib
+Drug: M207 Microneedle System
+Drug: Botulinum toxin type A
+Drug: Cyclophosphamide, Prednisone, Lenalidomide
+Drug: Ledipasvir
+Drug: Elbasvir 50 MG / Grazoprevir 100 MG Oral Tablet [Zepatier]
+Drug: Sugar pill
+Drug: Paliperidone ER
+Drug: Treatment of MTX
+Drug: ropivacaine
+Drug: Propamidine 0.1%
+Drug: Ce 1 ng/ml
+Drug: g-csf
+Drug: Paracel 1
+Drug: Antibiotic therapy
+Drug: RVL-1201
+Drug: Letermovir
+Drug: Bendamustine infusion (Arm B)
+Drug: erlotinib HCl
+Drug: Elenbecestat (E2609)
+Drug: SOF/VEL for 12 weeks
+Drug: YangYinFang
+Drug: Olokizumab q2w
+Drug: Chidamide
+Drug: TCM plus conventional drug
+Drug: Tylenol
+Drug: Romidepsin + CHOP
+Drug: Methocarbamol
+Drug: Viread®
+Drug: Melatonin 4 mg Tablet
+Drug: Additional doses of Rituximab
+Drug: Diclofenac sodium gel 1%
+Drug: Mannitol
+Drug: Temozolomide + Valproic Acid
+Drug: Macitentan
+Drug: In open-label phase: treatment with tofacitinib
+Drug: Statin
+Drug: Adriamycin
+Drug: AZD9291
+Drug: Hydrocortisone, sodium succinate
+Drug: Placebos iron isomaltoside 1000
+Drug: Etodolac
+Drug: N-acetyl cysteine
+Drug: Pegylated Liposomal Doxorubicin
+Drug: GB-0998
+Drug: Triamcinolone Acetonide
+Drug: goserelin
+Drug: BIIB093
+Drug: DTG 50 mg
+Drug: Olokizumab q4w
+Drug: Ixazomib, thalidomide, & dexamethasone (ITD) re-induction
+Drug: Aripiprazole
+Drug: BGB-290 capsule
+Drug: Budesonide Nasal Spray
+Drug: arbutin, tretinoin, triamcinolone
+Drug: Vedolizumab SC 108 mg
+Drug: Sennosides colonic preparation
+Drug: LY2951742
+Drug: Corticosteroid (prednisolone)
+Drug: JinFuKang
+Drug: Anastrozole or Letrozole or Exemestane
+Drug: Itraconazole
+Drug: Placebo oral capsules
+Drug: Doxorubicin-Eluting Beads
+Drug: BCX7353 capsules
+Drug: Tegafur-gimeracil-oteracil potassium
+Drug: Ganetespib
+Drug: Omega-3 fatty acids
+Drug: Inhaled Nitric Oxide 75 mcg/kg IBW/hr
+Drug: Amoxicillin
+Drug: Group 1 Natamycin 5% Suspension + voriconazole 1% eye drops; Group 2 Natamycin 5% Suspension + Vehicle eye drops
+Drug: Lilly glucagon
+Drug: Dupilumab
+Drug: 800 mg QD Eslicarbazepine acetate
+Drug: Urapidil
+Drug: prednisone
+Drug: Tadekinig alfa
+Drug: Placebo0921
+Drug: Pegylated Recombinant L-Asparaginase Erwinia Chrysanthemi
+Drug: BMN 111
+Drug: DSP-5423P Placebo
+Drug: FAC
+Drug: Monthly bolus of cholecalciferol per os
+Drug: Naproxen
+Drug: Moisview
+Drug: Pegvisomant
+Drug: Propofol+ Rocuronium+ Fentanyl + Inhalational
+Drug: SUN-131 1.5% TDS
+Drug: GZ402666
+Drug: 5-FU/Cisplatin
+Drug: Cosyntropin
+Drug: avelumab
+Drug: ibrutinib
+Drug: Gefitinib
+Drug: CP-690,550 (tofacitinib)
+Drug: N1539
+Drug: Topiramate with brief behavioral enhancement therapy
+Drug: CB-03-01 cream, 1%
+Drug: Cariprazine
+Drug: herbal patch
+Drug: veliflapon (DG-031)
+Drug: fluconazole
+Drug: Biperiden Lactate
+Drug: Vitamin D 3
+Drug: Octaplex
+Drug: actinomycin D
+Drug: Rapastinel
+Drug: Teriflunomide orally
+Drug: BMN165 20mg/day
+Drug: Acetyl Salicylic acid
+Drug: 5-fluorouracil/oxaliplatin
+Drug: 7-day course of antibiotics
+Drug: Vehicle opthalmic solution
+Drug: Azithromycin 250 mg
+Drug: Bupropion XL
+Drug: High dose DFD07 twice daily
+Drug: vibegron
+Drug: Abraxane (Induction)
+Drug: Tedizolid phosphate IV
+Drug: Naltrexone (oral)
+Drug: Tegafur,gimeracil and oteracil potassium
+Drug: Ropivacaine and Dexmedetomidine
+Drug: glimepiride
+Drug: Naltrexone (depot)
+Drug: Omegaven®
+Drug: ABC/DTG/3TC STR - Tablet
+Drug: Albendazole
+Drug: Day 1: Vinorelbine 25 mg/m2
+Drug: Rituximab, Methotrexate, Temozolomide
+Drug: Intermediate-dose cytarabine (IDAC)
+Drug: intravenous lipid
+Drug: 180 mcg Reference Product
+Drug: metformin hydrochloride
+Drug: Axitinib (AG-013736)
+Drug: Olokizumab 64 mg SC q2w
+Drug: enoxaparin
+Drug: ISMN XL and Cilostazol
+Drug: Dimethyl fumarate
+Drug: Ritonavir
+Drug: Carboplatin (Induction)
+Drug: GBT440
+Drug: Rilpivirine Tablets
+Drug: Recombinant staphylokinase
+Drug: leuprolide acetate
+Drug: Daunorubicin Hydrochloride
+Drug: Roxadustat
+Drug: Nano silver fluoride solution
+Drug: Oral Insulin
+Drug: human chorionic gonadotrophin
+Drug: Placebo-matching Rapastinel
+Drug: Paliperidone Palmitate Injection (PP3M)
+Drug: Dexmedetomidine
+Drug: Nab-Paclitaxel
+Drug: Secukinumab 2 mL form
+Drug: Docetaxel and capecitabine and oxaliplatin
+Drug: 5 mg Serlopitant Tablets
+Drug: sotolol
+Drug: DTG Tablet
+Drug: docetaxel, cisplatin, and fluorouracil
+Drug: Placebo - Everolimus
+Drug: Dexamethasone (Oral)
+Drug: A arm (DA-90)
+Drug: Parecoxib
+Drug: Tobramycin nebulized nasally
+Drug: pomalidomide
+Drug: Dacogen
+Drug: microcrystalline cellulose
+Drug: Placebos tranexamic acid
+Drug: Motireb 5/100 mg
+Drug: rigosertib sodium
+Drug: Leuprolide
+Drug: Crocin
+Drug: arimoclomol
+Drug: Tadalafil 20 MG
+Drug: Varicella Vaccine
+Drug: FEC Chemotherapy
+Drug: Arm D: FOLFIRI or FOLFOX plus CETUXIMAB
+Drug: Levodopa
+Drug: Cabazitaxel (XRP6258)
+Drug: Placebo - ascorbic acid
+Drug: Neostigmine
+Drug: gemcitabine hydrochloride
+Drug: HLX01
+Drug: Sayana® Press
+Drug: Iomab-B
+Drug: chidamide
+Drug: Gemcitabine Hydrochloride
+Drug: dabigatran etexilate
+Drug: Phosphocreatine sodium tetrahydrate added to cardioplegia
+Drug: CMAB009
+Drug: hydrocortison hemisuccinate
+Drug: oxaliplatin;s1
+Drug: Pralatrexate
+Drug: Reslizumab
+Drug: Placebo (0.9% saline)
+Drug: 5 mg prednisone
+Drug: TETA 4HCL
+Drug: Veliparib
+Drug: Leuprolide Acetate
+Drug: Clonidine
+Drug: PF-04965842 100 mg
+Drug: Calcium Dobesilate
+Drug: Lanreotide
+Drug: Short DAPT
+Drug: bRESCAP
+Drug: carboplatin
+Drug: ascorbic acid
+Drug: CHF 1535 200/6 µg
+Drug: Inhaled Nitric Oxide
+Drug: celecoxib
+Drug: SAR153191 (REGN88)
+Drug: DT group
+Drug: Dasotraline
+Drug: 4L PegLyte + 15 mg bisacodyl
+Drug: Granulocyte Colony-Stimulating Factor (G-CSF)
+Drug: MEDI4736 (durvaluman) in combination with tremelimumab (anti-CTLA4)
+Drug: Elagolix + Estradiol/Norethindrone Acetate
+Drug: Nebulized combination ipratropium bromide with salbutamol
+Drug: Irinotecan Hydrochloride
+Drug: optimised rituximab-schedule
+Drug: Chlorhexidine gluconate at 2%
+Drug: Amsacrine
+Drug: Apatinib
+Drug: Levoketoconazole
+Drug: Fucicort® Lipid cream
+Drug: Meropenem
+Drug: Cabazitaxel
+Drug: Antimicrobial therapy: Co-trimoxazole or Doxycycline
+Drug: levemir insulin
+Drug: AB103 0.5 mg/kg
+Drug: Enbrel (etanercept)
+Drug: Cal/BDP combination
+Drug: Matching Placebo (Gantenerumab)
+Drug: Bupropion
+Drug: Vindesine
+Drug: CNTO 1959 50 mg
+Drug: Ticagrelor, Prasugrel, Clopidogrel
+Drug: ABC/3TC Placebo
+Drug: Ozanimod
+Drug: EG-1962 (nimodipine microparticles)
+Drug: ORADUR® First, then Placebo
+Drug: Rivaroxaban 10 mg qd
+Drug: Pure chemotherapy(Xelox)
+Drug: crizotinib
+Drug: Dexamethasone,Vincristine, Pegylated-asparaginase, Cytarabine, Cyclophosphamide, Doxorubicin, 6-mercaptopurine
+Drug: paracetamol + ibuprofen
+Drug: MabCampath-1h
+Drug: Givosiran
+Drug: Neonatal Morphine Solution
+Drug: dypirone
+Drug: Glucocorticoids
+Drug: Placebo cream
+Drug: LoDAC (Low Dose Cytarabine)
+Drug: Lucentis® (Raibizumab) double-dose
+Drug: Modafinil
+Drug: Cetuximab
+Drug: recombinant Factor VIIa and FEIBA
+Drug: Mona Lisa® NT Cu380 Mini
+Drug: LT-02
+Drug: Active Control (Diphenhydramine)
+Drug: Doxazosin
+Drug: Mirabegron
+Drug: Folinic Acid
+Drug: Miltefosine plus GM-CSF
+Drug: Sogyeonghwalhyeol-tang granule
+Drug: 18F-choline PET-MR imaging
+Drug: dual therapy
+Drug: Rifampin and Isoniazid daily for 12 weeks
+Drug: OCP + Metformin
+Drug: Acetylsalicylic acid lysinate 300 mg
+Drug: glutamate infusion
+Drug: citicoline
+Drug: IPP-201101
+Drug: abnobaVISCUM 900
+Drug: Ketorolac, intranasal
+Drug: ZX008 - 0.2 mg/kg/day
+Drug: Acyclovir
+Drug: D/C/F/TAF FDC - Matching Placebo
+Drug: Pirfenidone
+Drug: Sargramostim: Leukine (Genzyme USA)
+Drug: Ad5.hAC6
+Drug: Ticagrelor plus ASA
+Drug: BI 655130
+Drug: ARRY-371797
+Drug: Risperidone
+Drug: NaCl
+Drug: Cisplatin 2
+Drug: Nicotine and THC
+Drug: Pegfilgrastim
+Drug: gefitinib, pemetrexed,cisplatin
+Drug: Phenazopyridine
+Drug: Campath, Fludarabine, Cyclophosphamide
+Drug: Folfirinox
+Drug: Omeprazole
+Drug: Ribavirin 200Mg Tablet
+Drug: Procarbazine
+Drug: Sotalol (dual therapy)
+Drug: Epiduo Topical Product
+Drug: Brentuximab Vedotin
+Drug: Ulipristal Acetate
+Drug: Darbepoetin Alfa
+Drug: sham injection
+Drug: Intranasal Oxytocin
+Drug: Iron Isomaltoside 1000
+Drug: IV N-acetylcysteine (NAC)
+Drug: SR-A + Epratuzumab
+Drug: Adjuvant therapy
+Drug: Ertugliflozin
+Drug: Methylprednisolone
+Drug: Fimasartan 120mg
+Drug: Placebo Oral Capsule
+Drug: [68Ga]-DOTANOC PET/CT
+Drug: Succinylcholine
+Drug: subcutaneous progesterone
+Drug: CJ 0.9% Normal Saline Injection
+Drug: low molecular weight heparin
+Drug: ID cytarabine
+Drug: PLX-PAD
+Drug: Methotrexate, 6-mercaptopurine
+Drug: Fingolimod oral capsules
+Drug: Ascorbic Acid
+Drug: Aromatase Inhibitor
+Drug: Phentermine-Topiramate
+Drug: Leucovorin
+Drug: PREOB® Implantation
+Drug: Commercial naproxen sodium liquid gels capsule
+Drug: Androgen deprivation therapy
+Drug: bismuth quadruple therapy for 10 days (BQ)
+Drug: Casimersen
+Drug: Misoprostol
+Drug: Human derived Transfer factor
+Drug: Nitroglycerin I
+Drug: Amoxicillin-clavulanate
+Drug: Capecitabine/oxaliplatin
+Drug: C1-esterase inhibitor
+Drug: Retosiban
+Drug: Streptomycin intramuscular injection
+Drug: Chemotherapy, gemcitabine
+Drug: Brolucizumab
+Drug: Melatonin
+Drug: pegylated G-CSF
+Drug: DOXIL
+Drug: apatinib;etoposide and cisplatin
+Drug: 6-mercaptopurine.
+Drug: Combigan® and Azopt® concomitantly
+Drug: PCV chemotherapy alone
+Drug: Hyaluronic Acid
+Drug: metadoxine
+Drug: lidocaine gel
+Drug: Paliperidone Palmitate Injection (PP1M)
+Drug: Teriflunomide HMR1726
+Drug: Placebo for rovalpituzumab tesirine
+Drug: Berberine hydrochloride
+Drug: Avatrombopag 60 mg
+Drug: NewGam
+Drug: Beta-Lactam
+Drug: cabergoline
+Drug: Omegaven
+Drug: Sunitinib
+Drug: Standard triple therapy
+Drug: Sham injection
+Drug: Irinotecan
+Drug: Mycophenolate Mofetil
+Drug: Locally accepted standard of care which is consistent with the WHO recommendations for the treatment of M/XDR-TB.
+Drug: Wilate
+Drug: FOLFOX regimen
+Drug: Insulin glargine (HOE901)
+Drug: Sertraline
+Drug: Masitinib Mesylate
+Drug: pegfilgrastim
+Drug: volanesorsen
+Drug: Cefazolin
+Drug: R-DA-EPOCH-21 + auto-SCT
+Drug: Fluorescéine Sodique Faure
+Drug: Norditropin
+Drug: Epoetin alfa
+Drug: Xalkori (crizotinib)
+Drug: Ticagrelor and Acetylsalicylic acid
+Drug: oxaliplatin (OXA), levofolinate calcium (l-LV), 5-FU, panitumumab
+Drug: Placebo of valsartan
+Drug: 5 mg Prednisone
+Drug: vinorelbine
+Drug: FF/VI (100/25) mcg
+Drug: Engerix B
+Drug: Adalimumab 40mg q2w
+Drug: Propolis tablet to limit dental biofilm
+Drug: Vitamin D and fish oil
+Drug: chemoradiotherapy Cisplatin
+Drug: insulin glargine (HOE901)
+Drug: Non biologically active gel
+Drug: Cx601
+Drug: leucovorin calcium
+Drug: Dexamethasone, Rituximab, Cyclophosphamide, Bortezomib
+Drug: Pregabalin Dose Level 1
+Drug: Fentanyl Citrate
+Drug: Zero-dose
+Drug: Krytantek
+Drug: 5-fluorouracil and low molecular weight heparin
+Drug: Omit Citrotide 0.25 dose on the day of triggering of ovulation
+Drug: DLBS2411
+Drug: pegylated liposomal doxorubicin
+Drug: Isatuximab SAR650984
+Drug: Dalbavancin two dose
+Drug: Taxanes
+Drug: Betamethasone 3 MG/ML
+Drug: paracetamol
+Drug: tenofovir monotherapy
+Drug: Anti-Infective Agents
+Drug: saline solution 0.9%
+Drug: Ticagrelor 180 mg
+Drug: capecitabine
+Drug: Liraglutide 6 MG/ML Pen Injector
+Drug: SCT400 plus CHOP
+Drug: Terlipressin
+Drug: CHF 1535 100/6 µg
+Drug: Intranasal ketamine
+Drug: Amoxicillin 500 mg tid
+Drug: Tolvaptan
+Drug: TV-46000 - A
+Drug: PAC-14028 cream 1.0%
+Drug: tamoxifen citrate
+Drug: chemotherapy ± target therapy
+Drug: Atorvastatin 40mg
+Drug: postoperative chemotherapy
+Drug: SPN-812 ER Low Dose B
+Drug: Elafibranor
+Drug: Intravenous Tenecteplase
+Drug: trastuzumab emtansin
+Drug: Abiraterone
+Drug: Vinorelbine plus Epirubicin
+Drug: caudal plain bupivacaine 2.5mg/kg 0.25%
+Drug: TJO-002
+Drug: Saxagliptin
+Drug: Tocopherol
+Drug: ZNS
+Drug: Placebo of ofloxacine
+Drug: Recombinant Factor VIII (50 IU/kg)
+Drug: Placebo extended-release oral suspension
+Drug: Vinorelbine
+Drug: Amrubicin
+Drug: High dose Cytarabine
+Drug: Spironolactone 25Mg Tablet
+Drug: n3-PUFA
+Drug: TACT
+Drug: Rituximab, bendamustine
+Drug: Abaloparatide
+Drug: Local Anesthetic Solution
+Drug: Ferrous Bisglycinate
+Drug: PEG-L-asparaginase
+Drug: Best supportive care
+Drug: sofosbuvir plus daclatasvir plus ribavirin
+Drug: Bortezomib-Melphalan
+Drug: vehicle of P-3058 10%
+Drug: gemcitabine
+Drug: Carbamazepine
+Drug: Fasinumab
+Drug: Irlanda-1-Association
+Drug: Follitropin alfa (Primapur)
+Drug: Hydromorphone
+Drug: IDP-124 Vehicle Lotion
+Drug: 0.5% lignocaine 60mM
+Drug: HD204
+Drug: MMF and/or steroids
+Drug: Placebo of ramipril
+Drug: LF111 (drospirenone)
+Drug: Lumateperone
+Drug: NC-6004
+Drug: Methadone
+Drug: Emapalumab
+Drug: Olokizumab 64mg q2w
+Drug: IV paclitaxel
+Drug: Amoxicillin (Amoksicillintrihydrat)
+Drug: Zoledronic Acid 5Mg/Bag 100Ml Inj
+Drug: CMAB008
+Drug: Bleomycin (active name: Bleomycin Sulfate)
+Drug: Standard therapy (Including Immunosuppressants)
+Drug: Meaning-Making intervention (MMi)
+Drug: Preventive administration of Rapaflo
+Drug: TNX-102 SL
+Drug: fosnetupitant/ palonosetron
+Drug: Pramipexole ER
+Drug: Marketed Control
+Drug: Ferric carboxymaltose
+Drug: Corifollitropin alfa
+Drug: NaBen®
+Drug: Single agent chemotherapy
+Drug: Recombinant tissue plasminogen activator (rt-PA)
+Drug: Etanercept Placebo
+Drug: REGN2810/chemo/ipi
+Drug: High-Dose IFN-a2b
+Drug: Tocilizumab
+Drug: High-dose IA regimen
+Drug: Valproic acid
+Drug: SHINCORT
+Drug: Bicalutamide
+Drug: Somatropin
+Drug: 5-fluorouracil Injection
+Drug: Oxybutynin XL
+Drug: Aprocitentan 25 mg
+Drug: SHP615
+Drug: Acalabrutinib (ACP-196)
+Drug: Exemestane Tablets
+Drug: Isoquercetin
+Drug: Custodiol
+Drug: Placebo (for lanthanum carbonate)
+Drug: Arm A - Post-Chlorambucil Therapy Follow-up
+Drug: Ropivacaine
+Drug: Pabrinex
+Drug: TEGAFOX Sequential S-1.
+Drug: Imiquimod 5% cream with prior curettage
+Drug: Granulocyte colony-stimulating factor (G-CSF)
+Drug: Meditoxin
+Drug: IW-3718
+Drug: Simethicone
+Drug: Metformin + Intermittent Insulin Therapy
+Drug: Placebo caplet of DLBS2411
+Drug: Dara SC
+Drug: NVB
+Drug: Triptolide Wilfordii
+Drug: Paclitaxel, Cisplatin
+Drug: Lamivudine
+Drug: PP6M 1000 mg eq.
+Drug: Ruxolitinib (JAKAVI®)
+Drug: Intravenous magnesium sulfate
+Drug: Restasis
+Drug: PRO-118
+Drug: Placebo for Upadacitinib
+Drug: Vedolizumab IV
+Drug: Treatment Choice (TC)
+Drug: Corticoids
+Drug: Standard treatment (as per protocol ISG SSG III)
+Drug: Polypill
+Drug: Adrenocorticotropic Hormone
+Drug: Levonorgestrel IUS (Mirena, BAY86-5028)
+Drug: Insulin Lispro
+Drug: Ce 3 ng/ml
+Drug: Guadecitabine
+Drug: FS-1
+Drug: Sugar Pill
+Drug: Bortezomib, Thalidomide, Dexamethasone (VTD) + daratumumab
+Drug: Lidocaine Injectable Product
+Drug: D-PLEX
+Drug: Methotrexate
+Drug: Tolterodine Tartrate ER
+Drug: Tofacitinib
+Drug: Intensified chemotherapy
+Drug: Exenatide 2 mg [Bydureon]
+Drug: HCTZ
+Drug: ParaGard® CuT380A
+Drug: Cosyntropin Injectable Suspension 1 MG/ML + vigabatrin
+Drug: CMAB007
+Drug: factor VIII or factor IX
+Drug: SyB P-1501
+Drug: Sulfate, Magnesium
+Drug: Acetylsalicylic Acid
+Drug: Asthma controller therapies (incl. prednisone/prednisolone)
+Drug: Crenolanib
+Drug: PXT3003
+Drug: Acetaminophen
+Drug: Placebo SC
+Drug: darbepoetin alfa
+Drug: SGLT2 inhibitor
+Drug: MT-5547
+Drug: Human normal immunoglobulin G (IgG)
+Drug: Epinephrine
+Drug: Bortezomib
+Drug: Dupilumab (REGN668/SAR231893)
+Drug: Placebo First, then ORADUR®
+Drug: New Medication: Enalapril, Isradipine, Propranolol
+Drug: Diclofenac potassium
+Drug: LY900014
+Drug: L-citrulline
+Drug: Octreotide LAR
+Drug: Calcium Acetate (Phoslyra®)
+Drug: Tenofovir + Emtricitabine or Lamivudine + Lopinavir/ritonavir
+Drug: Dupilumab SAR231893 (REGN668)
+Drug: Ra223
+Drug: Valsartan 320mg + Rosuvastatin 20mg
+Drug: Oxcarbazepine
+Drug: Sulfonylurea/non-sulfonylurea insulin secretagogues
+Drug: Pegylated liposomal doxorubicin (PLD)
+Drug: Abatacept SC
+Drug: Carboplatin, 5FU concomitant
+Drug: EG12014
+Drug: Radioactive Iodine Therapy
+Drug: US-guided tenotomy with PRP
+Drug: Herceptin™ (Her)
+Drug: Placebo II (Semaglutide)
+Drug: 50.0 mg hydrochlorothiazide
+Drug: Erythropoietin
+Drug: lestaurtinib
+Drug: 2 cycles of Bortezomib, Lenalidomide, Dexamethasone (VRD)
+Drug: Generic Budesonide/Formoterol fumarate dihydrate
+Drug: 5FU
+Drug: hydroxyprogesterone 500mg
+Drug: New profilaxis
+Drug: Pretomanid
+Drug: Glatiramer acetate
+Drug: ACT plus PQ (Rescue medication)
+Drug: MET XR
+Drug: methylprednisolone (MP) or prednisone (pred)
+Drug: Probiotic
+Drug: RHB-105
+Drug: salmeterol/fluticasone
+Drug: Clarithromycin 1000 MG
+Drug: HAI
+Drug: Carvedilol
+Drug: Cholinesterase inhibitor
+Drug: Kenalog (Triamcinolone)
+Drug: LNG20
+Drug: Topotecan Hydrochloride
+Drug: Hydroxyprogesterone Caproate Injection, 250mg/mL
+Drug: riluzole
+Drug: Oxycodone Naloxone Combination
+Drug: ziprasidone oral capsules
+Drug: DAPA/MET XR
+Drug: Brimonidine 0.33% gel
+Drug: Venglustat GZ/SAR402671
+Drug: Furosemide Topical Gel
+Drug: Myeloablative Chemotherapy Regimen for Non-Cord Blood Unit Recipients with Myeloid Malignancies
+Drug: Placebo of Darbepoetin alfa
+Drug: Darbepoetin alfa
+Drug: ranibizumab
+Drug: Copper Histidine
+Drug: intraarticular radiofrequency + intraarticular methylprednisolone
+Drug: Advate
+Drug: Placebo with enzalutamide
+Drug: N-Acetylcysteine followed by Placebo
+Drug: YKP3089
+Drug: Lasosamide Oral Solution
+Drug: 2-chlorodeoxyadenosine
+Drug: Carboplatin/ Paclitaxel
+Drug: Rivaroxaban 20 MG
+Drug: Azilsartan Medoxomil
+Drug: niraparib
+Drug: octreotide capsules
+Drug: Formoterol
+Drug: Cloxacillin
+Drug: CsA
+Drug: Epidural analgesia
+Drug: Doxorubicin, L-asparaginase, PEG-L-asparaginase, Erwinia asparaginase
+Drug: Placebo inhalation powder
+Drug: Lacosamide Tablet
+Drug: Prednisone : Cortancyl 20mg
+Drug: somatropin
+Drug: Arm A : standard neoadjuvant chemoradiotherapy group
+Drug: MSM 1000mg twice a day (6000 mgs)
+Drug: Diclofenac
+Drug: 17 OHPC
+Drug: trofosfamide, idarubicin, etoposide
+Drug: Normal Nicotine Content Cigarettes
+Drug: Nifurtimox (BAYA2502) followed by Placebo
+Drug: Sodium oligo-mannurarate 900mg
+Drug: Darolutamide (BAY1841788)
+Drug: E7389 (Eribulin Mesylate)
+Drug: Ketum
+Drug: medroxyprogesterone acetate (progest)
+Drug: Envarsus XR
+Drug: Alirocumab SAR236553 (REGN727)
+Drug: Naloxone Hydrochloride Lotion, 0.5%
+Drug: adjuvant chemotherapy with cisplatin and docetaxel
+Drug: Pantoprazole
+Drug: Vancomycin plus Aztreonam
+Drug: Itacitinib
+Drug: Radium-223 dichloride (Xofigo, BAY88-8223)
+Drug: EffCaMgCit
+Drug: Intravenous paracetamol
+Drug: Vericiguat
+Drug: oral atenolol
+Drug: betamethasone (Lianbang Beisong®) cream
+Drug: 16 weeks of VEC + CDDP
+Drug: Tadalafil 5mg
+Drug: Placebo Oral tablet to match Venetoclax
+Drug: ferumoxytol
+Drug: Postloading after TAVI
+Drug: E/C/F/TAF
+Drug: Metoclopramide
+Drug: recombinant human Erythropoietin
+Drug: Tamsulosin hydrochloride
+Drug: AndroGel® (testosterone gel)
+Drug: Placebo Tablet
+Drug: Alkylating Agents
+Drug: Placebo
+Drug: Oxaliplatin intravenous
+Drug: Medical Marijuana
+Drug: R-MANT
+Drug: Ceftobiprole medocaril
+Drug: peginterferon alfa-2a [Pegasys]
+Drug: Hydroxyprogesterone 250 Mg
+Drug: Placebo injection
+Drug: Netupitant / Palonosetron
+Drug: Placebo DLBS3233
+Drug: Chloroprocaine Hcl 2% Inj
+Drug: 1100 ppm F as NaF (positive control)
+Drug: Homeopathic Placebo globules
+Drug: Deferiprone
+Drug: Metamizol iv
+Drug: Tacrolimus capsules
+Drug: dacarbazine
+Drug: Standard of Care (EFV + 2 NRTI backbone)
+Drug: Placebo 100 mg
+Drug: SonoVue
+Drug: Apixaban 5 MG
+Drug: Chemotherapy
+Drug: Chlorthalidone
+Drug: Ethanol
+Drug: Early Fluids
+Drug: Gemtuzumab ozogamicin (GO)
+Drug: dihydroartemisinin-piperaquine
+Drug: Rifampicin 1800mg
+Drug: L Carnitine
+Drug: HS-25
+Drug: 18F-DCFPyL Injection
+Drug: TEZ/IVA
+Drug: Genvoya
+Drug: Rilpivirine - Injectable Suspension (RPV LA)
+Drug: Docetaxel, doxorubicin, and cyclophosphamide (TAC)
+Drug: Taclonex®
+Drug: denosumab
+Drug: Imipenem
+Drug: ß-adrenergic blocker propranolol
+Drug: Physician's choice
+Drug: Rivaroxaban
+Drug: Dexamethasone+Tropisetron
+Drug: Tralokinumab
+Drug: novolog insulin
+Drug: Selexipag
+Drug: insulin glargine
+Drug: propofol
+Drug: ABC/3TC
+Drug: ALK Alutard Birch and/or 5-grasses
+Drug: Physician's Choice of Salvage Therapy - temozolomide
+Drug: Abilify 2, 5, 10, 15mg (Tablet)
+Drug: Placebo of AFATINIB
+Drug: Lansoprazole
+Drug: Lanabecestat
+Drug: Daratumumab
+Drug: glyceryl trierucate
+Drug: Irinotecan Liposomal Injection [Onivyde]
+Drug: OTM Dexmedetomidine 0.5µg/ kg.
+Drug: Etripamil
+Drug: Vascular filling
+Drug: Flecainide (dual therapy)
+Drug: Bicalutamide Placebo
+Drug: 5-FU
+Drug: Two NRTIs
+Drug: Rituximab - CVP
+Drug: MEP
+Drug: Vindesine Sulfate
+Drug: dupilumab SAR231893 (REGN668)
+Drug: MSB0010718C
+Drug: Formoterol Fumarate
+Drug: icosapent ethyl (IPE)
+Drug: Fecal Microbiota Therapy (FMT)
+Drug: Pegylated liposomal doxorubicin
+Drug: Estradiol/Norethindrone acetate (E2/NETA)
+Drug: Ferrous sulfate + folic acid
+Drug: Clopidogrel 75 mg
+Drug: Nicotine only
+Drug: Vedolizumab IV 300 mg
+Drug: IVIG infusion
+Drug: Dasabuvir
+Drug: Rifampin
+Drug: Placebo - Aspirin
+Drug: Bexagliflozin tablets, 20 mg
+Drug: dexchlorpheniramine (Polaramine®) injection
+Drug: Rilpivirine
+Drug: OBE2109 + Placebo Add-back
+Drug: Commercial naproxen sodium tablet
+Drug: Neosaldina® & Placebo
+Drug: naltrexone implant
+Drug: Triptorelin SR
+Drug: Xeris glucagon
+Drug: disodium EDTA
+Drug: RVX000222
+Drug: (vic-)trastuzumab duocarmazine
+Drug: Paliperidone
+Drug: Melphalan, Prednisone, Lenalidomide
+Drug: SCY-078
+Drug: doxorubicin hydrochloride
+Drug: 2-mg Intravitreous Aflibercept Injection
+Drug: PLACEBO
+Drug: Secukinumab 1 mL form
+Drug: Rituximab, Vincristine, cyclophosphamide, methotrexate, doxorubicin, cytarabine, ara-C
+Drug: Ventolin
+Drug: AC220
+Drug: Filgrastim
+Drug: Mitomycins
+Drug: PXT3003 dose 2
+Drug: Nivolumab
+Drug: Matched-Placebo for Tafenoquine
+Drug: Reduced dose of DOAC
+Drug: LABCAT TCJUSS
+Drug: Randomisation course 2 ADxE versus FLADx
+Drug: Misoprostol 200Mcg Tab
+Drug: Depo medrol
+Drug: Diazepam
+Drug: Ticagrelor
+Drug: high dose methotrxate
+Drug: Risedronate
+Drug: 5 fluorouracil
+Drug: Acarbose
+Drug: daclatasvir
+Drug: lemborexant
+Drug: Intra-operative SN mapping with patent V blue dye
+Drug: Avicel PH101 (Microcrystalline Cellulose NF) for Compounding
+Drug: NA-1, 2.6 mg/kg
+Drug: Valbenazine
+Drug: Placebo subcutaneous injection matching to ofatumumab
+Drug: R-CHOP-50
+Drug: Omacor
+Drug: Injection Sclerotherapy
+Drug: Dextroamphetamine
+Drug: Idebenone 150 mg film-coated tablets
+Drug: Phenylbutyrate
+Drug: Perphenazine
+Drug: Sertraline (Oral Antidepressant)
+Drug: Civamide nasal solution 0.01%
+Drug: HAIC of OXA
+Drug: Sodium Chloride solution
+Drug: vadadustat
+Drug: Micro-particle Curcumin
+Drug: IMO-2125
+Drug: Durvalumab (MEDI4736)
+Drug: Tenofovir disoproxil fumarate/Emtricitabine (TDF/FTC FDC)
+Drug: Physician's-Choice
+Drug: ATRA
+Drug: Isosorbide Mononitrate XL (ISMN)
+Drug: Granulocyte Colony-Stimulating Factor(G-CSF)
+Drug: Mitomycin C
+Drug: vitamin C, vitamin B1, hydrocortisone
+Drug: Dextromethorphan Hydrobromide
+Drug: QPI-1007 Injection - 3.0 mg
+Drug: Intermediate-dose IA regimen
+Drug: Trimetazidine
+Drug: TED
+Drug: Cenicriviroc
+Drug: Baseline regimen of two nucleoside reverse transcriptase inhibitors
+Drug: sargramostim
+Drug: Probio'Stick
+Drug: Chlorpromazine
+Drug: SHR3680
+Drug: Placebo of Rituximab
+Drug: Cabazitaxel + Androgen deprivation therapy
+Drug: Docetaxel (XRP6976)
+Drug: Ifosphamide, Etoposide, Methotrexate, Vindelsine, Prednisone
+Drug: R-mNHL-BFM-90 + auto-SCT
+Drug: 20 mL topically used during alginate dressing NaCl
+Drug: Mycophenolate Mofetil Placebo
+Drug: mycophenolate mofetil (MMF)
+Drug: Rituximab-CVP
+Drug: docetaxel, epirubicin and cyclophosphamide
+Drug: Miltefosine
+Drug: Riluzole 50Mg Tablet
+Drug: L-folinic
+Drug: Tamoxifen and GnRH analogue
+Drug: GnRHa
+Drug: BAF312
+Drug: Voxelotor
+Drug: Oxaliplatin(OXA), 5-fluorouracil (5-FU)
+Drug: Idelalisib
+Drug: Usual Care
+Drug: Docetaxel Cyclophosphamide
+Drug: Rapamycin
+Drug: Dexmedetomidine Hydrochloride
+Drug: chemotherapy (docetaxel, doxorubicin, cyclofosfamide, carboplatin, paclitaxel, gemcitabine)
+Drug: Natriumfolinate
+Drug: Tranexamic acid (TXA).
+Drug: Sodium stibogluconate
+Drug: Ketamine IV Infusion
+Drug: MIGRANE
+Drug: CPX-351
+Drug: Hormone Replacement Therapy
+Drug: CEFEPIME
+Drug: Alectnib
+Drug: MIN-101 32 mg
+Drug: Astragalus Membranaceus
+Drug: Selenium
+Drug: Hydrochlorothiazide 50mg Tablet
+Drug: Oncorine
+Drug: Intravitreal Methotrexate 400 µg
+Drug: Torsemide
+Drug: Etanercept
+Drug: B/F/TAF Placebo
+Drug: HS-25 20mg combination with Atorvastatin
+Drug: PV-10 (10% rose bengal disodium)
+Drug: Lenalidomide, dexamethasone
+Drug: Sulfadoxine-pyrimethamine
+Drug: RAMUCIRUMAB
+Drug: tafamidis
+Drug: Fostamatinib Disodium
+Drug: S-1/cisplatin
+Drug: Brolucizumab 6 mg
+Drug: Clindamycin 1% Gel
+Drug: efpeglenatide (SAR439977)
+Drug: AK1820
+Drug: Alirocumab 150 MG/ML [Praluent]
+Drug: Dexamethasone 0.4 mg/kg
+Drug: Afrin
+Drug: Elimite 5% Cream
+Drug: Aprepitant
+Drug: Rituximab window
+Drug: Ponesimod
+Drug: Gefitinib 250 mg
+Drug: Adjuvant chemotherapy (Paclitaxel and Cisplatin)
+Drug: Oleogel-S10
+Drug: KHK4827
+Drug: 300 mg Oral Azacitidine
+Drug: Inclisiran Sodium
+Drug: Nasal Fluticasone
+Drug: Doravirine
+Drug: 5Fluorouracil continu
+Drug: Nitric Oxide
+Drug: Induction (intensive pathway) - carfilzomib, cyclophosphamide, lenalidomide, & dexamethasone (CCRD) regimen
+Drug: Reference1507
+Drug: Sevoflurane, Fentanyl
+Drug: tenofovir disoproxil fumarate
+Drug: AbobotulinumtoxinA
+Drug: E/C/F/TAF;
+Drug: mFOLFOX6 or CAPOX
+Drug: PA21 (Velphoro®)
+Drug: Insulin glargine
+Drug: Benzyl penicillin plus gentamicin
+Drug: Dapivirine Vaginal Ring-004
+Drug: Pemetrexed + cisplatin
+Drug: Lamivudine (3TC)
+Drug: ATG
+Drug: Fibrinogen
+Drug: EU-approved Avastin®
+Drug: Oral Naltrexone (ON)
+Drug: 6 Mercaptopurine (6MP)
+Drug: Placebo metformin
+Drug: S-1
+Drug: Bevacizumab + FOLFIRI-3
+Drug: Obinutuzumab
+Drug: Nepafenac 0.3% Oph Susp
+Drug: Intra-operative SN mapping with indocyanin green
+Drug: Phyt.decandra + Melissa offic.
+Drug: MEDI4736
+Drug: Non-Steroidal Aromatase Inhibitor
+Drug: CAB LA
+Drug: Doxorubicin Hydrochloride
+Drug: Piperacillin
+Drug: IncobotulinumtoxinA
+Drug: Oxaliplatin
+Drug: ES135
+Drug: Ketamine Hcl 50Mg/Ml Inj
+Drug: Warfarin, NOAC
+Drug: Daunomycin and Cytarabine (Intermediate Dose of DA Regimen)
+Drug: Peginterferon Alfa-2A
+Drug: Valsartan 160mg (blinded)
+Drug: Pixantrone + Rituximab
+Drug: hepatectomy with dextrose water
+Drug: Bupivacaine 0.25% 20ml on each side Sonar guided TAB
+Drug: Ondansetron
+Drug: Fremanezumab- A
+Drug: Apomorphine
+Drug: Oral Azacitidine
+Drug: Esomeprazole
+Drug: VTS-270
+Drug: Raltitrexed-based chemotherapy
+Drug: Radioactive iodine
+Drug: Sofosbuvir and Daclatasvir
+Drug: Once-daily insulin detemir
+Drug: Oraxol
+Drug: Icotinib
+Drug: Treatment discontinuation
+Drug: Gasmotin
+Drug: Induction (intensive pathway) - cyclophosphamide, lenalidomide, & dexamethasone (CRD) regimen
+Drug: SGX942
+Drug: doxorubicin
+Drug: Intravitreal ranibizumab
+Drug: Vinblastine
+Drug: SPD489 (Lisdexamfetamine dimesylate)
+Drug: rescue regimen
+Drug: Placebo (for Eltrombopag)
+Drug: Sandostatin LAR
+Drug: Nifedipine
+Drug: Vandetanib
+Drug: spinosad topical suspension, 0.9%
+Drug: CCRT+ PF
+Drug: MMF
+Drug: Oxaliplatin intra-arteriel
+Drug: Dapagliflozin plus Glucophage (MET ER)
+Drug: Bedaquiline
+Drug: Secukinumab 150 mg s.c.
+Drug: Tranexamic Acid 500 MG
+Drug: FTC/TDF FDC Matching Placebo
+Drug: UX003
+Drug: ruxolitinib
+Drug: Dexamethasone, Cytarabine, Etoposide, Pegylated-asparaginase
+Drug: FLOT alone
+Drug: LMWH
+Drug: 3rd ARV agent
+Drug: pertuzumab [Perjeta]
+Drug: Neoadjuvant endocrine therapy
+Drug: HS-25 10mg
+Drug: Sildenafil 20 MG
+Drug: Cladribine and pegylated interpheron alpha-2a
+Drug: anthracycline-based
+Drug: Gabapentin 300mg
+Drug: Domperidone
+Drug: 3M DuraPrep
+Drug: DF289
+Drug: MK-1986
+Drug: Methylprednisolone +Placebo
+Drug: Hydroxyethyl starch 130/0.4 in 0.9% sodium chloride
+Drug: BGF MDI 160/14.4/9.6 µg
+Drug: nonavalent HPV vaccine
+Drug: Valsartan 160mg + Rosuvastatin 20mg
+Drug: Oral Morphine
+Drug: Netarsudil/Latanoprost 0.02%/0.005%
+Drug: Prednisone, cyclophosphamide
+Drug: botulinum toxin type A
+Drug: DSP-5423P 40mg
+Drug: Iron Therapy
+Drug: faslodex dummy
+Drug: Paclitaxel + Carboplatin
+Drug: Radiotherapy+PCV chemotherapy
+Drug: amphetamine extended-release oral suspension, 2.5 mg/mL
+Drug: G.S.P. Oral Solution 400 mg/ml
+Drug: GnRH agonist
+Drug: Alteplase
+Drug: HORMONOTHERAPY
+Drug: Folfox Protocol
+Drug: NaCl 0.9%
+Drug: trastuzumab monotherapy
+Drug: metoclopramide intravenous
+Drug: Teduglutide + L-NMMA
+Drug: Tenapanor
+Drug: co.don chondrosphere®
+Drug: Venetoclax
+Drug: secukinumab 150mg
+Drug: eliglustat GZ385660
+Drug: Metronidazole gel
+Drug: Abiraterone Acetate
+Drug: Everolimus (Afinitor) tablets
+Drug: Bezafibrate
+Drug: Molgramostim
+Drug: Certolizumab Pegol
+Drug: Water for injection
+Drug: Marizomib
+Drug: Zoladex
+Drug: Riociguat (BAY63-2521)
+Drug: fast-acting insulin analogue
+Drug: etoposide phosphate
+Drug: Polyethylene glycol
+Drug: Daprodustat tablets
+Drug: Placebo for Glimepiride
+Drug: Obeticholic Acid
+Drug: Insulin (Humulin® R U-100)
+Drug: Chemotherapy with gemcitabine or FOLFIRINOX according to induction chemotherapy
+Drug: MTZ
+Drug: Docetaxel®
+Drug: hCG
+Drug: Tamsulosin 0.2mg + Placebo(Solifenacin)
+Drug: ALIROCUMAB SAR236553 (REGN727)
+Drug: Foster 100/6mg NEXThaler
+Drug: Sotagliflozin (SAR439954)
+Drug: Moderate Dose Hydroxyurea
+Drug: YYD302 2ml
+Drug: Varlitinib
+Drug: ferumoxtran-10
+Drug: TAK-438
+Drug: B arm (DAC)
+Drug: Suvorexant 10 mg
+Drug: ddAC-mini CTC
+Drug: Bifidobacteria
+Drug: Clotrimazole + Gentamicin + Beclomethasone
+Drug: rhTSH stimulation
+Drug: AZA
+Drug: Vasopressin
+Drug: molgramostim
+Drug: S-1 (Tegafur/Gimeracil/Oteracil) /cisplatin (investigational arm)
+Drug: Cathflo (Alteplase)
+Drug: Placebo (for Progesterone)
+Drug: Betamethasone - ACTIVE
+Drug: Tegafur-Gimeracil-Oteracil Potassium
+Drug: Standard of Care (SOC)
+Drug: Cisplatin/ Etoposide
+Drug: 20% subcutaneous immunoglobulin
+Drug: naropin
+Drug: Vincristine Sulfate
+Drug: R-CEOP90 + auto-HSCT
+Drug: Paclitaxel Albumin-Stabilized Nanoparticle Formulation
+Drug: 5% Glucose after anaesthesia induction
+Drug: 2.0 mg intravitreal aflibercept
+Drug: R-BL-M-04 + auto-SCT
+Drug: Oral micronized progesterone
+Drug: Placebo to LCZ696
+Drug: MELATONIN (LOW DOSE)
+Drug: alglucosidase alfa (GZ419829)
+Drug: Placebo oral tablets
+Drug: SJP-0035 0.001%
+Drug: Placebo Bufei Huatan granule
+Drug: Regorafenib
+Drug: Sildenafil 25 MG Oral Tablet
+Drug: exemestane
+Drug: trastuzumab emtansine
+Drug: Steroids
+Drug: NA-1
+Drug: Methylphenidate
+Drug: Lavender Essential Oil
+Drug: Aracytine (Ara C)
+Drug: Gemtuzumab ozogamicin
+Drug: Sodium chloride administration
+Drug: Ibrutinib combined with As2O3
+Drug: Oxygen gas
+Drug: 0.3% Sodium Hyaluronate Eye Drop
+Drug: Denosumab Injection
+Drug: amyloid PET
+Drug: Grazoprevir 100 mg/d 12 weeks
+Drug: Palbociclib PD-0332991
+Drug: paclitaxel infusion
+Drug: Monthly Dihydroartemisinin-Piperaquine (DP) During Pregnancy
+Drug: Opioid-free general anesthetic
+Drug: Induction (non-intensive pathway) - cyclophosphamide, lenalidomide, & dexamethasone attenuated (CRDa) regimen
+Drug: HCP administration with PFS
+Drug: Dasatinib 100 MG [Sprycel]
+Drug: gemcitabine 1800 mg/m2 (day 1) and dacarbazine 500 mg/m2 (day 1)
+Drug: Oral CAB
+Drug: Thalidomide (50mg)
+Drug: Olmesartan 40mg + Hydrochlorothiazide 12,5mg
+Drug: volasertib
+Drug: Prednisone (Cortancyl®) alone followed by monitoring and "standard of care"
+Drug: IncobotulinumtoxinA (2 Units per kg body weight)
+Drug: Lower Dose Sodium Bicarbonate
+Drug: Doxicycline
+Drug: CI-581a
+Drug: tecarfarin
+Drug: Midodrine
+Drug: AGB101 220 mg tablet
+Drug: Autologous Serum 20%
+Drug: Phenindione
+Drug: DCS (D-Cycloserine ) + Prolonged Imaginal Exposure
+Drug: Oligopin
+Drug: Timolol
+Drug: Continuous metformin
+Drug: REGN2810
+Drug: Ginkgo Diterpene Lactone Meglumine Injection
+Drug: FF/VI via ELLIPTA DPI
+Drug: Fenofibrate
+Drug: Maintenance (intensive & non-intensive pathways) - lenalidomide maintenance
+Drug: Latanoprost
+Drug: Peppermint Oil
+Drug: EMS Fluticasone 3
+Drug: Onartuzumab
+Drug: Herceptin
+Drug: concomitant temozolomide (TMZ)
+Drug: Imiquimod cream + surgery
+Drug: Semaglutide
+Drug: Ashwagandha Root Extract Capsule
+Drug: Morphine PCA
+Drug: Fentanyl, Dexmedetomidine
+Drug: Cytisine
+Drug: PEG-Asparaginase
+Drug: Foster 100/6mg pMDI
+Drug: Sofosbuvir/Ledipasvir 24W
+Drug: EPIAO®
+Drug: Losartan
+Drug: Ofloxacine
+Drug: Investigational OTC Cream
+Drug: Lumason
+Drug: Basal insulin and exenatide
+Drug: Budesonide 1mg orodispersible tablet twice daily
+Drug: IVA
+Drug: Aspirin Placebo, Vitamin D
+Drug: cabazitaxel
+Drug: SRP-4053
+Drug: Mizoribine (MZR)
+Drug: Asthma Reliever Therapies
+Drug: Photodynamic Therapy with indocyanine green and diode laser
+Drug: Melphalan
+Drug: COPAD
+Drug: HCP0910
+Drug: XingZaoRuanJian
+Drug: Idarubicin
+Drug: intraarticular methylprednisolone
+Drug: Levamisole Hydrochloride
+Drug: Midazolam injection
+Drug: Defibrotide
+Drug: guadecitabine
+Drug: Propanolol
+Drug: Cream vehicle
+Drug: Glycopyrrolate
+Drug: group (c)
+Drug: Nitazoxanide
+Drug: Prednisone, Dexamethasone, Vincristine, Daunorubicin
+Drug: Ketoconazole
+Drug: Anlotinib
+Drug: Pemetrexed/ Carboplatin
+Drug: Cortancyl Oral Tablet
+Drug: DA-3002
+Drug: Asparaginase Erwinia chrysanthemi
+Drug: 0.9% NaCl
+Drug: Bovine Colostrum
+Drug: veliparib
+Drug: The Yi-Qi-Qing-Jie Herbal Compound
+Drug: Guided therapy group
+Drug: Progesterone oral capsule
+Drug: Bardoxolone methyl
+Drug: Aldesleukin
+Drug: metoprolol
+Drug: ADS-5102, 274 mg
+Drug: Simethicone 80 MG
+Drug: Placebo-Normal Saline
+Drug: Brivaracetam (ucb 34714)
+Drug: Aclidinium bromide/formoterol Fixed-Dose Combination
+Drug: Standard dose of hCG
+Drug: Physician's Choice of Salvage Therapy - lomustine
+Drug: Aromatase Inhibitors
+Drug: Atorvastatin 40mg, QD
+Drug: Durvalumab (Regimen 1)
+Drug: Prandial insulin
+Drug: Grazoprevir 100 mg/d 8 weeks
+Drug: Treatment Prevention for Secondary CV
+Drug: VP-102
+Drug: vinflunine
+Drug: Pimavanserin 20 mg
+Drug: Methazolamide
+Drug: Androgen Suppression Therapy and Radiation Therapy
+Drug: 4FDC
+Drug: Lactobacillus crispatus CTV-05
+Drug: BI 695501
+Drug: Vitamin D with calcium and clomiphene citrate
+Drug: Atazanavir
+Drug: Capecitabine (Xeloda)
+Drug: Erdafitinib
+Drug: High Dose Melphalan
+Drug: Ropivacaine infiltration
+Drug: Kaletra
+Drug: CJ-12420/Clarithromycin/Amoxicillin
+Drug: Ca Ionophore A23187
+Drug: Olanzapine Placebo
+Drug: Insulin glargine/Lixisenatide (HOE901/AVE0010)
+Drug: BREMEN eye drops
+Drug: vonoprazan 20 mg bid
+Drug: cisplatin, etoposide, apatinib
+Drug: Nilotinib (Tasigna ®), capsules of 150 mg
+Drug: IDP-124 Lotion
+Drug: Adjuvant chemotherapy (gemcitabine and cisplatin)
+Drug: oral propranolol
+Drug: Degarelix
+Drug: CER-001
+Drug: Matching Placebo (Solanezumab)
+Drug: BGF MDI 320/14.4/9.6 µg
+Drug: Talazoparib
+Drug: Polymyxin B
+Drug: S1
+Drug: Temisartan+Amlodipine
+Drug: Bismuth-Containing Quadruple Therapy
+Drug: Vincristine Placebo
+Drug: PRO-122
+Drug: Placebo SL Tablet
+Drug: Megestrol Acetate
+Drug: FLAG (Granulocyte colony-stimulating factor (G-CSF), Fludarabine, Cytarabine)
+Drug: Lidocaine Patch 4%
+Drug: Labetalol
+Drug: Latanoprost ophthalmic solution
+Drug: IL-1Ra
+Drug: Epirubicin hydrochloride
+Drug: Renin Angiotensin system (RAS) blockade
+Drug: Fremanezumab
+Drug: Sodium Chloride 0.9%
+Drug: Vitamin C Placebo
+Drug: S-1 for 6 months
+Drug: Hydrocortisone
+Drug: Intravenous colistin
+Drug: AXS-02
+Drug: gallium Ga 68-PSMA
+Drug: Paravertebral Block
+Drug: IXAZOMIB + Lenalidomide + Dexamethasone
+Drug: nalbuphine HCl ER 120 mg BID
+Drug: Rucaparib
+Drug: Placebo-cyclophosphamide
+Drug: DA
+Drug: Aromatase Inhibition Therapy
+Drug: Triamcinolone Acetonide/5-fluorouracil mixture
+Drug: R-DA-EPOCH + auto-HSCT
+Drug: Oxaliplatin: BSA-based HIPEC
+Drug: Encorafenib
+Drug: Bendamustine hydrochloride
+Drug: Placebo of LCZ696
+Drug: Eribulin
+Drug: Amoxicillin/Clavulanate Potassium 875 mg-125 mg oral tablet
+Drug: Avelumab
+Drug: Diclofenac and Atropine combination drug
+Drug: Gemcitabine + Rituximab
+Drug: Meglumine antimoniate
+Drug: Dapagliflozin (DAPA)
+Drug: Lapatinib
+Drug: Minocycline
+Drug: IN ketamine
+Drug: Deflazacort
+Drug: Velcade
+Drug: Follitropin alfa
+Drug: Exemestane
+Drug: Rosuvastatin alone
+Drug: RGN-259
+Drug: peficitinib
+Drug: Remaxol®
+Drug: Lorlatinib
+Drug: atropine + atracurium + sufentanil
+Drug: Doxercalciferol (GZ427397)
+Drug: Placebo 300mg
+Drug: Risperidone ISM 100 mg
+Drug: BI 695502
+Drug: Thiamine Placebo
+Drug: AQX-1125 100 mg
+Drug: amiloride
+Drug: Gadobutrol
+Drug: NSAA
+Drug: Insulin degludec/liraglutide
+Drug: Topical Pirfenidone
+Drug: Cannabidiol (CBD) Oil Capsules
+Drug: DWC20155
+Drug: Ethionamide
+Drug: Fimsartan 60mg~120mg
+Drug: Roxane Laboratories Inc., USA
+Drug: insulin degludec/liraglutide
+Drug: Choriomon
+Drug: Apatinib(Tab. 500mg/d) combined with EGFR-TKI(as previously)
+Drug: PR Oxycodone
+Drug: Cross-over to AZD9291
+Drug: 10-day bismuth-based quadruple therapy
+Drug: Intrathecal methotrexate
+Drug: Omega-3 fish oil lipid emulsion
+Drug: Ibuprofen + Opioid medication
+Drug: IV insulin to maintain target glucose concentration of 80-130 mg/dL
+Drug: Saline Solution for Injection
+Drug: Dysport Injectable Product
+Drug: Vincristine sulfate
+Drug: Lidocaine
+Drug: Pyrotinib Plus Capecitabine
+Drug: Vitamin D3 (High dose)
+Drug: Vehicle Ophthalmic Solution
+Drug: Tedizolid Phophate 200 mg, IV and/or oral for 6 days
+Drug: Tenofovir Disoproxil Fumarate
+Drug: deutetrabenazine Low
+Drug: mitoxantrone hydrochloride
+Drug: IST (ATG + CsA)
+Drug: rexlemestrocel-L + HA
+Drug: TDF/FTC
+Drug: gabapentin
+Drug: Magnesium
+Drug: IMGN853
+Drug: Treatment duration of cisplatin based chemotherapy
+Drug: Intralipid 20%
+Drug: Delayed-Release Prednisone
+Drug: Simvastatin 40mg
+Drug: commercially available lansoprazole
+Drug: ifosfamide
+Drug: 700 µg dexamethasone
+Drug: rFVIIa
+Drug: intravenous dexmedetomidine
+Drug: secukinumab
+Drug: Terlipressin acetate
+Drug: Preoperative Chemotherapy
+Drug: Active OCS capsules (5 mg prednisolone or prednisone)
+Drug: Lenalidomide, Dexamethasone, PBSCT
+Drug: Enoxaparin
+Drug: Placebo 50 mg
+Drug: NTRA-2112
+Drug: chemotherapy followed by an aromatase inhibitor (AI)
+Drug: concomitant chemotherapy plus an aromatase inhibitor (AI)
+Drug: Vitamin B12 Injection
+Drug: Ceritinib
+Drug: Ranitidine
+Drug: VX-661/ivacaftor
+Drug: vonapanitase
+Drug: clomiphene citrate alone
+Drug: Bimatoprost
+Drug: Paclitaxel and Cisplatin
+Drug: glyceryl trioleate
+Drug: Mistletoe extract (Iscador Qu)
+Drug: DPP-4 inhibitor (sitagliptin)
+Drug: Ecopipam 100mg
+Drug: Fermented Soy
+Drug: Metformin Hydrochloride
+Drug: Ticagrelor 60 mg
+Drug: VAL-083, Dianhydrogalactitol
+Drug: PVP-I 0.6%
+Drug: Risperidone implant
+Drug: Zolpidem extended-release
+Drug: Ketamine Hydrochloride
+Drug: Ketoconazole + betamethasone dipropionate
+Drug: Ledipasvir/Sofosbuvir
+Drug: Fludarabine and Busulfan + Low Dose Total Body Irradiation (LD TBI)
+Drug: CDZ173
+Drug: bosentan
+Drug: Placebo for Azilsartan Medoxomil
+Drug: Piperacillin tazobactam
+Drug: Monthly dihydroartemisinin-piperaquine (DP) for infants
+Drug: naloxegol
+Drug: ADXS11-001
+Drug: ADT (Standard of Care)
+Drug: Nevirapine, zidovudine, lamivudine
+Drug: Ibuprofen 400 mg
+Drug: CJ-12420 50 mg QD
+Drug: nalbuphine HCl ER 180 mg BID
+Drug: Dapagliflozin
+Drug: Indacaterol/Glycopyrrolate
+Drug: 0.1% sodium bromide solution
+Drug: Docetaxel, cisplatin
+Drug: Somatostatin-Analog
+Drug: Prednisone, Vincristine, Daunorubicin, PEG-L-asparaginase, Erwinia L-asparaginase, Doxorubicin, Cyclophosphamide, Cytarabine, Thioguanine
+Drug: ACT-293987
+Drug: epirubicin+cisplatin+capecitabine
+Drug: Rivaroxaban (15 mg)
+Drug: Lisinopril
+Drug: Propofol+ Rocuronium+ Fentanyl 2 mcg/kg+ Inhalational Agent, Bupivacaine 0.125% + Fentanyl 5 mcg/ml
+Drug: IBI301 plus CHOP
+Drug: Nicotinamide
+Drug: dexamethasone acetate
+Drug: Guselkumab Dose 3
+Drug: ABT-450/r/ABT-267
+Drug: Ledipasvir-Sofosbuvir
+Drug: Pravastatin
+Drug: current standard HAART treatment
+Drug: trastuzumab [Herceptin]
+Drug: Bu-Zhong-Yi-Qi-Tang
+Drug: AIN457 (secukinumab)
+Drug: Milnacipran
+Drug: Calciumfolinat
+Drug: Netupitant/Palonosetron Hydrochloride
+Drug: Placebo (for Nicotinamide)
+Drug: Remicade
+Drug: Gonadotropin releasing hormone antagonist
+Drug: gemcitabine and cisplatin (Induction chemotherapy)
+Drug: Fulvestrant
+Drug: Progesterone vaginal ring (PVR)
+Drug: Leuprolide Acetate 45 mg
+Drug: observation alone
+Drug: MT-5199
+Drug: Tenofovir disoproxil fumarate 300 mg / lamivudine 300 mg
+Drug: NACT (Paclitaxel + Cisplatin or carboplatin)
+Drug: chlorambucil (drug)
+Drug: Capecitabine +/- Oxaliplatin
+Drug: Gentamicin Sulfate, Injectable
+Drug: Ultrasound contrast agent (Contrast-enhanced ultrasound)
+Drug: Antiretroviral therapy (ART)
+Drug: Heparin
+Drug: Bosinji
+Drug: docetaxel,0xaliplatin,capecitabine
+Drug: Ipilimumab
+Drug: eteplirsen
+Drug: Growth Hormone
+Drug: Pethidine hydrochloride
+Drug: Immune Globulin 10% Intravenous Solution
+Drug: REGN2810/ipi
+Drug: 5Fluorouracil bolus
+Drug: Esketamine 84 mg
+Drug: Lurbinectedin (PM01183)
+Drug: ketamine
+Drug: Norco
+Drug: Pravastatin40mg/Fenofibrate160mg
+Drug: Platelet Concentrate
+Drug: N-Acetylcysteine
+Drug: Ustekinumab 90 mg
+Drug: SENS-111 200mg
+Drug: Healthy-HIV-negative
+Drug: Reference Product
+Drug: Phytolacca decandra
+Drug: Placebo to ACV
+Drug: Aricept
+Drug: Maintenance (intensive & non-intensive pathways - protocol v5.0 only) - lenalidomide plus vorinostat maintenance
+Drug: Triamcinolone
+Drug: Temsirolimus
+Drug: PBK-1701TC
+Drug: Sulopenem-Etzadroxil/Probenecid
+Drug: Enoxaparin 40 Milligrams/0.4 Milliliters Prefilled Syringe
+Drug: Dendritic cell immunotherapy
+Drug: VKA-Based Regimen
+Drug: Atezolizumab (MPDL3280A), an engineered anti-PDL1 antibody
+Drug: decitabine
+Drug: Empagliflozin 10Mg Tab
+Drug: SPARC0921
+Drug: Treatment of MTX and TwHF
+Drug: Arbaclofen
+Drug: Gonyautoxins
+Drug: Steroid + rituximab
+Drug: Ocrelizumab
+Drug: Cefoxitin
+Drug: Placebo to metformin
+Drug: CyclASol topical ocular, eye drops
+Drug: Tildrakizumab 100 mg
+Drug: Apalutamide
+Drug: Dacomitinib (PF-00299804)
+Drug: Remifentanil and/or propofol
+Drug: Nitroglycerin II
+Drug: Oxybutynin ER
+Drug: Fremanezumab - A
+Drug: Ropivacaine administration
+Drug: Implantable Naltrexone (IN)
+Drug: Etonogestrel-Immediate
+Drug: pirarubicin
+Drug: Cabozantinib tablets
+Drug: Napabucasin
+Drug: General anesthesia and opioids
+Drug: I131
+Drug: aPCC
+Drug: RPh201
+Drug: HR (rifampicin plus isoniazid combination tablets)
+Drug: Mirtazapine
+Drug: pyrotinib
+Drug: suprachoroidal CLS-TA + IVT anti-VEGF agent
+Drug: Everolimus Placebo
+Drug: SDD Paste
+Drug: Experimental drug: Aprepitant
+Drug: Olokizumab 64mg q4w
+Drug: Liothyronine
+Drug: Fesoterodine BIC 2 mg
+Drug: Empagliflozin
+Drug: Ciclopirox 80 mg/g
+Drug: JR-131
+Drug: injectable naltrexone
+Drug: docetaxel, cisplatin, and capecitabine
+Drug: Treatment Choice
+Drug: EPREX®
+Drug: Standard: Ondansetron
+Drug: ABT-493/ABT-530
+Drug: Placebo for Vericiguat
+Drug: Temocillin
+Drug: Dose-dense Doxorubicin or dose-dense Epirubicin
+Drug: SC411
+Drug: Colchicine-Placebo
+Drug: AG-120 (ivosidenib) with Azacitidine
+Drug: Oral Methotrexate + Placebo for Etanercept
+Drug: NaCl (0,9%)
+Drug: Entresto
+Drug: SHP465
+Drug: Polatuzumab Vedotin
+Drug: NAL-GLU GnRH antagonist
+Drug: Metformin 1500mg, QD
+Drug: Cholecalciferol 100 000 UI
+Drug: Fibrinogen Concentrate Human
+Drug: Once weekly subcutaneous injection of TransCon hGH
+Drug: Sitagliptin
+Drug: BAY1841788 / darolutamide (ODM-201)
+Drug: hydroxyurea
+Drug: Intraoperative Gabexate Mesilate group
+Drug: Liraglutide
+Drug: Metformin
+Drug: ATV
+Drug: BGB-A317
+Drug: bleomycin
+Drug: moxetumomab pasudotox
+Drug: triple therapy
+Drug: Cavity Cleanser
+Drug: Terconazole
+Drug: NaCl 9%
+Drug: Vinblastine Sulfate
+Drug: MF 400
+Drug: Binimetinib
+Drug: Placebo Tablets
+Drug: Metabolic treatment
+Drug: nedaplatin
+Drug: HLX04 100 mg in 4 ml Injection
+Drug: Bardoxolone Methyl
+Drug: Delamanid
+Drug: De-escalation(short-spectrum antibiotic)
+Drug: azithromycin
+Drug: Glecaprevir/pibrentasvir
+Drug: ALK Alutard birch or 5-grasses
+Drug: Recombinant Human Prourokinase
+Drug: Doxorubicin hydrochloride
+Drug: CCNU
+Drug: Ifosphamide, Etoposide, Methotrexate, Vincristine, Prednisone
+Drug: ABVD (Adriamycin, Bleomycin, Vinblastine, Dacarbazine)
+Drug: Plasma-Lyte
+Drug: Luspatercept
+Drug: everolimus
+Drug: Placebo 100 (for Aspirin 100)
+Drug: Pre-radiotherapy commencement of anastrozole
+Drug: Preloading before TAVI
+Drug: BFF MDI (PT009)
+Drug: NaCL 0.9%
+Drug: Platinum-based immunochemotherapy followed in responding patients with high dose chemotherapy and HSCT
+Drug: Pemetrexed
+Drug: glecaprevir (300mg)/pibrentasvir (120mg)
+Drug: Ricover-scheme rituximab
+Drug: CAP
+Drug: MF 200 µg
+Drug: Standard treatment
+Drug: SPN-810
+Drug: Hyoscine butylbromide, Analgesics, Non-Narcotic
+Drug: Hydrocortisone Sodium Succinate
+Drug: DLBS1442 100
+Drug: ALK Diluent
+Drug: Lysine Acetilsalicilate
+Drug: APO-go®
+Drug: Pembrolizumab
+Drug: Leflunomide
+Drug: FMX-103
+Drug: Ticagrelor Placebo
+Drug: UTD1 Injection plus capecitabine
+Drug: Dexamethasone,Vincristine, Pegylated-asparaginase, Cytarabine, Cyclophosphamide, Methotrexate
+Drug: X-396 (ensartinib)
+Drug: Acalabrutinib
+Drug: Baricitinib
+Drug: Commercial Hepatitis B vaccine
+Drug: elotuzumab
+Drug: Loteprednol etabonate
+Drug: alirocumab SAR236553 (REGN727)
+Drug: PAC-14028 cream Vehicle
+Drug: SPN-812 ER High Dose B
+Drug: Trastuzumab deruxtecan (DS-8201a)
+Drug: Platinum-containing salvage chemotherapy (eg, R-ICE) followed by high dose therapy (eg, BEAM) and autologous stem cell transplant in responders.
+Drug: Classic treatment
+Drug: IN saline 0.9%
+Drug: TAF Placebo
+Drug: risankizumab IV
+Drug: Matching Placebo
+Drug: GP MDI 7.2 µg
+Drug: Olaratumab
+Drug: Duloxetine (Oral Antidepressant)
+Drug: deutetrabenazine High
+Drug: Repamipide
+Drug: orphenadrine, acetaminophen, caffeine and diclofenac sodium
+Drug: Nebulized ipratropium bromide
+Drug: PP3M 525 mg eq.
+Drug: Vibramycin
+Drug: ART plus Chidamide
+Drug: Propranolol
+Drug: pegylated formula Interferon-alpha 2b
+Drug: androgen-deprivation therapy
+Drug: Placebo Oral Tablet
+Drug: NETILDEX™ eye drops solution
+Drug: Butylphthalide Placebo
+Drug: AC0010
+Drug: Venlafaxine Extended Release (XR) (Oral Antidepressant)
+Drug: Octenidinedihydrochlorid
+Drug: Chlorhexidine Gluconate
+Drug: DEX Combined With RTX, CSA and IVIG
+Drug: Pemetrexed/Cisplatin
+Drug: clofarabine
+Drug: SBC-102 [sebelipase alfa] (1 mg/kg)
+Drug: Ceftriaxone intravenous
+Drug: Ustekinumab 90 mg SC q8w
+Drug: Combination pharmacotherapy - Transdermal nicotine patch + bupropion
+Drug: Triptorelin
+Drug: Boosted Protease Inhibitor (bPI)
+Drug: Best Standard of Care
+Drug: risedronate
+Drug: sotagliflozin (SAR439954)
+Drug: flecainide
+Drug: AG-120
+Drug: concurrent chemotherapy with cisplatin
+Drug: Xeloda
+Drug: Z-100
+Drug: Placebo to Denosumab
+Drug: Propranolol Hydrochloride
+Drug: Elagolix
+Drug: NSAIDs
+Drug: Cholestyramine Powder 4g
+Drug: Argatroban
+Drug: Indomethacin SR
+Drug: nabiximols
+Drug: Amphora gel
+Drug: ADT
+Drug: Additional oral preparation (3L of PEG+Asc, "Coolprep®")
+Drug: Trimethoprim/sulfamethoxazole
+Drug: Placebo Vaginal Insert
+Drug: Caffeine
+Drug: Sustanon 250
+Drug: armodafinil 250 mg
+Drug: DWJ1319
+Drug: Dobutamine
+Drug: Water
+Drug: Idarucizumab
+Drug: Day 1: Carboplatin AUC=5
+Drug: intrathecal morphine
+Drug: CP-690,550 10 mg
+Drug: Cannabis
+Drug: APL-130277
+Drug: Berberine
+Drug: Vehicle cream
+Drug: Pegasys
+Drug: Axitinib
+Drug: CapeOX(Capecitabine+Oxaliplatin)
+Drug: Larazotide Acetate
+Drug: YHP1701
+Drug: Pertuzumab IV
+Drug: NVK-002 Concentration 1
+Drug: Botulinum toxin type A injection
+Drug: ABT-414
+Drug: dexamethason
+Drug: Tiotropium Respimat 5mcg QD
+Drug: Fentanyl Sublingual Spray
+Drug: oral levofloxacin
+Drug: metoclopramide
+Drug: Oral paclitaxel
+Drug: No antithrombin supplementation
+Drug: tivozanib hydrochloride
+Drug: Arm D Cladribine
+Drug: Ringer's Solution
+Drug: Paclitaxel, Bevacizumab, liposomal doxorubicin, Capecitabine
+Drug: Two anti-pseudomonal antibiotics
+Drug: Ustekinumab
+Drug: Perindopril or Perindopril/Indapamide
+Drug: Taxane
+Drug: NexoBrid
+Drug: Oxaliplatin plus S-1
+Drug: macitentan
+Drug: Estradiol
+Drug: CaPre
+Drug: Doxorubicin, cyclophosphamide, carboplatin, thiotepa, cyclophosphamide
+Drug: High-dose intravenous methotrexate
+Drug: Asparaginase
+Drug: Aripiprazole Oral Solution
+Drug: ASA 100 mg
+Drug: Raltegravir
+Drug: St. John's Wort
+Drug: Zepatier Oral Product
+Drug: Rituximab - CHOP
+Drug: Flucloxacillin
+Drug: N-acetyl cysteine (NAC)
+Drug: Trichosanthes root
+Drug: Docetaxel + Plinabulin (DP)
+Drug: Intragel
+Drug: Capecitabine/cisplatin
+Drug: Interferon ß-1a
+Drug: Docetaxel/capecitabine followed by XEC
+Drug: Candesartan
+Drug: Diclofenac Potassium 50 MG
+Drug: Vehicle of ADX-102 Ophthalmic Solution
+Drug: Letrozole Plus Low-Dose Metronomic Capecitabine
+Drug: Combined Oral Contraceptives
+Drug: Simvastatin 20 mg
+Drug: Lasix ®
+Drug: Thiopental
+Drug: Saline 0.9%
+Drug: Citalopram Hydrobromide
+Drug: droxidopa
+Drug: armodafinil 150 mg
+Drug: Treprostinil diethanolamine
+Drug: arsenic trioxide
+Drug: Standard of care
+Drug: RHB-104
+Drug: cisplatin and pemetrexed
+Drug: Atosiban
+Drug: varenicline
+Drug: Crizotinib
+Drug: Placebo (for Selenium)
+Drug: MEK162
+Drug: Sarilumab
+Drug: saline
+Drug: SEL
+Drug: spironolactone
+Drug: Pharmacological stress agents
+Drug: Rivaroxaban 15 mg qd
+Drug: ABIRATERONE - Group 1
+Drug: Jinfukang Koufuye
+Drug: Atorvastatin 80mg
+Drug: Botulinum Toxin type A (intradermal / submucosal injection at pain area)
+Drug: IXAZOMIB
+Drug: AndroGel
+Drug: S-1 (1-(2-tetrahydrofuryl)-5-fluorouracil + CDHP (Gemeracil) + Oxo (Oteracil)
+Drug: optional ASA as comedication
+Drug: palonosetron+dexamethasone
+Drug: F/TDF Placebo
+Drug: MELATONIN (HIGH DOSE)
+Drug: Secukinumab (AIN457)
+Drug: CM-AT
+Drug: Olmesartan medoxomil 40mg + chlorthalidone 12,5mg
+Drug: Paclitaxel and Carboplatin
+Drug: Abiraterone acetate Placebo
+Drug: Ruxolitinib
+Drug: Day 1: Vinorelbine 30 mg/m2
+Drug: Raltegravir Placebo
+Drug: Lansoprazole/Amoxicillin/Clarithromycin
+Drug: Dalteparin
+Drug: Etoposide
+Drug: Hylan G-F 20
+Drug: PP3M 350 mg eq.
+Drug: ADI-PEG 20 plus Pem Cis
+Drug: QL1101
+Drug: Stepwise add-on therapy
+Drug: SPECT MPI
+Drug: Mercaptopurine (Purinethol)
+Drug: Cabotegravir (CAB) tablet
+Drug: Azacitidine
+Drug: Day 8: Capsule vinorelbine 50 mg/m2
+Drug: DEB
+Drug: Tacrolimus
+Drug: bivalent HPV vaccine
+Drug: Brigatinib
+Drug: Acetazolamide
+Drug: Rexmyelocel-T
+Drug: Anakinra 100 mg
+Drug: 12.5 mg hydrochlorothiazide
+Drug: 18F-AV-1451
+Drug: Acetaminophen (paracetamol) or equivalent
+Drug: sapropterin dihydrochloride
+Drug: Ephedrine
+Drug: Fludarabine(Flu)
+Drug: Intravenous ketamine0.5mg/kg
+Drug: Penicillamine
+Drug: glasdegib
+Drug: Peginterferon a2b
+Drug: Dalbavancin single dose
+Drug: Placebo to match sacubitril/valsartan
+Drug: Efpeglenatide (SAR439977)
+Drug: Inhaled budesonide
+Drug: normal saline 0.9%
+Drug: Calcium Carbonate
+Drug: oral corticosteroids
+Drug: Non-steroidal aromatase inhibitor therapy
+Drug: Florbetapir (18F)
+Drug: Ribavirin
+Drug: BMN165 40mg/day
+Drug: MR308
+Drug: Denosumab
+Drug: Teriparatide
+Drug: Oral methotrexate
+Drug: 5% Glucose after ICU admission
+Drug: GLA5PR GLARS-NF1
+Drug: Eltrombopag
+Drug: Vancomycin
+Drug: Linaclotide
+Drug: Cyclosporin A
+Drug: LY01008
+Drug: Relugolix
+Drug: Ataluren
+Drug: Cyclosporine or Tacrolimus
+Drug: revefenacin
+Drug: ESL 1600 mg
+Drug: Standard Care control - sliding scale insulin to keep glucose less than 180 mg/dL
+Drug: Occipital Nerve Block (ONB) using lidocaine and dexamethosone
+Drug: Rituximab IV
+Drug: BCD-085
+Drug: 75 mg SHP647
+Drug: SB8
+Drug: Ofatumumab subcutaneous injection
+Drug: 100mg Berberine hydrochloride
+Drug: i.v. sodium bicarbonate
+Drug: Triple therapy group
+Drug: Oral Risperidone
+Drug: Placebo capsules
+Drug: Mifepristone
+Drug: Cetrorelix
+Drug: Fenoldopam
+Drug: Disulfiram
+Drug: Coolprep powder
+Drug: Peginterferon-a-2a
+Drug: Apaziquone
+Drug: Placebo Comparator
+Drug: Naltrexone Injectable Suspension
+Drug: plasma volume expander
+Drug: S-1 for 1 year
+Drug: Diuretics : Furosemide
+Drug: Fimasartan or Fimasartan/Hydrochlorothiazide
+Drug: MDR-101
+Drug: saline solution
+Drug: VX-210
+Drug: TAK-536 2.5 mg
+Drug: DEX 0.2 µg/kg/h.
+Drug: VKA-based Regimen
+Drug: Methylprednisolone + ASTED
+Drug: TOPIC MUCOPOLYSACCHARIDE POLYSULFATE 5MG/G
+Drug: Vedolizumab SC
+Drug: Erlotinib Hydrochloride
+Drug: (Epirubicin Cisplatin 5-Fluorouracil / Xeloda) OR 5-Fluorouracil Leucovorin Oxaliplatin Docetaxel
+Drug: Travoprost
+Drug: Cytisine Placebo
+Drug: dolutegravir
+Drug: Atripla
+Drug: Volanesorsen
+Drug: FDA Approved Bowel Preparation
+Drug: Memantine
+Drug: concurrent chemotherapy with docetaxel
+Drug: Ixabepilone
+Drug: paclitaxel; cisplatin
+Drug: Thymoglobulin
+Drug: Amoxicillin-Potassium Clavulanate Combination
+Drug: Omecamtiv Mecarbil
+Drug: sirolimus
+Drug: rifapentine
+Drug: Placebo for sitagliptin
+Drug: Baseline regimen of ritonavir- or cobicistat-boosted protease inhibitor
+Drug: Basal insulin and bolus insulin
+Drug: Esflurbiprofen
+Drug: lidocaine in Vaseline ointment
+Drug: Levofloxacin
+Drug: Dolutegravir film-coated tablets
+Drug: 90 mcg Reference Product
+Drug: HS-25 and Atorvastatin
+Drug: Levobupivacaine
+Drug: Atenolol
+Drug: Zinc Sulfate
+Drug: Abiraterone acetate or Enzalutamide or Docetaxel
+Drug: Fluocinolone Acetonide (FA) implant
+Drug: Paracel 2 R0185
+Drug: Oxymorphone HCl
+Drug: Placebo to match adalimumab
+Drug: Gallium Ga 68-labeled GRPR Antagonist BAY86-7548
+Drug: Valsartan
+Drug: 500 mg of depot hydroxy-progesterone
+Drug: 14-day course of antibiotics
+Drug: Placebo 1
+Drug: Dexamethasone Phosphate Ophthalmic Solution
+Drug: Hydrogen
+Drug: Physician's Choice of Salvage Therapy - carboplatin
+Drug: Fosfomycin sodium intravenous
+Drug: lenvatinib
+Drug: Ondansetron 4 MG
+Drug: Bupivacaine HCl with epinephrine infiltration
+Drug: Ribociclib
+Drug: Octafibrin
+Drug: Phentermine
+Drug: Fluticasone propionate/salmeterol 100/50 µg
+Drug: Perampanel
+Drug: Pomalidomide
+Drug: Lenalidomide (Control)
+Drug: Tafamidis
+Drug: Placebo for DCCR
+Drug: nab-Paclitaxel
+Drug: CR845 0.5 mcg/kg
+Drug: CM082
+Drug: IC-Green KIT
+Drug: VX-659
+Drug: fentanyl transmucosal
+Drug: Semaglutide 1.0 mg
+Drug: Prednisone,Vincristine, Pegylated-asparaginase, Cytarabine, Cyclophosphamide, Daunorubicin, 6-mercaptopurine
+Drug: Paromomycin Sulfate
+Drug: Placebo (for Aspirin 300)
+Drug: Ipatasertib
+Drug: Plus laxative (Docusate with senna)
+Drug: Meperidine Injection
+Drug: Placebo for Cannabis
+Drug: 0 mg prednisone
+Drug: Companion Tablet
+Drug: Varenicline
+Drug: Placebo filling
+Drug: Evolocumab 420 mg SC QM
+Drug: Daunorubicin hydrochloride
+Drug: Celebrex plus Metformin
+Drug: NPSP558
+Drug: Avatrombopag
+Drug: LAC triple therapy
+Drug: Compound realgar natural indigo Tablet
+Drug: Saline Solution
+Drug: Spiromax Budesonide/formoterol
+Drug: optimized antiparkinsonian treatment
+Drug: Alirocumab SAR236553
+Drug: BMS-986205
+Drug: Betamethason Sodium Phosphate
+Drug: S-649266
+Drug: Sildenafil
+Drug: PARCEL
+Drug: Nanoxel®M
+Drug: G-CSF (Filgrastim injection)
+Drug: Omega 3
+Drug: Epirubicin Hydrochloride
+Drug: Ropivacaine and Normal saline
+Drug: Placebo I
+Drug: Romidepsin
+Drug: Treatment of Panlongqi Tablet
+Drug: abiraterone acetate
+Drug: standard chemo- or endocrine therapy
+Drug: thryoid hormone T4 + oral potassium iodide (KI) for 42 days
+Drug: Etanercept + Oral Methotrexate
+Drug: TransCon hGH
+Drug: Follistim
+Drug: Oral TDF/FTC
+Drug: Medox® Anthocyanin capsules
+Drug: Daptomycin
+Drug: Toremifene
+Drug: chemoradiotherapy Paclitaxel
+Drug: Pegylated Interferon alfa-2a
+Drug: FP/SAL
+Drug: SHP607
+Drug: All-trans retinoic acid (ATRA)
+Drug: Kcentra
+Drug: Anthra
+Drug: 1% Lidocaine
+Drug: Guselkumab 100 mg
+Drug: corticotherapy
+Drug: Celestamine®
+Drug: Prednisolones acetate
+Drug: Trehalose
+Drug: insulin glargine/lixisenatide fixed ratio combination
+Drug: Neoadjuvant FOLFOX
+Drug: Bempedoic acid 180 mg tablet
+Drug: Flutemetamol (18F)
+Drug: Etrozulimab
+Drug: Standard: Dexamethasone
+Drug: Tesetaxel and Capecitabine
+Drug: dtEC?dtT
+Drug: Sulfonylurea
+Drug: abiraterone
+Drug: Diphenhydramine or equivalent
+Drug: Mesalamine
+Drug: Terizidone
+Drug: Brinzolamide
+Drug: Neoadjuvant chemotherapy
+Drug: Ombitasvir, Paritaprevir, Ritonavir, Dasabuvir
+Drug: Salmeterol/fluticasone plus tiotropium
+Drug: Arimoclomol
+Drug: HUACHANSU PIAN
+Drug: LIA Combination Mixture
+Drug: Pegaspargase
+Drug: Amchafibrin
+Drug: Tantum Verde® Spray
+Drug: Salsalate
+Drug: Aromatase inhibitor
+Drug: sodium selenite
+Drug: Active Treatment Group 7% Hypertonic Saline
+Drug: Placebo for methotrexate
+Drug: Induction (intensive pathway) - cyclophosphamide, thalidomide, & dexamethasone (CTD) regimen
+Drug: propafenone
+Drug: sacubitril/valsartan
+Drug: Benralizumab (Medi-563)
+Drug: Growth Factor, Platelet-Derived
+Drug: Darunavir/Cobicistat/Emtricitabine/Tenofovir Alafenamide FDC
+Drug: Insulin lispro
+Drug: Adjuvant chemotherapy by Fotemustin
+Drug: OBS
+Drug: RPV 25 mg
+Drug: Vancomycin 1.1%
+Drug: Iron sucrose
+Drug: Ibritumomab Tiuxetan + Maintenance
+Drug: mechanistic Target of Rapamycin (mTOR) inhibitors (everolimus or sirolimus)
+Drug: Inosine
+Drug: Apremilast 30mg
+Drug: 600 mg Clindamycin orally
+Drug: Methotrexate, Cyclophosphamide, Cytarabine, Etoposide
+Drug: Glycemic Rescue 1
+Drug: BLI800
+Drug: NTRA-9620
+Drug: 18F-FES PET
+Drug: Trastuzumab Emtansine
+Drug: Xarelto
+Drug: Levonorgestrel (Kyleena, BAY86-5028)
+Drug: Ringer Lactate
+Drug: Simvastatin
+Drug: Ramipril
+Drug: Oxybutynin
+Drug: Omalizumab
+Drug: Zoledronic acid
+Drug: Pegylated Liposomal Doxorubicin (PLD/Doxil®/Caelyx®)
+Drug: Induction chemotherapy
+Drug: QAW039
+Drug: L-Threo DOPS
+Drug: Retigabine (INN), Ezogabine (USAN)
+Drug: Tranexamic Acid Injectable Solution
+Drug: Carboplatin
+Drug: Growth Factors
+Drug: SCRT
+Drug: High dose Aspirin & Vitamin D
+Drug: Dolutegravir film-coated dispersible tablets
+Drug: CHEMOTHERAPY then HORMONOTHERAPY
+Drug: Daclizumab
+Drug: HRIG
+Drug: L-Plat
+Drug: COL
+Drug: Candiplus
+Drug: Diclofenac Potassium 50mg Tab
+Drug: MYL-1501D
+Drug: nab-paclitaxel
+Drug: ocrelizumab
+Drug: Vitamin K antagonists (VKA)
+Drug: Cetuximab wkly
+Drug: Cyclophosphamide, Vindelsine, Cytarabine, Doxorubincin, Prednisone
+Drug: Tab Premarin (Ethinyl estradiol)
+Drug: rizankizumab SC
+Drug: Propranolol Pill
+Drug: dalcetrapib
+Drug: Pectoral Nerve Block
+Drug: Ticagrelor 45 mg
+Drug: Ketamine continuous infusion
+Drug: 18 F FDG followed by PET/CT imaging
+Drug: EU Avastin®
+Drug: Standard of care with Mino-Lok Therapy (MLT)
+Drug: Butylphthalide Soft Capsules
+Drug: IV titration of morphine chlorhydrate
+Drug: Atezolizumab
+Drug: TAF
+Drug: Y peginterferon alfa-2b
+Drug: amorolfine 5%
+Drug: Sipjeondaebo-tang Granule
+Drug: 25 mg SHP647
+Drug: Tolvaptan Oral Tablet
+Drug: Paclitaxel/Cisplatin
+Drug: Pleyris
+Drug: Paclitaxel and Fluorouracil
+Drug: Ibrutinib (Maintenance)
+Drug: Lanreotide (Autogel formulation)
+Drug: etanercept
+Drug: Placebo tablet
+Drug: Aspirin Low Dose
+Drug: Polyethylene Glycol
+Drug: 68Ga-DOTATATE PET/CT
+Drug: MEDI4736 (Durvalumab)
+Drug: GnRH
+Drug: Entecavir
+Drug: Traditional general anesthetic
+Drug: Goserelin Acetate
+Drug: DCS (D-Cycloserine ) + Virtual Reality Exposure
+Drug: control
+Drug: Vildagliptin
+Drug: Bexagliflozin
+Drug: standard chemotherapy for colorectal cancer
+Drug: Optive
+Drug: Tacrolimus and MMF.
+Drug: epirubicin hydrochloride
+Drug: Xilytol tablet to limit dental biofilm
+Drug: cisplatin+capecitabine
+Drug: Lidocaine Infusion
+Drug: lidocaine-prilocaine cream
+Drug: Anastrozole
+Drug: Leuprolide Mesylate
+Drug: Vitamin D3: 3000 or 4000 UI/day then 2,000 UI/day
+Drug: Acetylsalicylic acid
+Drug: 0.9% sodium-chloride solution
+Drug: Abatacept
+Drug: Recombinant Human Adenovirus Type 5 Injection
+Drug: Hydralazine/Magnesium
+Drug: N-acetyl-L-cysteine (NAC)
+Drug: Peg-Filgrastim
+Drug: Tocilizumab Injection
+Drug: 129Xe MRI
+Drug: Oxycodone Placebo
+Drug: MK-1439A
+Drug: PTH1-84 in parent study
+Drug: 177Lu-DOTA0-Tyr3-Octreotate
+Drug: Ropivacaine (TAP blocks)
+Drug: Colecalciferol
+Drug: Botulinum toxin A (GSK1358820)
+Drug: sodium nitrite 60 mg
+Drug: Progesterone Soft Capsules
+Drug: Modulation of Inspired Fraction of Oxygen (FiO2)
+Drug: R-CHOP / R-HAD
+Drug: Sorafenib 200Mg Tab
+Drug: Normal Saline Flush, 0.9% Injectable Solution
+Drug: 250 ppm F as NaF (dose-response control)
+Drug: group (B)
+Drug: Lidocaine Hydrochloride 2 mg/mL Injectable Solution
+Drug: FF/UMEC/VI (200/62.5/25) mcg
+Drug: 10 mg Rupatadine on demand
+Drug: SGI-110 (guadecitabine)
+Drug: BHV-0223
+Drug: Lurasidone 20, 40, 60, 80 mg, flexibly dosed
+Drug: Once daily subcutaneous injection of Genotropin
+Drug: Abraxane
+Drug: Carbetocin
+Drug: HAART
+Drug: Simethicone Solution
+Drug: BCD-085 Q4W
+Drug: Allowed third antiretroviral agent
+Drug: FOLFOX4
+Drug: Elbasvir 50 mg/d 8 weeks
+Drug: Phentermine /Topiramate (PHEN/ TRP) ER
+Drug: Atropine
+Drug: Tacrolimus (Tacrolimus elimination)
+Drug: Spironolactone-Placebo
+Drug: Voltaren® (diclofenac sodium 50mg)
+Drug: efavirenz/emtricitabine/tenofovir disoproxil fumarate
+Drug: Placebo of Molidustat (BAY85-3934)
+Drug: isosorbide mononitrate
+Drug: Paclitaxel, or Docetaxel, or Irinotecan
+Drug: MMX Mesalamine/Mesalazine (Low Dose)
+Drug: Anacetrapib
+Drug: Sulfur hexafluoride lipid-type A microspheres
+Drug: Entecavir and or adefovir dipivoxil
+Drug: 0.05% Desonide
+Drug: levodopa
+Drug: Arm B - PCI-32765
+Drug: rivaroxaban
+Drug: Follitropin alfa (Gonal-f)
+Drug: Mefenamic acid
+Drug: oxymorphone HCl
+Drug: GELAD
+Drug: Oxycodone, 0.03 mg/kg dose
+Drug: PXT3003 dose 1
+Drug: Antiplatelet treatment
+Drug: Oral Ornidazole
+Drug: Sitagliptin + Metformin FDC
+Drug: Ravidasvir Placebo
+Drug: Diphenhydramine
+Drug: TGFP
+Drug: Methylprednisolone + prednisolone
+Drug: LGX818
+Drug: Low dose hCG plus FSH co-trigger
+Drug: Arm A Mylotarg
+Drug: Lidocaine Hydrochloride
+Drug: Granisetron
+Drug: Azithromycin
+Drug: GROUP 3: Control
+Drug: OxyCODONE 5 Mg Oral Tablet
+Drug: Cannabidiol
+Drug: Flupentixol +Melitracen
+Drug: MitoGel™ instillations
+Drug: Placebo solution
+Drug: Atorvastatin alone
+Drug: Ethinyl Estradiol, Norethindrone acetate, ferrous fumarate
+Drug: Tenofovir Disoproxil Fumarate (TDF)/Lamivudine (3TC)
+Drug: FTC/TDF FDC
+Drug: Azythromycin
+Drug: Vancomycin inhalation powder
+Drug: Permethrin
+Drug: Letrozole (Aromatase Inhibitors)
+Drug: hexaminoavolunate
+Drug: Triptorelin Pamoate PR 3-month
+Drug: Docosahexaenoic acid - 800mg/day
+Drug: Byetta 5Mcg Pen Injection
+Drug: Ketamine 10 MG/ML
+Drug: Ertapenem
+Drug: SB dexmedetomidine bupivacaine block
+Drug: Paclitaxel only
+Drug: lamivudine plus adefovir combination
+Drug: Dexamethasone, 40 mg
+Drug: Bupivacaine Hydrochloride
+Drug: Betamethasone
+Drug: Bevespi Aerosphere
+Drug: Vorinostat
+Drug: corn oil control
+Drug: Vehicle of Bilastine Ophthalmic Solution
+Drug: Doxycycline
+Drug: HLX03
+Drug: EnvarsusXR
+Drug: Talazoparib with enzalutamide
+Drug: GROUP 1: Long testosterone
+Drug: Octreotide capsules
+Drug: Albendazole and Ivermectin
+Drug: Metformin Hydrochloride 1000Mg Tablet
+Drug: Bupivacaine plus Lidocaine
+Drug: pralatrexate
+Drug: Midazolam oral solution
+Drug: Simeprivir (SMV)
+Drug: tasimelteon
+Drug: WH-1 ointment
+Drug: Fentanyl
+Drug: IMRT combine with cisplatin concurrent chemotherapy plus capecitabine adjuvant chemotherapy
+Drug: ITI-007
+Drug: Octohydroaminoacridine Succinate
+Drug: Vemurafenib
+Drug: Saxenda
+Drug: Desmopressin ODT 25 µg
+Drug: depatuxizumab mafodotin
+Drug: Interferon beta-1a
+Drug: Placebo oral morning dose
+Drug: Epirubicin
+Drug: Cellcept® in autoimmune bullous dermatoses
+Drug: 90 mcg of albuterol sulfate inhalation aerosol
+Drug: Gonadotropin-Releasing Hormone Analogue
+Drug: docetaxel - cisplatin - 5-fluorouracil
+Drug: rh-Endostatin
+Drug: asunaprevir
+Drug: Delafloxacin
+Drug: ADX-102 Ophthalmic Solution (0.5%)
+Drug: study part 1 - dose daunorubicin
+Drug: Placebo caplet of Metformin XR
+Drug: Olaparib
+Drug: Indoximod
+Drug: Magnesium group
+Drug: Metronidazole(MTZ)
+Drug: Iron Isomaltoside (Monofer)
+Drug: Afrezza Inhalant Product
+Drug: Artemether-lumefantrine
+Drug: Magnesium Oxide
+Drug: FX006 32 mg
+Drug: Dexamethasone
+Drug: normal saline
+Drug: Inclisiran
+Drug: LPV/RTV
+Drug: ofatumumab
+Drug: Placebo matching OCS capsules
+Drug: Secukinumab (75 mg)
+Drug: Avastin®
+Drug: Placebo drink solution
+Drug: Ojeok-San
+Drug: Flutamide
+Drug: Ribavirin Placebo
+Drug: OCYTOCINA - SPRAY NASAL
+Drug: Vonoprazan Placebo
+Drug: Nicotinic acid
+Drug: Digoxin
+Drug: Fimasartan/Amlodipine
+Drug: Saline
+Drug: S-1 single
+Drug: Vehicle
+Drug: Racecadotril plus ORS
+Drug: Epi-Off
+Drug: Tacrolimus BID
+Drug: 12 weeks without Ribavirin
+Drug: Metamizol
+Drug: topotecan hydrochloride
+Drug: Diovan® 320mg + Crestor® 20mg
+Drug: 5-ASA
+Drug: Aprepitant+Tropisetron
+Drug: Experimental drug: Ondansetron
+Drug: Metformin glycinate
+Drug: Bupivacaine & Triamcinolone Acetonide
+Drug: Frozen Plasma Product, Human
+Drug: Budesonide/Formoterol fumarate dihydrate
+Drug: follicle stimulating hormone
+Drug: fluticasone/ salmeterol
+Drug: Sulfatinib
+Drug: Ranibizumab
+Drug: docetaxel, nedaplatin, and capecitabine
+Drug: Midodrine Hydrochloride
+Drug: Lapatinib Plus Capecitabine
+Drug: Mepolizumab
+Drug: Du-176b
+Drug: Dapagliflozin 10Mg Tab
+Drug: Prasugrel
+Drug: Taxotere
+Drug: Sevelamer Carbonate
+Drug: Rifaximin delayed released 400mg Tablet
+Drug: 8% arginine containing paste
+Drug: fludarabine
+Drug: Ferric Citrate
+Drug: Vincristine
+Drug: S-1 only
+Drug: SHP647
+Drug: Eliglustat GZ385660
+Drug: Abraxane (Maintenance)
+Drug: TS-1
+Drug: Cyclobenzaprine with caffeine
+Drug: XELOX regimen
+Drug: somapacitan
+Drug: Levodopa-carbidopa intestinal gel
+Drug: Placebo Butylphthalide Soft Capsules
+Drug: Gastrogra?n
+Drug: Cyclophosphamide injections
+Drug: Ketamine
+Drug: METHOTREXATE
+Drug: Escitalopram
+Drug: turoctocog alfa pegol
+Drug: Intralipid 20% I.V. Fat Emulsion
+Drug: P2B001
+Drug: LCI699
+Drug: Sulopenem
+Drug: trastuzumab and chemotherapy
+Drug: Lévétiracetam
+Drug: FOLFOXIRI with bevacizumab
+Drug: Dexamethasone, Vindesine, Methotrexate, Ifosfamide, Daunorubicin, Pegylated-asparaginase
+Drug: Ricrolin+
+Drug: AL 3818
+Drug: Masitinib
+Drug: Corticosteroid boluses Methylprednisolone
+Drug: Rifampicin
+Drug: Placebo (Saline)
+Drug: Suvorexant 20 mg
+Drug: ZX008 - 0.8 mg/kg/day
+Drug: DEP-Ru
+Drug: selective brain cooling by cold saline perfusion
+Drug: D-cycloserine
+Drug: Ropivacaine after dilution with sodium chloride 0.9%
+Drug: Sinemet®
+Drug: Ivabradine
+Drug: Intrathecal triple
+Drug: IncobotulinumtoxinA (6 Units per kg body weight)
+Drug: Androgel 50 mg
+Drug: Low molecular weight heparin
+Drug: Tempocol® (Peppermint oil)
+Drug: Midostaurin Placebo
+Drug: Sofosbuvir/Ledipasvir plus Ribavirin 12W
+Drug: Metoprolol succinate
+Drug: Fluticasone/ Formoterol
+Drug: Juanbi pill
+Drug: (99m Tc) ECDG (Ethylenedicysteine-Deoxyglucose)
+Drug: Clopidogrel plus ASA
+Drug: Crinone8
+Drug: GANFORT®
+Drug: Sevoflurane
+Drug: Nebulized Ketamine 1mg/kg
+Drug: 18F-choline PET
+Drug: Simeprevir
+Drug: 68Ga- PSMA-HBED-CC
+Drug: Lovastatin
+Drug: Rovalpituzumab tesirine
+Drug: Transdermal Oestradiol
+Drug: Placebo furosemide
+Drug: Ketorolac 30 mg IV
+Drug: human chorionic gonadotrophin + gonadotrophin releasing hormone agonist
+Drug: TDF
+Drug: E/C/F/TAF Placebo
+Drug: Ivermectin Lotion 0.5%
+Drug: Placebo Gel
+Drug: Neostigmine+glycopyrrolate
+Drug: Metronidazole (male partner)
+Drug: Vitamin D3
+Drug: Oxaliplatin HAI
+Drug: idarubicin
+Drug: Melatonin 5 mg
+Drug: 160 µg budesonide + 4.5 µg formoterol fumarate
+Drug: Epo
+Drug: FF/UMEC/VI 200/62.5/25 mcg
+Drug: Oral treprostinil
+Drug: testosterone
+Drug: FYU-981
+Drug: Gentamicin Sulfate
+Drug: aricept Tab
+Drug: Placebo capsule
+Drug: Placebo oral capsule
+Drug: EC to docetaxel or paclitaxel
+Drug: Dexamethasone 0.2 mg/kg
+Drug: Iron therapy
+Drug: Topotecan
+Drug: Aspirin 100mg
+Drug: Temisartan+Amlodipine+Rosuvastatin (Combination drug)
+Drug: Active Comparator: Olaparib tablets
+Drug: Ranolazine plus Metoprolol Combination
+Drug: Balovaptan
+Drug: Talactoferrin alfa
+Drug: Dacarbazine
+Drug: Epoetin Alfa
+Drug: Escitalopram (Oral Antidepressant)
+Drug: Cadisurf
+Drug: Cholestyramine
+Drug: RCHOP21
+Drug: fitusiran
+Drug: FFI-1010
+Drug: rATG
+Drug: midostaurin
+Drug: Fecal Microbiota suspension
+Drug: Chlorhexidine gluconate at 0.12%
+Drug: 5-fluorouracil
+Drug: Bimatoprost SR
+Drug: Lenalidomide, Bortezomib
+Drug: Standard-dose rtPA
+Drug: Placebo for guselkumab
+Drug: abacavir/lamivudine + darunavir/ritonavir
+Drug: EcN-Suspension
+Drug: Placebo Spray
+Drug: Etravirine
+Drug: Tenecteplase
+Drug: Oral Placebo
+Drug: BGB-3111
+Drug: NRX-101
+Drug: orteronel
+Drug: Sodium Nitrite
+Drug: Nicotine Polacrilex 4Mg Lozenge
+Drug: Tocilizumab Placebo
+Drug: Isoniazid for 9 months
+Drug: Olmesartan medoxomil 20mg + Chlortalidone 25mg
+Drug: Emtricitabine
+Drug: D961H capsule 10mg
+Drug: Placebo Liraglutide Pen Injector
+Drug: Trastuzumab
+Drug: Thalidomide (100mg)
+Drug: CF101 3mg
+Drug: Neo-adjuvant chemotherapy
+Drug: aminoglycoside
+Drug: Hemolink (hemoglobin raffimer IV solution)
+Drug: Panadol
+Drug: Placebo i.m. injection
+Drug: Gefapixant 45 mg BID
+Drug: linagliptin
+Drug: US-guided tenotomy with lidocaine
+Drug: BF-200 ALA
+Drug: Rivaroxaban, 7.5 mg
+Drug: Allopurinol
+Drug: Ilaprazole
+Drug: Aqua pro injectione 4ml ampules for subcutaneous injection
+Drug: fluorouracil
+Drug: Benzoyl Peroxide solution Plus Chlorhexidine Scrub
+Drug: Metformin, if taken before
+Drug: Eslicarbazepine acetate (BIA 2-093)
+Drug: Sirolimus + prednisone
+Drug: Paclitaxel Injection
+Drug: tamoxifen
+Drug: Prasterone 6.5 mg (0.50%) Vaginal Insert
+Drug: Ustekinumab SC
+Drug: Metformin XR
+Drug: Vinorelbine+Cisplatin
+Drug: Placebo to sitagliptin
+Drug: Midostaurin
+Drug: asparaginase
+Drug: Postoperative Chemotherapy
+Drug: Colesevelam
+Drug: Trametinib
+Drug: Crenezumab
+Drug: ivabradine
+Drug: Piperacillin-tazobactam
+Drug: TAS-102
+Drug: Reumatocept (etanercept)
+Drug: Normosol-R Inj
+Drug: Pegylated G-CSF
+Drug: SHP640
+Drug: Humira®
+Drug: Intralesional Triamcinolone
+Drug: Technegas
+Drug: 5-Fu/epirubicin/CTX following Docetaxel
+Drug: Famitinib
+Drug: palbociclib
+Drug: Pemetrexed®
+Drug: BEACOPP escalated
+Drug: nutrison
+Drug: Rifapentine
+Drug: Placebo of Abilify 2, 5, 10, 15mg (Tablet)
+Drug: Sunflower Lecithin Oil in Capsule
+Drug: Tacrolimus and Sirolimus
+Drug: Nitisinone
+Drug: Empagliflozin 10 mg
+Drug: 25% AgNO3 solution followed by 5% NaF with fTCP
+Drug: Subjects do not receive study medication in this study 202094
+Drug: Angiotensin II
+Drug: Weekly cisplatin with RT
+Drug: Darbepoetin
+Drug: Glimepiride
+Drug: Chlorhexidine gluconate
+Drug: Control Group 0.9% Isotonic Saline
+Drug: SDN-037
+Drug: mFOLFOX 6
+Drug: Nevirapine
+Drug: Digoxin (monotherapy)
+Drug: Nebulized Ketamine 0.5mg/kg
+Drug: Recombinant human erythropoietin
+Drug: RITUXIMAB
+Drug: Bendamustine
+Drug: Bupivacaine hydrochloride
+Drug: ZX008 - 0.4 mg/kg/day
+Drug: KamRAB - HRIG
+Drug: Glucosamine and chondroitin sulfate combination (Zodic)
+Drug: Acetylsalicylic acid (ASA)
+Drug: Pimodivir 600 mg
+Drug: Fluorouracil/cisplatin (control arm)
+Drug: standard glucocorticoid therapy
+Drug: Reproxalap Ophthalmic Solution (0.25%)
+Drug: X4P-001
+Drug: Pentoxifylline Plus Chemotherapy
+Drug: TPF+CCRT
+Drug: Bexarotene
+Drug: DAPA
+Drug: PegIntron
+Drug: FTY720
+Drug: Epanova® (omega-3 carboxylic acids)
+Drug: Acetaminophen 650 mg
+Drug: Voltaren® Gel (Diclofenac Sodium Topical Gel) 1%
+Drug: Placebo- Sinemet
+Drug: Sorafenib
+Drug: DX-2930
+Drug: Sodium Lactate light dose
+Drug: aliskiren
+Drug: Bilastine Ophthalmic Solution 0.6%
+Drug: LEE011 Placebo
+Drug: Palovarotene
+Drug: Cabotegravir Injectable Suspension
+Drug: Goserelin 3.6 MG
+Drug: Hyperbaric oxygen
+Drug: Campto, Topotesin
+Drug: Oral Paliperidone ER
+Drug: Pemetrexed/Carboplatin
+Drug: cyclophosphamide, vincristine, prednisone, dacarbazine
+Drug: Asthma Controller Therapies (incl. prednisone/prednisolone)
+Drug: Bromocriptine
+Drug: Eflornithine plus Sulindac
+Drug: Human apotransferrin
+Drug: Linezolid
+Drug: 500 ppm F as NaF (dose-response control)
+Drug: ART plus Placebo
+Drug: therapeutic hydrocortisone
+Drug: Chiglitazar
+Drug: IVM plus ALB
+Drug: IncobotulinumtoxinA (8 Units per kg body weight)
+Drug: AMR101
+Drug: Albutein 20% Injectable Solution
+Drug: Gantenerumab
+Drug: Rivastigmine
+Drug: Docetaxel (DOC)
+Drug: NOVOCART® 3D plus
+Drug: TRC101
+Drug: Semi-individualised Chinese Medicine treatment
+Drug: AXS-05
+Drug: Hydroxyurea
+Drug: Sodium Zirconium Cyclosilicate 10g
+Drug: Ketoprofen 1 mg/kg
+Drug: Fotemustine
+Drug: Rifaximin
+Drug: 4th dose of hexavalent vaccine 1 month after the 3rd dose
+Drug: Placebo to metformin XR
+Drug: TDF/FTC tablets
+Drug: HD Cytarabine and Mitoxantrone
+Drug: Allogeneic Mesenchymal Stromal Cell
+Drug: Placebo in combination with bendamustine and rituximab
+Drug: 25.0 mg hydrochlorothiazide
+Drug: Placebo (for pantoprazole)
+Drug: Antiandrogen
+Drug: Erwinase®
+Drug: Hyperbaric prilocaine
+Drug: Dexmedetomidine Injection [Precedex]
+Drug: Tenofovir disoproxil fumarate (TDF)/emtricitabine (FTC)
+Drug: CHF 5993 100/6/12.5 µg
+Drug: Intravenous oxytocin
+Drug: Soliris
+Drug: EPORON
+Drug: cyproterone acetate
+Drug: docetaxel
+Drug: Diacerein
+Drug: Fotemustine and Ipilimumab
+Drug: Mitoxantrone Hydrochloride
+Drug: 2% chlorhexidine gluconate cloths
+Drug: Standard adjuvant systemic chemotherapy
+Drug: abicipar pegol
+Drug: Klean-prep
+Drug: Acetaminophen, Analgesics, Non-Narcotic
+Drug: Benralizumab
+Drug: Prednisone (Cortancyl®)
+Drug: Rituximab / observation
+Drug: IFNa/ PegIFNa
+Drug: Intravenous colimycin
+Drug: Placebo of Gasmotin
+Drug: Paraplatin (Carboplatin Injection)
+Drug: 10 mg Rupatadine on demand (sham updosing to 20 mg)
+Drug: R2-MANT
+Drug: chemotherapy
+Drug: Dihydroartemisinin-piperaquine (DHA-PQP)
+Drug: prasterone
+Drug: Naltrexone/bupropion
+Drug: Oral Navelbine + Carboplatin
+Drug: Reproxalap Ophthalmic Solution (0.5%)
+Drug: Jevtana
+Drug: Tirofiban
+Drug: R-CHOP/R-DHAP
+Drug: Pegylated Interferon Alfa-2A
+Drug: Treatment 2 weeks Envarsus followed by 2 weeks Advagraf
+Drug: HS-25 20mg
+Drug: Brivaracetam (BRV) iv
+Drug: Sham Injection
+Drug: Cyclosporine Pill
+Drug: Rituximab-CHOP
+Drug: Enoxaparine
+Drug: Budesonid 50mcg (Noex)
+Drug: 5-fluoruracil
+Drug: ALZT-OP1a
+Drug: Corticosteroids
+Drug: Palbociclib 125mg
+Drug: Atezolizumab (MPDL3280A), an Engineered Anti-PDL1 Antibody
+Drug: Vortioxetine 10 mg/day
+Drug: Dexchlorpheniramine
+Drug: Vemurafenib Placebo
+Drug: Placebo, intravenous
+Drug: Venlafaxine Extended Release Oral Capsule
+Drug: ddAC-CP-Olaparib
+Drug: nadaplatin+pemetrexed
+Drug: Reducing Antibiotics treatment duration
+Drug: Oral Vancomycin
+Drug: Metreleptin
+Drug: Fluorouracil
+Drug: Growth Hormone-Releasing Hormone
+Drug: INF beta-1a
+Drug: CDK 4/6 inhibitor
+Drug: Lenabasum 5 mg
+Drug: Budesonide oral suspension
+Drug: Clofazimine
+Drug: Quadratus Lumborum Block (QLB)
+Drug: intravitreal injection of bevacizumab
+Drug: CF101 2 mg
+Drug: salmeterol /fluticasone
+Drug: Oral azithromycin
+Drug: Aflibercept 2 mg
+Drug: Midazolam
+Drug: Rosuvastatin and fenofibrate
+Drug: Exenatide Once Weekly
+Drug: Bevacizumab + Deferred Aflibercept Group
+Drug: Colchicine
+Drug: Sanfujiu
+Drug: BIBF 1120
+Drug: Synthetic penicillin
+Drug: Belatacept
+Drug: Ampicillin
+Drug: Doxorubicin, cyclophosphamide
+Drug: rifapentine and moxifloxacin
+Drug: Iron isomaltoside (Monofer)
+Drug: Docetaxel;oxaliplatin;s1
+Drug: CF101 2mg
+Drug: Tiagabine
+Drug: Clonidine hydrochloride
+Drug: Consolidation (intensive & non-intensive pathways) - bortezomib, cyclophosphamide, & dexamethasone (VCD) regimen
+Drug: EGFR-TKI
+Drug: TOPIC MUCOPOLYSACCHARIDE POLYSULFATE CREAM 5MG/G
+Drug: HIPEC-gemcitabine
+Drug: GEM
+Drug: XR-NTX
+Drug: Clemastin
+Drug: Calcineurin inhibitor therapy
+Drug: Placebo II
+Drug: onaBoNT-A
+Drug: trastuzumab
+Drug: CM082 combined with everolimus
+Drug: Fluoxetine 20 mg/day
+Drug: Epoetin beta pegol
+Drug: Mesna
+Drug: Modified Ringers Lactate
+Drug: Ramucirumab
+Drug: Nebulized colimycin
+Drug: Aerosolized plus intravenous colistin
+Drug: XELOX
+Drug: Oxaliplatin and Capecitabine (CapeOX) or Oxaliplatin and Leucovorin and 5-FU (mFOLFOX6)
+Drug: ITD consolidation and ixazomib maintenance vs. No further therapy
+Drug: Saline vials or bags
+Drug: Iloprost
+Drug: Docetaxel
+Drug: Duloxetine 60mg
+Drug: Bendamustine (BEN)
+Drug: Telavancin
+Drug: thioguanine
+Drug: Transdermal Estrogen
+Drug: Rivaroxaban 15 mg
+Drug: FF via ELLIPTA DPI
+Drug: Tazobactam
+Drug: Dara IV
+Drug: chloroquine
+Drug: thiotepa
+Drug: injection of NaCl 0.9%
+Drug: Cobicistat
+Drug: Vigabatrin
+Drug: Imiquimod 5% cream
+Drug: isotonic saline
+Drug: Norethindrone
+Drug: dulaglutide
+Drug: MB02 (Bevacizumab Biosimilar Drug)
+Drug: Viaskin Peanut 250µg
+Drug: nonacog beta pegol
+Drug: Axicabtagene Ciloleucel
+Drug: Triptorelin for Injection
+Drug: Cisplatin Combined With S-1
+Drug: Golodirsen
+Drug: Chitosan
+Drug: Nebivolol
+Drug: Chloroquine + Primaquine
+Drug: CLS006
+Drug: Mometasone furoate
+Drug: steroid
+Drug: Guselkumab Dose 4
+Drug: turoctocog alfa
+Drug: cART(TDF/AZT+3TC+LPV/r)
+Drug: Budesonide
+Drug: Pasireotide LAR
+Drug: Sham-transplantation Placebo
+Drug: Paclitaxel plus 5-fluorouracil
+Drug: Antibiotic comparator
+Drug: Digoxin (dual therapy)
+Drug: distilled water
+Drug: Valganciclovir
+Drug: D-chiro-inositol
+Drug: rigosertib
+Drug: Conbercept Ophthalmic Injection
+Drug: MOB015B Vehicle
+Drug: capsaicin 8% patches (Qutenza)
+Drug: cyclo, vcr, pred, dacarb,etop and doxo
+Drug: Lidocaine Topical Cream [LMX]
+Drug: High-dose
+Drug: Diclofenac diethylamine
+Drug: Trastuzumab subcutaneous inyection vial
+Drug: Mycofenolate mofetil (MMF)
+Drug: Vinflunine
+Drug: Senna alexandrina and associations
+Drug: Current ART
+Drug: ABBV-066
+Drug: TEV-50717
+Drug: Placebos
+Drug: FOLFIRI
+Drug: Cytosine Arabinoside
+Drug: Inj. Progesterone
+Drug: nab-Paclitaxel 125 mg/m2
+Drug: QAW039 Dose 1
+Drug: Fluconazole
+Drug: Liposomal Doxorubicin+Gemcitabine
+Drug: Seretide
+Drug: Truvada
+Drug: Tapentadol prolonged release
+Drug: PP1M
+Drug: FTC/RPV/TDF Placebo
+Drug: Granexin gel
+Drug: Interferon Alfa-2A
+Drug: Pemetrexed + carboplatin
+Drug: NVK-002 Concentration 2
+Drug: Midazolam 1 MG/ML
+Drug: Nelfinavir
+Drug: AQX-1125 200 mg
+Drug: WSE
+Drug: Acetaminophen+Caffeine+Dihydroergotamine+Metoclopramide.
+Drug: Ondansetron, dexamethasone, aprepitant
+Drug: Lurasidone HCL 160 mg
+Drug: Intranasal Saline Placebo
+Drug: JR-141
+Drug: Aripiprazole IM Depot
+Drug: Peri
+Drug: ixabepilone
+Drug: Bupivacaine + CBD
+Drug: QVM149
+Drug: Rilpivirine (RPV) tablet
+Drug: Cannabidiol Oral Solution
+Drug: Lactated Ringer's
+Drug: Vortioxetine 20 mg/day
+Drug: FTC/TDF Placebo
+Drug: Meropenem intravenous
+Drug: EFV/FTC/TDF
+Drug: Ophthalmic steroid ointment
+Drug: Nasal saline
+Drug: SPARC1507
+Drug: Mitoxantrone
+Drug: SDD Suspension
+Drug: Myoinositol
+Drug: aspirin plus hirudin
+Drug: CNTX-4975-05 (trans-capsaicin)
+Drug: Diazepam Buccal Soluble Film 5, 7.5,10, 12.5, and 15 mg
+Drug: Combined oral contraceptives
+Drug: FF/VI (200/25) mcg
+Drug: Trifluridine/Tipiracil hydrochloride (S95005)
+Drug: ABT-494
+Drug: Osimertinib 80mg/40mg
+Drug: Clomiphene Citrate 50mg
+Drug: ch14.18/CHO
+Drug: Mepolizumab 300 mg
+Drug: Lansoprazole 30 mg QD
+Drug: Ezetimibe
+Drug: Fimasartan/Amlodipine, Rosuvastatin
+Drug: Gemcitabine®
+Drug: Placebo to match DTG
+Drug: levomilnacipran
+Drug: Maraviroc 300 mg
+Drug: flutamide
+Drug: iGlarLixi
+Drug: clodronate disodium
+Drug: arbaclofen ER Tablets
+Drug: csDMARDs
+Drug: Lapatinib Ditosylate
+Drug: BGF MDI (PT010)
+Drug: Regular Human Insulin
+Drug: Advagraf QD
+Drug: tenofovir plus entecavir combination
+Drug: DF289 plus DF277
+Drug: Exparel
+Drug: Dolutegravir 50mg od
+Drug: Dexamethasone, Rituximab, Cyclophosphamide
+Drug: Lopinavir/Ritonavir
+Drug: Thioguanine
+Drug: Meropenem-Vaborbactam
+Drug: Tri-weekly cisplatin with RT
+Drug: Opioid Medication
+Drug: LEO 90100 aerosol foam
+Drug: Upadacitinib
+Drug: Paclitaxel(intravenous) + Carboplatin(intraperitoneal)
+Drug: Conventional chemotherapy
+Drug: sofosbuvir
+Drug: Active comparator: Synovian Inj.
+Drug: ketoprofen and cyclobenzaprine association
+Drug: General sevoflurane anaesthesia
+Drug: Ethinyl Estradiol + Desogestrel
+Drug: Physiologic serum nebulized nasally
+Drug: Monthly Sulfadoxine-Pyrimethamine (SP) During Pregnancy
+Drug: HAIC of FOLFOX
+Drug: Ketalar
+Drug: ABT-333
+Drug: SM-13496 (lurasidone HCl)
+Drug: Ga-68 PSMA-HBED-CC PET
+Drug: Tanezumab
+Drug: Benzbromarone
+Drug: mFolfox6 or capecitabine
+Drug: 24 weeks with Ribavirin
+Drug: cephalosporins
+Drug: Eflornithine
+Drug: HU007
+Drug: Acetylcysteine
+Drug: Chromoendoscopy using Acetic Acid 2.5%
+Drug: HEXI-PREP By Clinell Wipes
+Drug: Ethambutol
+Drug: MEC (Mitoxantrone, Etoposide, Cytarabine)
+Drug: Iron Sucrose Injection
+Drug: MEK162, MEK inhibitor; oral
+Drug: sparsentan
+Drug: 0.3% sodium hyaluronate ophthalmic solution
+Drug: Bendamustine Hydrochloride
+Drug: Epirubicin+CTX+5-Fu
+Drug: Afatinib
+Drug: Olmesartan Medoxomil 20mg + Chlorthalidone 12,5mg
+Drug: Icaritin
+Drug: Lucentis (ranibizumab)
+Drug: Mycophenolate mofetil (MMF)
+Drug: Ublituximab
+Drug: PRO 140 SC injections
+Drug: LPV/RTV pellets and AZT/3TC or ABC/3TC
+Drug: Rotigotine
+Drug: SOX
+Drug: Oxaliplatin(Aiheng)
+Drug: Taxanes plus Carboplatin
+Drug: SOX Sequential S-1
+Drug: Tisagenlecleucel after optional bridging and lymphodepleting chemotherapy
+Drug: Gralise
+Drug: Acetylsalicylic acid lysinate 100 mg
+Drug: Evolocumab 140 mg/mL
+Drug: Nalmefene (Selincro®) 18 mg tablet
+Drug: Antithrombin supplementation
+Drug: Zirconium Cyclosilicate
+Drug: PRC-063 oral capsules
+Drug: THC only
+Drug: Saline (Syringe irrigation)
+Drug: Placebo 20 MG
+Drug: Clotrimazole + Dexamethasone acetate
+Drug: Bleomycin Etoposide and Cisplatin
+Drug: FGFR Inhibitor AZD4547
+Drug: Nicorandil
+Drug: s-LMWH
+Drug: Paracel Placebo
+Drug: Dolutegravir 50 mg
+Drug: Vitamin D3 (Treatment)
+Drug: SPN-812 ER
+Drug: Chloroprocaine
+Drug: Placebo to match olaparib 300mg
+Drug: fosmetpantotenate (RE-024)
+Drug: Fortrans
+Drug: Alirocumab
+Drug: Placebo MDI
+Drug: Recombinant Human Growth Hormone (rhGH) Injection
+Drug: bortezomib (Velcade)
+Drug: Certolizumab Pegol (CZP)
+Drug: Cyclophosphamide (CY)
+Drug: Physostigmine
+Drug: Investigational Medical Product (IMP) administered in parent study
+Drug: Investigational medical product (IMP) administered in parent study
+Drug: Ga-68 labeled PSMA-11 PET
+Drug: DTG
+Drug: Metformin + Placebo
+Drug: TS-1, oxaliplatin
+Drug: Hydrophilic Cream
+Drug: Clostridium Botulinum Toxin Type A
+Drug: R-CHOP or R-bendamustine
+Drug: Guanfacine
+Drug: Alicaforsen
+Drug: IV saline 0.9%
+Drug: rituximab
+Drug: Treatment 2 weeks Advagraf followed by 2 weeks Envarsus
+Drug: Tramadol
+Drug: PQ (End of study treatment)
+Drug: BEP(500)
+Drug: Fluoxetine
+Drug: Norepinephrine
+Drug: Conventional itraconazole
+Drug: Fesoterodine
+Drug: Insulin glargine U100 (HOE901)
+Drug: FOLFOX
+Drug: FE 999315 (6 mg)
+Drug: LH-8
+Drug: Bismuth subsalicylate
+Drug: Ivermectin 400 µg/kg
+Drug: GFF MDI (PT003)
+Drug: Standard of care therapy
+Drug: Gabapentin Oral Capsule [Neurontin]
+Drug: hyperpolarized 129Xe gas MRI
+Drug: Crenezumab (RO5490245)
+Drug: Semaglutide 0.5 mg
+Drug: Canagliflozin
+Drug: Comparator
+Drug: 17P
+Drug: Liposomal bupivacaine
+Drug: Placebo for Adalimumab
+Drug: ipilimumab
+Drug: Vitamin C 10mg/Kg Vitamin E 10 mg/Kg
+Drug: Cardiovascular Polypill
+Drug: Clopidogrel and Acetylsalicylic acid
+Drug: Inhaled treprostinil solution
+Drug: Clofarabine
+Drug: Capsaicin
+Drug: HGP1011
+Drug: Tafenoquine
+Drug: ponatinib 15 mg QD
+Drug: Alvimopan
+Drug: 15g L-citrulline daily p.o.
+Drug: Placebo + L-NMMA
+Drug: BP101
+Drug: Megestrol(Yining)
+Drug: Bupivacaine HCl
+Drug: Salbutamol
+Drug: standard of care
+Drug: MPH
+Drug: Levotuss
+Drug: Intravenous injection of 177Lu-octreotate
+Drug: ALKS 5461 Placebo
+Drug: Azithromycin Oral Liquid Product
+Drug: metformin
+Drug: estramustine phosphate sodium
+Drug: Ibrutinib
+Drug: Ofatumumab
+Drug: Hyzaar®
+Drug: Hyperbaric Oxygen
+Drug: Ixekizumab
+Drug: Basiliximab
+Drug: FOLFOX/ FOLFIRI with bevacizumab
+Drug: Abemaciclib
+Drug: Xyrem
+Drug: Bevazizumab intravitreal injection
+Drug: symptomatic treatment (Converting Enzyme inhibitor, Angiotensin II, Anti-renin, Aldosterone antagonist diuretic, Beta blocker, Calcium inhibitor, statin)
+Drug: 56 days of weight-adjusted L-Carnitine treatment
+Drug: Rituximab
+Drug: best supportive care (BSC)
+Drug: Dummy infusion
+Drug: ALXN1101
+Drug: SPN-812 ER High Dose A
+Drug: GSP 301 NS
+Drug: Nilotinib 150mg oral capsule [Tasigna]
+Drug: Andecaliximab
+Drug: Sildenafil 100 mg oral morning dose
+Drug: Bupivacaine Only (control arm)
+Drug: Isotonic saline
+Drug: Saline 0.9% inhalation solution
+Drug: Glycemic Rescue 2
+Drug: Xylitol
+Drug: Tegoprazan/Amoxicillin/Clarithromycin
+Drug: pertuzumab
+Drug: Fecal Microbiota Transplantation (FMT)
+Drug: Ibrutinib (Induction)
+Drug: Ultravist 370Mg I/Ml Solution for Injection
+Drug: Triptorelin Acetate PR 1-month
+Drug: NAC
+Drug: ITM + Sham QLB
+Drug: CI-581-a
+Drug: vincristine
+Drug: Gemcitabine
+Drug: Copanlisib (BAY 80-6946)
+Drug: Tenofovir Alafenamide
+Drug: Antiandrogen+docetaxel
+Drug: evinacumab
+Drug: EQW plus DAPA
+Drug: Aciclovir
+Drug: Low Dose Hydroxyurea
+Drug: NRL-1
+Drug: Ketamine / Propofol Admixture
+Drug: Voriconazole
+Drug: Naloxone, intranasal
+Drug: Fendrix
+Drug: Cervical Medial Branch Block (CMBB) using lidocaine and dexamethosone
+Drug: SYL1001 ophthalmic solution
+Drug: Prednisolone
+Drug: Nicotine Replacement Therapy (NRT)
+Drug: sedation with propofol
+Drug: GSK1349572 Placebo
+Drug: Sotalol (monotherapy)
+Drug: Idursulfase-IT
+Drug: Oxytocin
+Drug: Dexmedetomidine + Magnesium Sulphate + Bupivacaine
+Drug: DSP-5423P 80mg
+Drug: ABP 710
+Drug: Bevacizumab in combination with Paclitaxel/Carboplatin
+Drug: Placebo (PLB)
+Drug: 177Lu-PSMA-617
+Drug: Pregabalin Oral Capsule [Lyrica] 150 mg
+Drug: Doxycyclin
+Drug: 10 mg Rupatadine
+Drug: Placebo Capsules
+Drug: PolyPill
+Drug: Tissue-type plasminogen activator (alteplase)
+Drug: Active Comparator
+Drug: DTG + 3TC
+Drug: Indapamide / Losartan
+Drug: Empagliflozin 25mg
+Drug: intravenous metoclopramide
+Drug: Placebo gel
+Drug: Cyclophophamide
+Drug: Brivaracetam (BRV)
+Drug: Dacarbazine, temozolomide or talimogene laherparepvec
+Drug: Ibuprofen
+Drug: Bicalutamide 150 mg
+Drug: Injectafer
+Drug: Pentoxifylline 400Mg Tablet
+Drug: IL2
+Drug: cisplatin and paclitaxel
+Drug: BHV-4157
+Drug: Calcifediol
+Drug: etoposide 150 mg/m2/day (days 1, 2, 3) and ifosfamide 3g/m2/day (days 1, 2, 3)
+Drug: diclofenac
+Drug: ZD6474 (Vandetanib)
+Drug: Phosphocreatine sodium tetrahydrate after anaesthesia induction
+Drug: methadone
+Drug: hCG (Ovitrelle 250 mcg mcg - Merck Serono) + GnRH agonist (Decapeptyl 0.2mg - Ferring Gmgh)
+Drug: Peramivir
+Drug: Sugammadex
+Drug: Darunavir-cobicistat
+Drug: IONIS-TTR Rx
+Drug: Two packed red blood cells Transfusion
+Drug: FOLFOX (chemotherapy)
+Drug: MSB11022
+Drug: DHA-PQP coadministered with PQ
+Drug: FMX101
+Drug: Placebo followed by N-Acetylcysteine
+Drug: Salvage Chemotherapy
+Drug: Weekly Paclitaxel
+Drug: EFV 600 mg
+Drug: Placebo Methotrexate
+Drug: oxaliplatin,capecitabine
+Drug: Carglumic Acid
+Drug: tirasemtiv
+Drug: Trans Sodium Crocetinate plus SOC
+Drug: Bimatoprost sustained-release
+Drug: Lipid Emulsions, Intravenous
+Drug: Cabozantinib S-malate
+Drug: MIN-101 64 mg
+Drug: G-CSF
+Drug: Azathioprine and Allopurinol
+Drug: Aspirin
+Drug: Erwinia asparaginase
+Drug: Placebo orally matching to teriflunomide
+Drug: Saline infusion
+Drug: Gemcitabine & oxaliplatin
+Drug: DLBS1033
+Drug: capecitabine plus oxaliplatin before and after surgery
+Drug: liposomal vincristine sulfate
+Drug: Lomustine
+Drug: GFF MDI 14.4/9.6 µg
+Drug: Aromatase Inhibitors (Aromasin)
+Drug: ASA
+Drug: Relugolix Placebo
+Drug: Hydroxyurea (Low Dose)
+Drug: Lanthanum Carbonate
+Drug: Tradipitant
+Drug: BCD-033 (interferon beta 1a)
+Drug: 177Lu-edotreotide PRRT
+Drug: K-877
+Drug: SPN-812 ER Low Dose A
+Drug: Low-molecular-weight heparin
+Drug: Intravenous Acetaminophen
+Drug: Cortisone acetate
+Drug: Sorafenib (Nexavar, BAY43-9006) + Erlotinib, Tarceva
+Drug: bevacizumab
+Drug: RT001
+Drug: dihydroartemisinin-piperaquine plus azithromycin
+Drug: Placebo for ABT-494
+Drug: Aflibercept
+Drug: gel loaded with antibiotic (Levofloxacin)
+Drug: MTX
+Drug: metyrosine
+Drug: Core decompression/PREOB® implantation
+Drug: Cisplatin plus 5-fluorouracil
+Drug: modified FOLFOX6 + bevacizumab
+Drug: Maraviroc
+Drug: Ivermectin 200 µg/kg
+Drug: Abacavir sulfate
+Drug: Tumescent Anesthesia and antibiotic delivery (TAAD) plus IVAD
+Drug: Provera 10 mg.
+Drug: Podofilox Gel 0.5%
+Drug: Any approved or standard-of-care therapy
+Drug: vitamin D3
+Drug: Olopatadine Hydrochloride
+Drug: Gemcitabine + cisplatin
+Drug: Norfloxacin
+Drug: Cabotegravir Tablets
+Drug: Tacrolimus Extended Release Oral Tablet [Envarsus]
+Drug: Magnesium sulphate & Placebo
+Drug: Idasanutlin
+Drug: CTNO 1959 100 mg
+Drug: DTG +DRV/r
+Drug: Trastuzumab IV
+Drug: Arm B : mFolfirinox
+Drug: Loxonine tab.
+Drug: lurasidone
+Drug: Prasugrel 5 mg
+Drug: Botulinum Toxin Type A for Injection
+Drug: Gliclazide
+Drug: Hydroxethyl starch
+Drug: 10-70 mcg/kg/h propofol infusion.
+Drug: dextromethorphan+memantine
+Drug: Nicotine Replacement Therapy
+Drug: Depomedrol
+Drug: Fp MDPI
+Drug: DOTANOC
+Drug: KHK7580
+Drug: IPI-145 (duvelisib)
+Drug: TRC150094
+Drug: Placebo for Oxycodone
+Drug: exenatide
+Drug: Levocetirizine Oral Tablet
+Drug: NACT
+Drug: Hydroxytyrosol plus Vitamin E
+Drug: recombinant human thrombopoietin
+Drug: Desmopressin ODT 50 µg
+Drug: Metformin Hydrochloride 850 MG Oral Tablet [Glucophage]
+Drug: Oxycodone, 1.00 mg dose
+Drug: Sorafenib Tosylate
+Drug: CCRT+PF
+Drug: ON 01910.Na
+Drug: Metformin alone
+Drug: Acipimox
+Drug: FTC/TDF
+Drug: Dexrazoxane
+Drug: Eflornithine plus sulindac
+Drug: Low-dose Hormonal Add-back
+Drug: Dabrafenib
+Drug: immunoglobulin IV
+Drug: ART, Atorvastatin
+Drug: bicalutamide
+Drug: semaglutide
+Drug: Tremelimumab
+Drug: PTC+Pertuzumab
+Drug: 5% Glucose
+Drug: Cleanoze®
+Drug: ETC-1002
+Drug: Ixekizumab 80 mg Q4W
+Drug: Placebo - Anastrozole
+Drug: dexamethasone
+Drug: Berinert
+Drug: Metronidazole
+Drug: False injection
+Drug: PHMB 0.08%
+Drug: Gel Vehicle
+Drug: Arm A: FOLFIRI or FOLFOX + Bevacizumab
+Drug: Ustekinumab 130 mg IV
+Drug: Apomorphine hydrochloride
+Drug: TEZ
+Drug: SST-0225 Topical Ibuprofen Cream
+Drug: Inj.Cisplatin
+Drug: Ophthalmic Tetracaine
+Drug: suprachoroidal sham + IVT anti-VEGF agent
+Drug: Adapalene and Benzoyl Peroxide Topical Gel
+Drug: Simple Syrup
+Drug: Conventional therapy
+Drug: Morphine
+Drug: 5-Fluorouracil, Epirubicin, Cyclophosphamide, Docetaxel
+Drug: Combination pharmacotherapy - Transdermal nicotine patch + nicotine lozenge
+Drug: R-CHOP
+Drug: Bupivacaine + dexamethasone
+Drug: Neoadjuvant chemotherapy Folfirinox, 4 cycles
+Drug: Bleomycin
+Drug: LIQ861 Inhaled Treprostinil
+Drug: Topical ocular hypotensive eye drops.
+Drug: 90 mcg Test Product
+Drug: MIN-102
+Drug: Steriod Taper
+Drug: Nadolol
+Drug: FE 999315 (9 mg)
+Drug: DMARDs
+Drug: vincristine sulfate
+Drug: Baseline regimen of a non-nucleoside reverse transcriptase inhibitor
+Drug: Placebo of Enalapril
+Drug: Adderall-XR
+Drug: Buprenorphine
+Drug: ASTX727
+Drug: Antipseudomonal beta-lactam antibiotic
+Drug: Magnesium Sulfate
+Drug: Tocilizumab Prefilled Syringe [Actemra]
+Drug: PROBIO-FIX INUM®
+Drug: doxorubicin or epirubicin
+Drug: FlecainidE pluS Metoprolol Combination
+Drug: Triptoreline 11.25 i.v.; Estradiol 0.5% percutaneous gel;
+Drug: R-CEOP-70
+Drug: Fulvestrant 500mg
+Drug: ezetimibe
+Drug: NiCord®
+Drug: Orlistat 60 mg
+Drug: Doxycycline and tauroursodeoxycholic acid
+Drug: Placebo for Anacetrapib
+Drug: Acalabrutinib in combination with bendamustine and rituximab
+Drug: Polycap
+Drug: Phenylephrine
+Drug: Ketamine Infusion (Group K)
+Drug: RPC1063
+Drug: naloxone
+Drug: ACT-541468
+Drug: dehydroepiandrosterone sulphate
+Drug: Givinostat
+Drug: Indocyanine green
+Drug: HIPEC
+Drug: Placebo-matching Ubrogepant
+Drug: Emicizumab
+Drug: PF-04965842 200 mg
+Drug: Pegylated Lipoxomal Doxorubicin (PLD)
+Drug: Etanercept 50 MG Solution for Injection
+Drug: anti-TNF
+Drug: aganirsen
+Drug: SRP-4045
+Drug: doxorubicin hydrochloride liposome injection
+Drug: Ipilimumab and nivolumab
+Drug: Diskus Fluticasone/salmeterol
+Drug: Esketamine 56 mg
+Drug: Amlodipine/Olmesartan 10/40mg (Combination drug)
+Drug: Lucentis® (Raibizumab) regular-dose
+Drug: nalbuphine HCl ER 90 mg BID
+Drug: mercaptopurine
+Drug: BAT1706
+Drug: Regorafenib (BAY73-4506)
+Drug: FS VH S/D 500 s-apr
+Drug: Induction and gap chemotherapy (Capecitabine combine with oxaliplatin)
+Drug: goserelin acetate
+Drug: Ulinastatin
+Drug: Trastuzumab deruxtecan
+Drug: Oral antiandrogen
+Drug: dolutegravir 50mg +abacavir 600mg +lamivudine 300mg
+Drug: GSK1349572
+Drug: Tivicay
+Drug: SER-109
+Drug: QMF149
+Drug: Pyrazinamide
+Drug: Sodium chloride
+Drug: Glucose 5%
+Drug: OnabotulinumtoxinA
+Drug: Standard dressing
+Drug: LABCAT TCJUSS Placebo
+Drug: Ertapenem 1000 MG
+Drug: Blinatumomab
+Drug: Placebo-Comparator
+Drug: DRV/COBI FDC Matching Placebo
+Drug: Fremanezumab - B
+Drug: Imatinib
+Drug: Famciclovir
+Drug: SM-1
+Drug: Sodium Chloride 0.9% Inj
+Drug: Vitamin K1
+Drug: Plasmalyte A
+Drug: Cefixime
+Drug: Mometasone furoate nasal spray
+Drug: XELOX or FOLFOX chemotherapy
+Drug: Acenocoumarol
+Drug: Qi-Zheng-Xiao-Tong Plaster
+Drug: masitinib
+Drug: UX007
+Drug: Efinaconazole Topical
+Drug: Dactinomycin
+Drug: TJP-008-1
+Drug: Erlotinib 150/100 mg
+Drug: standard chemotherapy
+Drug: Test Product
+Drug: ITM + Bupivacaine QLB
+Drug: LEO 90100 aerosol foam vehicle
+Drug: Clarithromycin
+Drug: Lamazym
+Drug: Placebo Osimertinib 80mg/40mg
+Drug: Hydrochlorothiazide (HCTZ)
+Drug: Bacille Calmette-Guerin
+Drug: Placebo 1 capsule x 3 daily until progression
+Drug: Standard of Care with an antibiotic lock
+Drug: Avastin
+Drug: Thalidomide
+Drug: Dextromethorphan
+Drug: Sarizotan
+Drug: Interferon-alpha
+Drug: DFD01 Spray
+Drug: Sham Bimatoprost SR
+Drug: Nebulized Lignocaine
+Drug: Polatuzumab vedotin Placebo
+Drug: KRN23
+Drug: Busulfan, Cyclophosphamide, ATG, GCSF
+Drug: gemcitabine 1000 mg/m2
+Drug: Posaconazole
+Drug: Palbociclib
+Drug: Nimotuzumab
+Drug: Clonidine (Catapresan®) 0,150 mg/ml, ampoule 1 ml
+Drug: Placebo IV Infusion
+Drug: Prednisone
+Drug: Ferric Carboxy Maltose
+Drug: Drug: Everolimus
+Drug: Kivexa
+Drug: Nitroglycerin
+Drug: Sirukumab 50 mg
+Drug: Cryoprecipitate
+Drug: ofatumumab (GSK1841157) infusion
+Drug: 8-methoxypsoralen
+Drug: Valproic Acid
+Drug: eplerenone
+Drug: CHOP
+Drug: PLD
+Drug: Arterolane-piperaquine+mefloquine
+Drug: Insulin Tregopil
+Drug: Immunosuppressive Agents
+Drug: Danoprevir Placebo
+Drug: Intrathecal hyperbaric bupivacaine 0.25mg/kg 0.5%
+Drug: Fucidin® cream
+Drug: Trastuzumab plus docetaxel (for 4 21-day cycles) after four 14-day cycles of Doxorubicin plus cyclophosphamide
+Drug: AC*4-T*4
+Drug: Selinexor
+Drug: Murepavadin
+Drug: DHEA
+Drug: Induction (non-intensive pathway) - cyclophosphamide, thalidomide, & dexamethasone attenuated (CTDa) regimen
+Drug: Nitazoxanide Oral Suspension
+Drug: Dolutegravir/abacavir/lamivudine FDC
+Drug: Antiretroviral Therapy (Experimental)
+Drug: ADS-5102, 137 mg
+Drug: Klean-Prep®
+Drug: Topical corticosteroid
+Drug: Prednisolone, Prednisone or Methylprednisolone
+Drug: hATG
+Drug: Losartan 50mg~100mg
+Drug: D5W - 5% dextrose water
+Drug: sitagliptin
+Drug: CNG Chemotherapy
+Drug: Thymosin-a1
+Drug: gilteritinib
+Drug: Idarubicin(IDA)
+Drug: Enoxaparin, Heparin
+Drug: Ketamine, bupivacine,dexmedetomidine
+Drug: Lidocaine Iv
+Drug: Paclitaxel plus Carboplatin
+Drug: Molidustat (BAY85-3934)
+Drug: MEDI4736 + Tremelimumab
+Drug: Alternate Management
+Drug: dasotraline
+Drug: Lenograstim
+Drug: ATV Placebo
+Drug: Natamycin
+Drug: GZ402665
+Drug: A arm (CLAG-M)
+Drug: Matching Placebo (JNJ-54861911)
+Drug: Imipenem+Cilastatin/Relebactam
+Drug: Edoxaban
+Drug: Condylox Topical Gel 0.5%
+Drug: ABIRATERONE - Group 2
+Drug: Insulin Degludec
+Drug: Lacosamide
+Drug: iv sildenafil
+Drug: Botulinum Toxin A
+Drug: chlorambucil, tablets
+Drug: Docosahexaenoic acid - 200mg/day
+Drug: HS-25 10mg combination with Atorvastatin
+Drug: FACBC
+Drug: ZX008 02 and 0.8 mg/kg/day
+Drug: PEG-rhG-CSF
+Drug: rifapentine + isoniazid
+Drug: Bahman capsules
+Drug: IV Hydromorphone
+Drug: Yifei Qinghua granule
+Drug: EMS Mometasone gel
+Drug: Rivaroxaban 10 MG
+Drug: 18F-DOPA
+Drug: Dolutegravir (DTG)
+Drug: PHMB 0.02%
+Drug: COP, COPD M3, CYM
+Drug: Standard Antibiotics treatment duration
+Drug: Placebo and prednisone
+Drug: HCP1202
+Drug: Fixed Dose Combination
+Drug: duloxetine hydrochloride
+Drug: NX group
+Drug: Fesoterodine PR 4 mg
+Drug: Aflibercept Injection
+Drug: Oral Levonadiflixacin/Linezolid Tablet
+Drug: Phenoxybenzamine
+Drug: OBE2109 + Add-back
+Drug: Iron Isomaltoside
+Drug: Semaglutide 2.4 mg
+Drug: Liraglutide Pen Injector [Saxenda]
+Drug: E7777
+Drug: Standard of Care
+Drug: Vilaprisan (BAY1002670)
+Drug: Thiamine
+Drug: Dasatinib
+Drug: Melflufen
+Drug: methotrexate
+Drug: Ambrisentan
+Drug: ketoprofen and cyclobenzaprine association with caffeine
+Drug: secukinumab 150 mg
+Drug: Oxaliplatin capecitabine
+Drug: Capecitabine
+Drug: Enteral Nimodipine
+Drug: standard chemo- or endocrine therapy + Lapatinib
+Drug: NKTR-181 BID tablets
+Drug: Nintedanib
+Drug: Placebo to match filgotinib
+Drug: Rifapentine daily for 6 weeks
+Drug: Intrastromal voriconazole
+Drug: 1 or 2 cycle(s) HDM (High Dose Melphalan)
+Drug: EC145
+Drug: Control
+Drug: Iron Sucrose
+Drug: STZ-5FU
+Drug: Lidocaine = group A
+Drug: daunorubicin
+Drug: Bufei Huatan granule
+Drug: Nicotine replacement therapy - Transdermal nicotine patch
+Drug: Etoposide phosphate
+Drug: Lenvatinib
+Drug: Ropivacaine + opioid epidurally
+Drug: etoposide
+Drug: Sodium Oxybate
+Drug: MPA
+Drug: BMS-663068
+Drug: Avastin in combination with Paclitaxel/Carboplatin
+Drug: TGR-1202 + Ublituximab + Bendamustine
+Drug: 1. Berberine hydrochloride tablets ; 2. ProMetS probiotics powder
+Drug: simvastatin
+Drug: Oral Micronized Progesterone
+Drug: rectal misoprostol 600mg
+Drug: Rivaroxaban-Placebo
+Drug: MIL60
+Drug: 2 NRTIs plus an INI, NNRTI, or PI
+Drug: usual pain treatment
+Drug: hCG (Ovitrelle 250 mcg mcg - Merck Serono)
+Drug: Prezista
+Drug: standard combination chemotherapy
+Drug: AZD9291 80 mg/40 mg
+Drug: Obeticholic Acid (OCA)
+Drug: ketorolac
+Drug: Naltrexone
+Drug: Dexamfetamine sulphate
+Drug: lapatinib in combination with capecitabine
+Drug: Goserelin+TAM+AI
+Drug: Paromomycin
+Drug: Ustekinumab 90 mg SC q12w
+Drug: Vonoprazan
+Drug: Placebo and transdermal 17-beta estradiol
+Drug: Temozolomide
+Drug: Syntometrine
+Drug: BIIB074
+Drug: Denosumab (standard dosing)
+Drug: sofosbuvir and daclatasvir
+Drug: lavender and chamomile essential oils
+Drug: Mitomycin c
+Drug: Endostar
+Drug: Sorafenib (Nexavar, BAY43-9006)
+Drug: MITOTANE
+Drug: Placebo transdermal gel
+Drug: Lu AF35700
+Drug: Etoposide Capsule plus Methotrexate Tablet
+Drug: Oxycodone
+Drug: N-acetylcysteine
+Drug: Tenofovir + lamivudine + raltegravir
+Drug: GEMCIS
+Drug: Phenprocoumon
+Drug: Sham discontinuation
+Drug: Dolutegravir
+Drug: Cabergoline Oral Tablet
+Drug: High dose DFD07 once daily
+Drug: Placebo to match momelotinib
+Drug: TAK-438 Placebo
+Drug: Test naproxen sodium tablet
+Drug: Pitavastatin
+Drug: voriconazole
+Drug: liposomal bupivacaine
+Drug: NSAID
+Drug: Intranasal Esketamine
+Drug: ibandronate sodium
+Drug: Magnesium sulphate
+Drug: TCM and conventional drug
+Drug: tenofovir 300mg
+Drug: 5-fluorouracil-based chemotherapy
+Drug: CXL
+Drug: Testosterone cypionate
+Drug: Cinacalcet
+Drug: Ecopipam 50mg
+Drug: Placebo (for Varlitinib)
+Drug: Nivolumab + Ipilimumab
+Drug: clopidogrel
+Drug: CLS006 Vehicle
+Drug: Tremelimumab (Regimen 2)
+Drug: botulinum toxin A
+Drug: GM1
+Drug: Eflornithine and Placebo
+Drug: Caffeine Citrate
+Drug: liraglutide
+Drug: Fruquintinib
+Drug: approved GnRH agonist
+Drug: Mifepristone, Oral, 200 Mg
+Drug: extended release naltrexone
+Drug: Intravenous recombinant tissue plasminogen activator (rtPA) Alteplase
+Drug: Hydroxyethyl starch 130/0.4 in an isotonic electrolyte solution
+Drug: Aprepitant+palonosetron+dexamethasone
+Drug: SPARC1104
+Drug: Rimegepant
+Drug: CD25 monoclonal antibody
+Drug: Augmented autologous stem cell transplant (ASCT-aug)
+Drug: ESL 1200 mg
+Drug: sodium chloride 0.9%
+Drug: Zoledronic Acid
+Drug: AZD9291 80mg oral each day
+Drug: Placebo to LET
+Drug: Alcohol
+Drug: NMDA active
+Drug: Placebo (for K-877)
+Drug: Bupropion Hydrochloride, Naltrexone Hydrochoride Drug Combination
+Drug: Interferon beta 1a
+Drug: Rogaratinib (BAY1163877)
+Drug: Durvalumab (Regimen 2)
+Drug: Tamoxifen Citrate
+Drug: Hylan G-F 20 (GZ/SAR402662)
+Drug: tremelimumab (anti-CTLA4)
+Drug: Cetuximab plus FOLFIRI/FOLFOX
+Drug: Antiplatelet Agents
+Drug: Estradiol/Norethindrone Acetate
+Drug: Nifedipine 10 mg
+Drug: DHA-PQP and PQ starting on Day 42
+Drug: Talc
+Drug: Combination pharmacotherapy - Transdermal nicotine patch + nicotine gum
+Drug: TAK-700
+Drug: EK-12
+Drug: Paclitaxel(intravenous) + Carboplatin(intravenous)
+Drug: SPI-2012
+Drug: etanercept pre-filled syringe sq injection
+Drug: oxaliplatin+Leucovorin+5-FU
+Drug: enzalutamide
+Drug: pegaspargase 2500 IU/m2 x 1
+Drug: Ivacaftor
+Drug: Glycocholic Acid
+Drug: Plasmalyte
+Drug: CAF regimen
+Drug: HIPEC (Hyperthermic Intraperitoneal Chemoperfusion) with oxaliplatin
+Drug: Lenalidomide, Dexamethasone
+Drug: Corticosteroid
+Drug: RisperiDONE 0.5 MG
+Drug: 0.25% Desoximetasone cream (Topoxy®)
+Drug: Placebo I (Semaglutide)
+Drug: 50 mg etanercept
+Drug: Cumin seed extract
+Drug: Nebcin
+Drug: Chloraprep
+Drug: Piperacillin/Tazobactam
+Drug: Mepolizumab 100 milligrams
+Drug: Tapentadol 4 mg/mL
+Drug: tacrolimus
+Drug: Vasopressin, Arginine
+Drug: oral methadone
+Drug: Lidocaine Jet Injector
+Drug: Alternative Anticancer Treatment
+Drug: Clostridium Botulinum A Toxin
+Drug: avapritinib
+Drug: SB11 (Proposed ranibizumab biosimilar)
+Drug: Switch to Maraviroc + Raltegravir or Dolutegravir
+Drug: BEACOPPescalated (Bleomycin, Etoposide, Adriamycin, Cyclophosphamide, Vincristine, Procarbazine, Prednisone)
+Drug: 133XE scintigraphy
+Drug: Apremilast 20mg
+Drug: Glucagon Hydrochloride Solution
+Drug: arimidex dummy
+Drug: Duanorubicin
+Drug: 0.9% Sodium Chloride Injection
+Drug: 4-OH tamoxifen
+Drug: Ethanol-lock
+Drug: Accordion Pill™ Carbidopa/Levodopa
+Drug: Liraglutide 3.0 mg
+Drug: Levofloxacin based sequential therapy
+Drug: Maralixibat
+Drug: Low-dose rtPA
+Drug: CF101 1 mg
+Drug: experimental (Non Immunosuppressive Symptomatic Treatment (NIST) and Rituximab)
+Drug: Placebo 100mg
+Drug: Placebo + Prolonged Imaginal Exposure
+Drug: Lixisenatide (AVE0010)
+Drug: Candida Antigen
+Drug: Rifaximin DR
+Drug: Cefotaxime
+Drug: Phenobarbital
+Drug: Adjuvant endocrine therapy
+Drug: Placebo to Metformin
+Drug: Sofosbuvir/Ledipasvir plus Ribavirin 24W
+Drug: Atorvastatin Sodium 10mg
+Drug: adjuvant chemotherapy
+Drug: Fremanezumab- B
+Drug: 80 mg ixekizumab
+Drug: docetaxel + trastuzumab sc + pertuzumab
+Drug: VEC
+Drug: Preventive Gel
+Drug: dexamethasone and cyclophosphamide
+Drug: Donepezil patch
+Drug: CCRT+GP
+Drug: CHF 5993 200/6/12.5 µg
+Drug: Maintenance weekly x4
+Drug: DA-2802
+Drug: Perioperative chemotherapy with mFOLFOX6 or CAPOX regimens
+Drug: Norvir
+Drug: FEC?T
+Drug: Vincristine, cyclophosphamide, methotrexate, doxorubicin, cytarabine, ara-C
+Drug: Haloperidol
+Drug: Calcipotriene/Betamethasone Dipropionate
+Drug: Placebo/Normal Saline
+Drug: Androgen Deprivation Therapy (ADT)
+Drug: Placebo, Omeprazole or Rabeprazole, Clarithromycin
+Drug: ASTED
+Drug: Combined aspirin and multinutrient supplement
+Drug: Canakinumab
+Drug: PCI-32765 (Ibrutinib)
+Drug: cisplatin plus pemetrexed
+Drug: QPI-1002
+Drug: Cobimetinib
+Drug: Tacrolimus from EMS
+Drug: F-DCFPyL Injection
+Drug: grazoprevir/elbasvir, ribavirin
+Drug: sulphur hexafluoride lipid-type A microspheres
+Drug: collagenase injection
+Drug: Placebo TDS
+Drug: Sitagliptin and Metformin
+Drug: procarbazine
+Drug: Placebo to VGCV
+Drug: Intralipid, 20% Intravenous Emulsion
+Drug: Kanamycin
+Drug: Tenofovir + Emtricitabine or Lamivudine + Zidovudine
+Drug: Linagliptin and Basal Insulin
+Drug: Placebo to zoledronic acid
+Drug: ESL 400 mg
+Drug: 5 mg Bupivacaine
+Drug: Placebo for Losartan
+Drug: Intravenous ibuprofen
+Drug: Perioperative systemic therapy
+Drug: Etelcalcetide
+Drug: No alcohol
+Drug: Fluoroquinolones
+Drug: rosuvastatin
+Drug: BCD-100
+Drug: pembrolizumab
+Drug: Escitalopram Placebo
+Drug: Imetelstat
+Drug: Pemetrexed/ Cisplatin
+Drug: Mometasone nasal spray
+Drug: 5Fluorouracil
+Drug: Doxorubicin
+Drug: Riboflavin
+Drug: Insulin aspart
+Drug: Placebo for Bexagliflozin
+Drug: Ceftazidime
+Drug: F/TDF
+Drug: Sacubitril/Valsartan 200mg (blinded)
+Drug: FF/UMEC/VI (200/31.25/25) mcg
+Drug: Amifampridine Phosphate
+Drug: Emtricitabine-Tenofovir
+Drug: Busulfan (BU)
+Drug: Rituximab-Bendamustine
+Drug: TEV-48125 - 1
+Drug: Topical epinephrine
+Drug: Evolocumab 140 mg SC Q2W
+Drug: Tyroserleutide for injection
+Drug: Placebo + Placebo Add-back
+Drug: Liposomal Vincristine
+Drug: 0.25% bupivacaine
+Drug: ceftriaxone
+Drug: Pramipexole
+Drug: ponesimod
+Drug: Talion Tab
+Drug: l-leucovorin
+Drug: Meclizine
+Drug: Cyclobenzaprine
+Drug: Recombinant Human Growth Hormone Injection (rhGH)
+Drug: Combined spray and nebulization
+Drug: ANP
+Drug: R-BL-M-04
+Drug: Obeticholic acid (10 mg to 25 mg)
+Drug: Mometasone 220mcg BID
+Drug: Ustekinumab 0.75 mg/kg
+Drug: Oral naltrexone
+Drug: 6-mercaptopurine,Methotrexate
+Drug: ABC/DTG/3TC Placebo
+Drug: Placebo Plus Chemotherapy
+Drug: Levetiracetam
+Drug: Higher Dose Sodium Bicarbonate
+Drug: Tegafur- Gimeracil-Oteracil potassium
+Drug: Intravenous Levonadiflixacin/Linezolid Infusion
+Drug: imatinib
+Drug: Ofatumumab and Bendamustine infusions (Arm A)
+Drug: daunorubicin + cytarabine
+Drug: Glecaprevir/Pibrentasvir
+Drug: Efavirenz
+Drug: MIBI-Tc99m/Iodine-123
+Drug: Treatment of TongBi Capsule
+Drug: Hydroxyurea (Moderate Dose)
+Drug: Docetaxel (D)
+Drug: Rilpivirine 25 mg
+Drug: Trabectedin
+Drug: Metformin HCL 850 CF
+Drug: Sodium Bicarbonate
+Drug: oxygen
+Drug: RTV Placebo
+Drug: C-11 choline PET tracer
+Drug: Creon® 25000
+Drug: Bundle
+Drug: Chemotherapy combined with trastuzumab
+Drug: adjuvant temozolomide (TMZ)
+Drug: Tadalafil
+Drug: Low Molecular Weight Heparin (LMWH)
+Drug: Repatha (Evolocumab)
+Drug: gentamicin
+Drug: Cyclophosphamide and ATG
+Drug: Budesonid 50mcg (Busonid)
+Drug: Tenofovir DF
+Drug: Placebo to Sitagliptin + Metformin XR
+Drug: Icosapent Ethyl
+Drug: ornidazole
+Drug: fulvestrant
+Drug: Paclitaxel and Carboplatin (TC Arm)
+Drug: tobramycin inhalation solution
+Drug: Brimonidine Ophthalmic Solution
+Drug: Placebo for celecoxib
+Drug: DLBS3233
+Drug: Multiprofen
+Drug: Nivolumab 10 MG/ML Intravenous Solution
+Drug: Secukinumab (150 mg)
+Drug: abacavir/lamivudine + raltegravir
+Drug: Anagrelide
+Drug: Ferrous Sulfate
+Drug: Mercaptopurine
+Drug: Privigen (Human normal immunoglobulin G (IgG > 98 % purity))
+Drug: STR001-IT and STR001-ER
+Drug: Clonazepam
+Drug: MT-6548
+Drug: methyl-aminolevulinate
+Drug: Interferon beta-1a i.m. injections
+Drug: Standard therapy
+Drug: TGR-1202
+Drug: besifovir 150mg
+Drug: Full dose of DOAC
+Drug: Intravitreal bevacizumab
+Drug: DF277
+Drug: Placebo of Risperidone ISM
+Drug: Dexamethasone (IV)
+Drug: paclitaxel
+Drug: Sterile Saline Solution
+Drug: L-carnitine
+Drug: 5mg Serlopitant Tablets
+Drug: Co-trimoxazole
+Drug: vaginal prostaglandin
+Drug: Docetaxel/Paclitaxel
+Drug: Apremilast (CC-10004)
+Drug: 0.09% Saline Solution
+Drug: Tapentadol
+Drug: Bupivacaine
+Drug: Placebo AZD9291 80 mg/40 mg
+Drug: IV ketamine
+Drug: Diurisa®
+Drug: lipoprostaglandin E1
+Drug: ESL 800 mg
+Drug: R-CEOP-90
+Drug: Hign dose Daunorubicin
+Drug: Placebo (for RVX000222)
+Drug: Etoposide Capsule + Methotrexate Tablet + Everolimus Tablet
+Drug: Group A amantadine sulfate
+Drug: Nicotine
+Drug: Cisplatin Combined With Paclitaxel
+Drug: Febuxostat
+Drug: Seladelpar 2 mg Capsule
+Drug: Lidocaine infusion
+Drug: High dose melphalan therapy and autologous stem cell transplant (intensive pathway only)
+Drug: Sulodexide
+Drug: Early Cabergoline 0.5mg
+Drug: Plasma-derived AT-III concentrate
+Drug: Standard Medical Therapy
+Drug: Relamorelin
+Drug: Tolvaptan (OPC-41061)
+Drug: AIN457
+Drug: Prednisone (or equivalent)
+Drug: Daprodustat small
+Drug: fluorouracil, oxaliplatin
+Drug: aminoglycoside/ sulbactam
+Drug: all-trans retinoic acid
+Drug: Pegylated Liposomal Doxorubicin Hydrochloride
+Drug: Pentostatin
+Drug: Nabilone
+Drug: pembrolizumab + epacadostat
+Drug: Beriplex P/N (Kcentra)
+Drug: low dose cytarabine
+Drug: KN035 plus Gemcitabine & oxaliplatin
+Drug: Colistimethate sodium
+Drug: Irinotecan liposome injection
+Drug: Sirolimus + calcineurin inhibitor + prednisone
+Drug: Oxytocine
+Drug: SOC Therapy
+Drug: Secukinumab
+Drug: R-DA-EPOCH-21
+Drug: ONO-4538
+Drug: Metoprolol
+Drug: epirubicin 60 mg/m2/day (days 1, 2) and ifosfamide 3 g/m2/day (days 1, 2, 3)
+Drug: nebulized levofloxacin
+Drug: Placebo granules
+Drug: Resveratrol
+Drug: Budesonide granules 9 mg
+Drug: FDC of Pertuzumab and Trastuzumab SC
+Drug: Cyclophosphamide Fluorouracil Epirubicin Docetaxel
+Drug: alpha-methyldopa
+Drug: Short term androgen deprivation
+Drug: 0.25% Desoximetasone cream (Topicorte®)
+Drug: Menatetrenone (MK4)
+Drug: Calcitriol
+Drug: Clarithromycin Extended Release
+Drug: Daily dose of cholecalciferol per os
+Drug: Anti-HBV antiviral prophylaxis
+Drug: Ropivacaine HCl Inj 7.5 MG/ML
+Drug: FMX103 1.5%
+Drug: Mercaptopurine, Imatinib
+Drug: 12-month icotinib
+Drug: Casodex
+Drug: Lactobacillus casei rhamnosus (Lcr 35 regenerans)
+Drug: Primaquine
+Drug: Crestor 10 mg
+Drug: Acthar
+Drug: 90 mcg of PROAIR® HFA
+Drug: BIVV009
+Drug: Physician's choice chemotherapy
+Drug: Seladelpar 5 mg Capsule
+Drug: EtoriCoxib
+Drug: YHR1703
+Drug: Optive Advanced
+Drug: Lucerastat
+Drug: High-dose Epirubicin Combined with CVP ± Rituximab
+Drug: Ulipristal (Esmya)
+Drug: Sofosbuvir (SOF)
+Drug: Mitomycin-C
+Drug: bempedoic acid
+Drug: Normal saline 0.5ml
+Drug: Placebo Capsule
+Drug: Nilutamide
+Drug: dexmedetomidine
+Drug: Alemtuzumab
+Drug: Apixaban
+Drug: Nimorazole
+Drug: Pazopanib Hydrochloride
+Drug: Imiquimod
+Drug: Celecoxib
+Drug: Oral Budesonide Suspension (OBS)
+Drug: Low-dose cytarabine (LDAC)
+Drug: parenteral anti-coagulant (UFH)
+Drug: Spironolactone 25 mg
+Drug: Elbasvir 50 mg/d 12 weeks
+Drug: Empirical therapy group
+Drug: Granulocyte-macrophage colony stimulating factor
+Drug: mirabegron
+Drug: NB medication (Naltrexone Bupropion combination)
+Drug: Normal Saline
+Drug: Sulindac and Placebo
+Drug: pemetrexed,docetaxel,gemcitabine,paclitaxel or vinorelbine combined with carboplatin?cis-platinum or nedaplatin
+Drug: atropine+ propofol
+Drug: roxadustat
+Drug: Belimumab
+Drug: FTC/RPV/TDF
+Drug: Cingal
+Drug: Placebo capsule of DLBS3233
+Drug: rt-PA
+Drug: Tissue Plasminogen Activator (Alteplase)
+Drug: Randomisation course 1 mitoxantrone versus DaunoXome
+Drug: Olmesartan 40 mg, Rosuvastatin 20mg
+Drug: NELARABINE
+Drug: Secretin
+Drug: high dose indomethacin
+Drug: Efavirenz 200 mg
+Drug: Epirubicin + cisplatin + 5-fluorouracil
+Drug: Ursodeoxycholic Acid
+Drug: Nifurtimox (BAYA2502)
+Drug: Dorzolamide
+Drug: Ergometrine
+Drug: albiglutide
+Drug: Yiqi-yangyin-jiedu decoction
+Drug: Vancomycin Hydrochloride
+Drug: Placebo q2w
+Drug: Nicotine replacement therapy - Nicotine gum
+Drug: Sterile isotonic saline solution
+Drug: Recombinant Human Growth Hormone Injection
+Drug: Levothyroxin
+Drug: OTL38
+Drug: Empagliflozin 10 MG
+Drug: Ustekinumab 45 mg
+Drug: Intravenous Antibiotic
+Drug: Cyclophosphamide 50Mg Oral Tablet
+Drug: Oral Treprostinil
+Drug: Sodium Thiosulfate
+Drug: Temozolomide Plus Cisplatin
+Drug: AXS-02 (oral zoledronate)
+Drug: melatonin
+Drug: Donafenib
+Drug: Dexamethasone , Ondansetron
+Drug: 6-month Icotinib
+Drug: temozolomide
+Drug: Tenoten for children
+Drug: IMRT combine with cisplatin concurrent chemotherapy
+Drug: S-1 plus oxaliplatin
+Drug: Qapzola
+Drug: Active Medication Combination (AMC)
+Drug: adult human mesenchymal stem cells
+Drug: Second-line PCI-32765
+Drug: bupivacaine
+Drug: Levosimendan 2.5 MG/ML
+Drug: Momelotinib
+Drug: vosaroxin
+Drug: Eribulin Mesylate
+Drug: S5G4T-2
+Drug: Bevacizumab
+Drug: DRV 800 mg + COBI 150 mg + FTC 200 mg + TAF 10 mg FDC
+Drug: YiQiYangYinFang
+Drug: Denosumab subcutaneous injections
+Drug: Corticosteroid injection (Bupivacaine and Depo Medrol)
+Drug: KX2-391 Ointment 1%
+Drug: Sulfonylurea (glimepiride)
+Drug: Aripiprazole tablet
+Drug: FOLFOXIRI + Bevacizumab
+Drug: LV5FU2 or capectitabine
+Drug: Fluoxetine 20mg/day
+Drug: suprachoroidal CLS-TA + IVT aflibercept
+Drug: Standard Care
+Drug: neratinib
+Drug: Aerosolized Calfactant
+Drug: Ketorolac
+Drug: porcine PERT
+Drug: Bortezomib, Melphalan, Prednisone (VMP)
+Drug: 4mg Dexamethasone
+Drug: Survanta
+Drug: LCZ696 (sacubitril/valsartan)
+Drug: Oxaliplatine
+Drug: Rifapentine and Isoniazid weekly for 12 weeks
+Drug: Injectable Somatostatin Analogs (octreotide or lanreotide)
+Drug: Trastuzumab SC
+Drug: Regimen A locally-used WHO-approved MDR-TB regimen
+Drug: 8% arginine/1450ppm sodium monofluorophosphate dentifrice
+Drug: Cyclophosphamide
+Drug: L-Carnosine
+Drug: Radotinib
+Drug: FTC/RPV/TAF
+Drug: Vehicle Foam
+Drug: Placebo to match F/TDF
+Drug: Prazosin
+Drug: Triluma
+Drug: nitrofurantoin
+Drug: Paroxetine
+Drug: Rifampicin 1200mg
+Drug: Misoprostol Pfizer Brand
+Drug: Cinobufacini Tablets
+Drug: Silibinin
+Drug: FAI insert
+Drug: 0 mg Prednisone
+Drug: Cisplatin 1
+Drug: oxaliplatin
+Drug: ATRA + IDA
+Drug: Placebo for dexamethasone
+Drug: IDP-123 Lotion
+Drug: Etanercept + Placebo for Methotrexate
+Drug: ALK Alutard SQ 5-grasses or ALK Alutard Birch
+Drug: Liprotamase
+Drug: mavacamten
+Drug: Carfilzomib
+Drug: taxane plus carboplatin
+Drug: Denosumab Inj 60 mg/ml
+Drug: tisseel
+Drug: Lidocaine 20mg/ml
+Drug: Exenatide once weekly (EQW )
+Drug: 5% fluoride varnish
+Drug: Inhaled Treprostinil
+Drug: Retapamulin
+Drug: HRZE (Rifampicin, Isoniazid, Pyrazinamide, and Ethambutol combination tablet)
+Drug: Albendazole and praziquantel
+Drug: Teneligliptin 20mg
+Drug: Ce 2 ng/ml
+Drug: ABL001
+Drug: JZP-258
+Drug: anastrozole
+Drug: Botulinum Toxin Type A
+Drug: aspirin
+Drug: Day 8: Capsule vinorelbine 60 mg/m2
+Drug: docetaxel, epirubicin and cyclophosphamide plus endostar
+Drug: 0.2 mg/kg ketamine
+Drug: PD-0332991
+Drug: Isovorin
+Drug: Leucovorin Calcium
+Drug: Mitomycin
+Drug: Gefapixant 15 mg BID
+Drug: Placebo - Ticagrelor
+Drug: Anakinra
+Drug: talazoparib
+Drug: rexlemestrocel-L
+Drug: 5 Fu
+Drug: isatuximab SAR650984
+Drug: Standard Bupivacaine
+Drug: lasmiditan 200 mg
+Drug: Cytarabine
+Drug: Dienogest
+Drug: Gemcitabine + carboplatin
+Drug: Ipragliflozin
+Drug: faslodex 500mg
+Drug: Prothionamide
+Drug: Azacitadine
+Drug: PP6M 700 mg eq.
+Drug: TRx0237 8 mg/day
+Drug: ALD403
+Drug: Relebactam
+Drug: Standard-dose Epirubicin Combined with CVP ± Rituximab
+Drug: In111-Pentetréotide
+Drug: ORS
+Drug: Tafamidis meglumine
+Drug: Tempocol-ColoPulse® (Peppermint oil)
+Drug: Acetaminophen, gabapentin
+Drug: nilutamide
+Drug: Placebo + surgery
+Drug: Botulinic toxin
+Drug: Montelukast
+Drug: Aromatase Inhibitors (Arimidex)
+Drug: Filgotinib
+Drug: 3 cycles chemotherapy
+Drug: Olokizumab 64 mg SC q4w
+Drug: Vilazodone
+Drug: intravitreous aflibercept
+Drug: Vancomycin antibiotic powder
+Drug: Phosphocreatine sodium tetrahydrate after heart recovery
+Drug: Voclosporin
+Drug: Sofosbuvir Oral Product
+Drug: EGFR-TK Inhibitor
+Drug: PBI-4050
+Drug: Insulin degludec
+Drug: Cisplatin
+Drug: Pregabalin Oral Capsule [Lyrica] 75mg
+Drug: Nalbuphine ER Tablets
+Drug: Tranexamic Acid 100 MG/ML
+Drug: Pracinostat
+Drug: Everolimus
+Drug: DCC-2618
+Drug: lapatinib/herceptin
+Drug: G-CSF administration
+Drug: prednisone tablets
+Drug: 0.25% Bupivacaine
+Drug: Beclometasone dipropionate/Formoterol Fumarate/Glycopyrronium
+Drug: Timolol eye drops
+Drug: TV-46000 - B
+Drug: FOLFOX4 or XELOX
+Drug: risankizumab
+Drug: Ziprasidone
+Drug: Androgen Hormonal Suppression and Radiation
+Drug: DDP
+Drug: Oxygen
+Drug: Methylene Blue
+Drug: VT-1161
+Drug: Inhaled amikacin
+Drug: Sebelipase alfa (SBC-102)
+Drug: cisplatinum
+Drug: Oxaliplatin S-1
+Drug: Mycophenolic acid (MPA)
+Drug: topiramate
+Drug: Brexpiprazole (OPC-34712)
+Drug: Cattle Encephalon Glycoside and Ignotin
+Drug: RTV
+Drug: ß-elemene
+Drug: Smoflipid 20% (investigational lipid for parenteral nutrition)
+Drug: palonosetron
+Drug: Fimasartan, Rosuvastatin
+Drug: Arm B : adjuvant FOLFOX group
+Drug: Liraglutide 1.8mg
+Drug: capecitabine plus oxaliplatin after surgery
+Drug: Etanercept 50 mg
+Drug: Esmolol
+Drug: 0.9%NS
+Drug: Hetrombopag Olamine
+Drug: ART, Rosuvastatin
+Drug: Sirukumab 100 mg
+Drug: polymixin/bacitracin
+Drug: Vitamin D
+Drug: SB3 (proposed trastuzumab biosimilar)
+Drug: Paracetamol
+Drug: Dydrogesterone Oral Tablet
+Drug: ANAKINRA 100 mg/daily subcutaneously
+Drug: Neem leaf extract
+Drug: Conbercept ophthalmic injection
+Drug: Tamoxifen
+Drug: Standard oral preparation
+Drug: Taselisib
+Drug: Rectal bacteriotherapy
+Drug: sodium nitrite 45 mg
+Drug: cisplatin, etoposide
+Drug: Oral anti-diabetic drugs
+Drug: TAK-536 5 mg
+Drug: CMV hyperimmune globulin
+Drug: Rituximab Placebo
+Drug: Vehicle of ADX-102 Topical Dermal Cream
+Drug: DRV/co
+Drug: prednisone discontinuation
+Drug: Beta-Interferon
+Drug: treatment : H. pylori eradication
+Drug: AFATINIB
+Drug: DFN-15
+Drug: Avastin (bevacizumab)
+Drug: methylcobalamin
+Drug: ALZT-OP1b
+Drug: Acetylsalicylic acid lysinate
+Drug: Ibuprofen 600 mg
+Drug: Nicotine Replacement Therapy Placebo
+Drug: Placebo of Valsartan
+Drug: NNC0195-0092
+Drug: Paclitaxel Micelles for Injection
+Drug: Erythromycin
+Drug: Intralipid® 20%
+Drug: Daratumumab SC: daratumumab + rHuPH20
+Drug: Placebo/Vehicle Lotion
+Drug: Administration of DAA-based treatment
+Drug: 8 weeks (Sofosbuvir 400mg/Ledipasvir 90mg)
+Drug: colchicine
+Drug: AG-348
+Drug: Sitagliptin + Metformin XR FDC
+Drug: Ketotifen Ophthalmic Solution 0.025% (Zaditen)
+Drug: Systemic Chemotherapy
+Drug: Dolutegravir 50 mg plus one RTI
+Drug: acamprosate
+Drug: UDCA
+Drug: Vivitrol
+Drug: NaCl20% (Continuous hyperosmolar therapy)
+Drug: CTX
+Drug: 25% AgNO3 solution followed by 5% NaF varnish
+Drug: Quetiapine
+Drug: Mycophenolate sodium
+Drug: Simdax
+Drug: Gel
+Drug: Aprocitentan 12.5 mg
+Drug: Seladelpar 10 mg Capsule
+Drug: 5% Glucose after heart recovery
+Drug: Enalapril Maleate Tablets(as the program-based antihypertension)
+Drug: Lignocaine spray
+Drug: No Hyperbaric Oxygen
+Drug: Sofosbuvir
+Drug: Cyclosporin
+Drug: Epirubicin, CTX, Paclitaxel
+Drug: Mupirocin
+Drug: colistin and meropenem
+Drug: 5-Fluoro-uracil
+Drug: Prophylactic treatment with Wilfactin
+Drug: Sufentanil
+Drug: Levonorgestrel
+Drug: Placebo Ointment
+Drug: Adapalene 0.3% / BPO 2.5% gel
+Drug: Intravitreal aflibercept injection [IAI]
+Drug: DRV
+Drug: infliximab
+Drug: ART, No statin
+Drug: Rivaroxaban (Xarelto, BAY59-7939)
+Drug: Macitentan 10 mg
+Drug: Tegafur, Gimeracil and Oteracil Potassium Capsules;Oxaliplatin
+Drug: Symbicort
+Drug: Androgen blockade + radiation therapy
+Drug: Decitabine
+Drug: GnRH (agonist)
+Drug: Placebo to Enalapril
+Drug: Herceptin™ (Her) + chemo
+Drug: Solanezumab
+Drug: Enalapril Maleate and Folic Acid tablets(as the program-based antihypertension)
+Drug: FG-4592 (roxadustat)
+Drug: E2007
+Drug: Sham Procedure Control
+Drug: SAR341402
+Drug: Iobenguane I -123 Injection
+Drug: Antipsychotic Agents
+Drug: Prograf
+Drug: Iodopovidone solution
+Drug: Ribavirin 100 MG
+Drug: Remaxol (succinate + methionine + inosine + nicotinamide)
+Drug: ALKS 3831
+Drug: ATeGe-Fresenius
+Drug: MTX 2
+Drug: MOR208
+Drug: Standard care
+Drug: Fasinumab AI
+Drug: LHRHA or Surgical Castration
+Drug: inhaled titration of morphine chlorhydrate
+Drug: TEV-48125 - 2
+Drug: 5 Flourouracil/ Capecitabine
+Drug: Alprostadil
+Drug: Placebo (Normal saline)
+Drug: Acyclovir (ACV)
+Drug: Melissa officinalis
+Drug: Docetaxel plus Capecitabine
+Drug: Regular Insulin
+Drug: DFN-11
+Drug: Phosphocreatine sodium tetrahydrate after ICU admission
+Drug: afatinib
+Drug: Folic Acid
+Drug: Bupivacaine HCl collagen-matrix implant
+Drug: Rifapentine and Isoniazid for 3 months
+Drug: VEC + HD-MTX
+Drug: Best Available Therapy (BAT)
+Drug: Brivaracetam
+Drug: Busonid (budesonide 200mcg and 400mcg)
+Drug: EC-T
+Drug: Fecal microbiota transplantation
+Drug: Gan Fu Le Tablets
+Drug: Olmesartan medoxomil 40mg + chlorthalidone 25mg
+Drug: 25% AgNO3 solution followed by 5% NaF
+Drug: Preoperative Gabexate Mesilate group
+Drug: Antiplatelet Regimen Modification (aspirin or ticagrelor)
+Drug: LV5FU2 or capecitabine
+Drug: LEE011
+Drug: Gemcitabine/cisplatin
+Drug: red blood cell transfusion trigger
+Drug: donepezil
+Drug: Dapagliflozin 10 mg
+Drug: Pro-Thrombin Concentrate Complex
+Drug: GWP42003-P
+Drug: Prednisone/Prednisolone
+Drug: Naloxone, intramuscular
+Drug: Chemotherapy (Induction Period)
+Drug: Very Low Nicotine Content Cigarettes
+Drug: Cipros 10 association
+Drug: Cardiac Drug
+Drug: Placebo Yifei Qinghua granule
+Drug: Vehicle Topical Gel
+Drug: Conventional autologous stem cell transplant (ASCT-con)
+Drug: Zinc acetate
+Drug: smoked plum
+Drug: Maintenance chemotherapy 2
+Drug: parecoxib sodium
+Drug: Fludarabine Phosphate
+Drug: Glucagon Nasal Powder
+Drug: Lenabasum 20 mg
+Drug: Aclidinium bromide/formoterol fumarate dihydrate
+Drug: Placebo twice daily
+Drug: oral morphine
+Drug: Flutamide (Eulexin) and Lupron or Zoladex
+Drug: D961H sachet 10mg
+Drug: 2mg Dexamethasone
+Drug: ChloraPrep
+Drug: Placebo disodium EDTA
+Drug: Cipros 20 association
+Drug: R-CEOP90
+Drug: Ubiquinol
+Drug: DCCR
+Drug: sitagliptin OR saxagliptin
+Drug: Erlotinib®
+Drug: Liposomal cytarabine
+Drug: Warfarin
+Drug: Ferric Maltol
+Drug: gum chewing
+Drug: Isradipine
+Drug: cetuximab
+Drug: Fucicort® Lipid cream vehicle
+Drug: satralizumab (SA237)
+Drug: MER
+Drug: Chemotherapy(carboplatin)
+Drug: FKB238 (bevacizumab)
+Drug: Liposomal Amikacin for Inhalation
+Drug: Lipiodol
+Drug: Budesonide 0.5mg orodispersible tablet twice daily
+Drug: metronidazole
+Drug: rhNRG-1
+Drug: FTC/RPV/TAF Placebo
+Drug: ACP-196
+Drug: 1.25 mg intravitreal bevacizumab
+Drug: Remifentanil
+Drug: Ludipress, mg stereate, micronized hydrated silica, talcum
+Drug: endostar
+Drug: Placebo Comparator - Placebo
+Drug: Optimized Background Regimen
+Drug: irbesartan
+Drug: Warfarin Sodium
+Drug: buprenorphine
+Drug: AbobotulinumtoxinA Placebo
+Drug: Hydromorphone HCl ER Tablets
+Drug: TPC
+Drug: Fidaxomicin
+Drug: canakinumab
+Drug: norepinephrine versus midodrine & octreotide
+Drug: Ergocalciferol
+Drug: Dakin's solution
+Drug: Intermittent insulin therapy
+Drug: Placebo-rituximab
+Drug: Tenofovir + Emtricitabine or Lamivudine + Raltegravir
+Drug: cisplatin
+Drug: lidocaine in-situ gel
+Drug: Intravenous Immunoglobulin
+Drug: ISV-305
+Drug: tranexamic acid
+Drug: Pexidartinib
+Drug: Finerenone (BAY94-8862)
+Drug: Teriflunomide
+Drug: Udenafil
+Drug: Placebo (sugar pill) + Virtual Reality Exposure
+Drug: tildrakizumab 200 mg (two 1-mL injections of 100 mg/mL)
+Drug: Pazopanib
+Drug: Depo-Medrol Injectable Product
+Drug: Montelukast 10mg
+Drug: carbidopa
+Drug: Neoadjuvant chemotherapy + Interval Debulking Surgery
+Drug: Pimavanserin
+Drug: BB3
+Drug: Benznidazole
+Drug: Gemcitabine/Cisplatin
+Drug: ALK diluent
+Drug: human albumin 5%
+Drug: Setmelanotide
+Drug: olaparib
+Drug: quinidine
+Drug: Prochlorperazine
+Drug: Deferasirox
+Drug: Placebo to Sitagliptin + Metformin FDC
+Drug: COP, COPADM8, CYVE
+Drug: Polysaccharide iron complex
+Drug: ACE inhibitor
+Drug: N-butyl-2-cyanoacrylate
+Drug: Oxytocin Spray
+Drug: Colistimethate Sodium
+Drug: UB-421
+Drug: HAM
+Drug: YHR1704
+Drug: Epacadostat
+Drug: meloxicam rectal suppository
+Drug: Metformin XR plus liraglutide
+Drug: ZX008 (Fenfluramine Hydrochloride)
+Drug: YHD1119
+Drug: Placebo group
+Drug: orphenadrine
+Drug: Vitamin D3 800 UI/day then 800 UI/day
+Drug: Asthma reliever therapies
+Drug: Cladribine
+Drug: Pegylated G-CSF (Pegfilgrastim)
+Drug: Steroid eye drop
+Drug: Tamsulosin
+Drug: Savolitinib
+Drug: Nifurtimox
+Drug: 5-Days Prophylactic Cefazolin* Antibiotic Regimen
+Drug: Dexmedetomidine infusion
+Drug: 5% Dextrose
+Drug: Oxaliplatin: Concentration-based HIPEC
+Drug: UT-15C (treprostinil diethanolamine)
+Drug: CP-690,550
+Drug: CPI-613 + HD Cytarabine and Mitoxantrone
+Drug: Pemafibrate
+Drug: Postoperative chemotherapy
+Drug: Eplerenone
+Drug: Salmeterol Xinafoate and Fluticasone Propinate Powder
+Drug: Osimertinib
+Drug: KP415 oral capsule
+Drug: nusinersen
+Drug: FF/UMEC/VI (100/31.25/25) mcg
+Drug: LHRH agonist
+Drug: Diovan® 160mg + Crestor® 20mg
+Drug: Atabecestat, 5 mg
+Drug: Liposomal Cytarabine
+Drug: Irbesartan
+Drug: Creon® 10000
+Drug: Tiotropium
+Drug: OSE2101
+Drug: Placebo Medication
+Drug: Gefitinib®
+Drug: Folinic acid
+Drug: Guselkumab Dose 1
+Drug: Nepafenac 0.3% Oph Susp (reference)
+Drug: Vincristine (VCR)
+Drug: Silver Nitrate
+Drug: Cediranib
+Drug: Lantus®
+Drug: Placebo oil
+Drug: Sofosbuvir/Ledipasvir 12W
+Drug: Brivaracetam (BRV) oral
+Drug: Dronabinol
+Drug: Duloxetine Hydrochloride
+Drug: TONKA
+Drug: pembrolizumab (MK-3475)
+Drug: Triamcinolone Hexacetonide
+Drug: Radium-223 chloride
+Drug: Prucalopride
+Drug: High dose Ara-C
+Drug: Linagliptin
+Drug: Metoprolol Tartrate
+Drug: IVIG
+Drug: Iron isomaltoside
+Drug: BKM120
+Drug: APL-2
+Drug: aflibercept
+Drug: Glufosfamide
+Drug: Erythropoietin alfa
+Drug: EPI
+Drug: Aclidinium bromide
+Drug: Cilastatin
+Drug: intranasal oxytocin spray
+Drug: Placebo (for Fenofibrate)
+Drug: acetylsalicylic acid
+Drug: low-molecular heparine
+Drug: Sofosbuvir/ledispasvir fixed dose combination (SOF + LDP)
+Drug: Placebo matching mepolizumab
+Drug: autologous immunoglobulin idiotype-KLH conjugate vaccine
+Drug: Botulinum Toxin type A (intra-masseter injection on the ipsilateral of pain involved)
+Drug: Lyrica
+Drug: Vinorelbine injection
+Drug: Normal Saline Flush, 0.9% Injectable Solution_#1
+Drug: Emtricitabine/tenofovir disoproxil fumarate
+Drug: 20 mL topically used during alginate dressing NAROPEINE
+Drug: Immunoglobulins, Intravenous (Privigen)
+Drug: CJ Plasma Solution A Injection
+Drug: liposomal doxorubicin
+Drug: sitagliptin/metformin
+Drug: Regorafenib (Stivarga, BAY73-4506)
+Drug: Oral Placebo Gentamycin
+Drug: Spironolactone
+Drug: Mylan's insulin glargine
+Drug: Ticlopidine + Ginko biloba
+Drug: F-627
+Drug: Vitamin E 400 UNT
+Drug: cisastracurium besylate
+Drug: Cilostazol
+Drug: CA
+Drug: Compound danshen dripping pills
+Drug: Conventional Care
+Drug: MMX Mesalamine/Mesalazine (High Dose)
+Drug: prednisolone
+Drug: Acetaminophen/APAP
+Drug: Insulin Glargine
+Drug: Hyoscine butyl bromide
+Drug: ALLOD-2 Capsules
+Drug: Nicardipine
+Drug: 1200 mg QD Eslicarbazepine acetate
+Drug: Simvastatin 10mg
+Drug: ANAKINRA
+Drug: Riociguat (Adempas, BAY63-2521)
+Drug: salbutamol
+Drug: Triamcinolone + Pirfenidone
+Drug: SGX301 (synthetic hypericin)
+Drug: fexinidazole
+Drug: Daclatasvir
+Drug: Valacyclovir
+Drug: Cladribine s.c. injection, HCL treatment
+Drug: TEV-48125
+Drug: BIIB019 (Daclizumab)
+Drug: setmelanotide
+Drug: Dextrose 5
+Drug: BR
+Drug: apomorphine infusion
+Drug: Visbiome
+Drug: Abiraterone acetate
+Drug: Leuprorelin Acetate
+Drug: opium
+Drug: Quetiapine XR 600 mg
+Drug: Erlotinib
+Drug: ixazomib
+Drug: Ketamine Hydrochloride 50Mg/1mL Solution for Injection
+Drug: migalastat HCl 150 mg
+Drug: SCYX 7158
+Drug: Zolpidem
+Drug: Ixazomib Citrate
+Drug: LDAC and/or Mitoxantrone
+Drug: FSH
+Drug: Prednisone Placebo
+Drug: Paclitaxel + carboplatin
+Drug: Botulinum toxin injections for chronic compartment syndrome
+Drug: Test Drug (JDP-205)
+Drug: Morphine 15mg
+Drug: leucovorin
+Drug: Guselkumab
+Drug: Intranasal Ketamine
+Drug: BLI4700
+Drug: Vitamin D3 (Low dose)
+Drug: Epoetin alfa vials
+Drug: Choline alfoscerate
+Drug: a-IFN
+Drug: Hormone Therapy
+Drug: Turoctocog alfa pegol
+Drug: Tildrakizumab Placebo
+Drug: WTX101
+Drug: Low-dose Hormonal Add-back Placebo
+Drug: Amlodipine/Olmesartan 10/40mg (Combination drug), Rosuvastatin 20mg
+Drug: Cyclophosphamide, Vincristine, Cytarabine, Doxorubincin, Prednisone
+Drug: Herceptin (trastuzumab)
+Drug: MTX 1
+Drug: Cyclophosphamide (CTX)
+Drug: Albuterol/salbutamol
+Drug: Placebo with brief behavioral enhancement therapy
+Drug: Rinexin® Tab
+Drug: Liberal fluid therapy
+Drug: Infacort®
+Drug: Fractionated Cisplatin
+Drug: Placebo to match B/F/TAF
+Drug: Acetylsalicylic acid (ASA)/aspirin 200 mg daily
+Drug: D-Mannose
+Drug: Selumetinib
+Drug: Glatiramer Acetate
+Drug: group (A)
+Drug: vemurafenib
+Drug: Irinotecan 125mg
+Drug: Chlorambucil
+Drug: 68Ga-HBED-CC-PSMA PET/CT
+Drug: Standard therapy (Excluding Immunosuppressants)
+Drug: pegaspargase
+Drug: oxaliplatin (OXA), levofolinate calcium (l-LV), 5-FU, bevacizumab
+Drug: Levomilnacipran ER
+Drug: Quizartinib
+Drug: ART-123
+Drug: Temisartan+Rosuvastatin
+Drug: somatostatin infusion
+Drug: MD1003 100mg capsule
+Drug: Elbasvir/ Grazoprevir 50/100 mg fixed dose combination
+Drug: paclitaxel/anthracycline
+Drug: SPD489
+Drug: Dabigatran etexilate
+Drug: misoprostol
+Drug: Carbidopa
+Drug: Decitabine (DTC Arm)
+Drug: SOC
+Drug: capecitabine and oxaliplatin
+Drug: oral resveratrol
+Drug: Pharyngal® Oromucosal Spray
+Drug: Tobi Inhalant Product
+Drug: 7 day H.pylori eradication Omeprazole or Rabeprazole, Clarithromycin, Amoxicillin
+Drug: Atropine sulfate 0.01%
+Drug: ganaxolone
+Drug: MPDL3280A
+Drug: Durvalumab
+Drug: atorvastatin
+Drug: SUBA itraconazole
+Drug: P-3058 10%
+Drug: Ganirelix (GnRH antagonist)
+Drug: Alpelisib
+Drug: Fesoterodine PR 8 mg
+Drug: Modified BUCY
+Drug: arimidex 1mg
+Drug: VB-111 + bevacizumab
+Drug: Cisplatinum
+Drug: Placebo control
+Drug: trabectedin 1.3 mg/m2
+Drug: Subcutaneous(SC) Abatacept
+Drug: TNX-102 SL 5.6 mg
+Drug: 12 weeks with Ribavirin
+Drug: Fuzhenghuayu
+Drug: FOLFOX 4
+Drug: controlled-release oxycodone
+Drug: IMAB362
+Drug: ABC/DTG/3TC
+Drug: Grazoprevir 100 mg/Elbasvir 50 mg FDC tablet (MK-5172A)
+Drug: Placebo for oral CAB
+Drug: Estrogens
+Drug: Thalidomide combined with R-CHOP
+Drug: Desloratadine+Phenylephrine+Ibuprofen
+Drug: Indomethacin 100Mg Suppository
+Drug: L19IL2 + L19TNF
+Drug: gemcitabine 900 mg/m2 (days 1 and 8) and docetaxel 75 mg/m2 (day 8)
+Drug: solifenacin
+Drug: Apixaban 2.5 MG
+Drug: Octreotide
+Drug: Basal insulin only
+Drug: Thymosin alpha 1
+Drug: Rituximab SC
+Drug: PMF104
+Drug: Conventional Vincristine
+Drug: Amiodarone
+Drug: recombinant von Willebrand factor
+Drug: Angiotensin II receptor blocker (ARB, losartan) and calcium channel blocker (CCB, amlodipine)
+Drug: Placebo anacetrapib
+Drug: ruxolitinib tablets
+Drug: OTM Dexmedetomidine 0.75µg/ kg.
+Drug: Low dose Aspirin , Vitamin D
+Drug: Normosol
+Drug: Xe-133
+Drug: Restrictive fluid therapy
+Drug: Indomethacin
+Drug: QAW039 Dose 2
+Drug: Ustekinumab IV
+Drug: Levosimendan
+Drug: azathioprine or adalimumab and infliximab
+Drug: 80 mg Ixekizumab Dosing Regimens 1, 2, and 3
+Drug: Extracorporeal photopheresis (ECP)
+Drug: Dexamethasone intravitreal implant 0.7 mg
+Drug: Trimethoprim-Sulfamethoxazole
+Drug: lenalidomide, bortezomib and dexamethasone
+Drug: 5-Fluorouracil
+Drug: Avastin 100 mg in 4 ml Injection
+Drug: Rivaroxaban (20 mg)
+Drug: Zidovudine
+Drug: Two Anti-angiogenesis Drugs(Endostar and Thalidomide)
+Drug: Enalapril
+Drug: Enzalutamide
+Drug: IV Bag Protectant for Moxetumomab pasudotox
+Drug: Alemtuzumab GZ402673
+Drug: M-VTD-PACE
+Drug: pegaspargase 1250 IU/m2 x 2
+Drug: EFV/FTC/TDF Placebo
+Drug: Cis-platinum
+Drug: lorcaserin
+Drug: TGR-1202 + Ublituximab
+Drug: Ondansetron 8mg
+Drug: Placebo (for Zonisamide)
+Drug: Placebo (for Isradipine)
+Drug: Dimenhydrinate
+Drug: Celecoxib 200mg oral capsule
+Drug: 5% potassium nitrate/2500ppm sodium fluoride dentifrice
+Drug: ORADUR®-Methylphenidate
+Drug: Placebo orodispersible tablet twice daily
+Drug: DWC20156
+Drug: Long DAPT
+Drug: ABT-SLV187
+Drug: R-mNHL-BFM-90
+Drug: Nicotine patch
+Drug: RhIL-2
+Drug: AVP-786
+Drug: Cinacalcet 30 mg Tablet
+Drug: Investigator's Choice Chemotherapy
+Drug: Placebo for oral TDF/FTC
+Drug: Hydrocortisone Placebo
+Drug: Ritonavir Placebo
+Drug: Neridronic acid
+Drug: Citrulline
+Drug: Apixaban Oral Tablet [Eliquis]
+Drug: Placebo ZNS
+Drug: Raloxifene
+Drug: Afinitor (everolimus)
+Drug: Investigator-Assigned Treatment
+Drug: Epirubicin Cyclophosphamide Paclitaxel
+Drug: all-trans retinoic acid (ATRA)
+Drug: IAC regimen
+Drug: Observation
+Drug: Calcium acetate and sevelamer hydrochloride
+Drug: Abiraterone acetate and prednisone
+Drug: 5-aminolévulinique acid (5-ALA)
+Drug: VKA
+Drug: Hyperbaric bupivacaine
+Drug: Olmesartan 20mg + hydrochlorothiazide 12,5mg
+Drug: Sorafenib Tosylate Tablets
+Drug: Azathioprine
+Drug: Mirikizumab
+Drug: ACT
+Drug: Apremilast
+Drug: Ceterizine
+Drug: Insulin
+Drug: HES 130/0.4 (Voluven)
+Drug: Capecitabine and Oxaliplatin
+Drug: Clopidogrel
+Drug: Carboplatin and Paclitaxel
+Drug: CTC
+Drug: RAD001
+Drug: Combination of Lopinavir /Ritonavir and Interferon beta-1b
+Drug: Placebo for adalimumab
+Drug: RhIGF-1 with transdermal 17-beta estradiol
+Drug: E/C/F/TDF
+Drug: EDS-EP dose range of ~14-22 mg DSP/infusion
+Drug: Regional analgesia and propofol
+Drug: triptorelin
+Drug: Fitusiran (ALN-AT3SC)
+Drug: Monthly dihydroartemisinin-piperaquine (DP) for adult women during pregnancy
+Drug: atezolizumab + avastin + platinum-based chemotherapy
+Drug: GSK2696274
+Drug: VP16
+Drug: Cyclosporine A
+Drug: Maintenance chemotherapy 1
+Drug: Rhenium-188-HEDP
+Drug: Ifosfamide
+Drug: Nab-paclitaxel
+Drug: mFOLFOX6 or XELOX
+Drug: Letrozole
+Drug: Mirtazapine 30 mg oral tablets
+Drug: Placebo to match ruxolitinib
+Drug: 24-Hour Prophylactic Cefazolin* Antibiotic Regimen
+Drug: Apalutamide Placebo
+Drug: Gonadotropin-releasing hormone agonist
+Drug: Ravidasvir
+Drug: Tranexamic Acid (TXA)
+Drug: Rituximab 1g IV
+Drug: Naridrin
+Drug: calcineurin inhibitors
+Drug: Transplants from family-mismatched/haploidentical donors
+Drug: Rituximab - Bendamustine
+Drug: Placebo for Fimasartan 120mg
+Drug: Rizatriptan
+Drug: Best Available Therapy
+Drug: Pregabalin plus BBCET
+Drug: Rifampin daily for 16 weeks
+Drug: Placebo to match enalapril
+Drug: Traditional Treatment (Group T)
+Drug: IDP-123 Vehicle Lotion
+Drug: Estradiol 0.5% percutaneous gel; Cyproterone acetate 50 mg oral
+Drug: vinblastine
+Drug: Placebo for etanercept sq injection
+Drug: Tenofovir/emtricitabine FDC
+Drug: ibalizumab
+Drug: Intravenous immunoglobulin
+Drug: e-Device
+Drug: Nolasiban 900mg
+Drug: background therapy
+Drug: Placebo 2
+Drug: Conventional NSAA
+Drug: oxaliplatin and gemcitabine
+Drug: LCZ696
+Drug: BGB-290
+Drug: FF/UMEC/VI (100/62.5/25) mcg
+Drug: Standard ADT (androgen deprivation therapy)
+Drug: Poly I: Poly C12U (Rintatolimod)
+Drug: Placebo Matched to MTX
+Drug: Irlanda-2-Association
+Drug: Clotrimazole
+Drug: Fludarabine and Busulfan plus/minus Total Body Irradiation (low dose)
+Drug: ticagrelor
+Drug: Plerixafor
+Drug: CP-690,500 5 mg
+Drug: Olmesartan 40mg + Hydrochlorothiazide 25mg
+Drug: Efavirenz/emtricitabine/tenofovir disoproxil fumarate
+Drug: sunitinib or pazopanib
+Drug: Single red blood packed cells Transfusion
+Drug: Tenofovir + lamivudine + efavirenz
+Drug: vindesine
+Drug: Ciprofloxacin
+Drug: Buspirone
+Drug: enfortumab vedotin
+Drug: PCD
+Drug: Alogliptin Benzoate
+Drug: SodiumChloride
+Drug: Etomidate
+Drug: sodium folinate
+Drug: Tolcapone 200 MG
+Drug: sodium fusidate
+Drug: Pertuzumab
+Drug: Fesoterodine BIC 4 mg
+Drug: RBX2660
+Drug: YiQiFang
+Drug: PRO 140
+Drug: EndoTAG-1
+Drug: Tamsulosin 0.2mg
+Drug: intranasal fentanyl spray
+Drug: S-1 (Tegafur, Gimeracil and Oteracil Porassium Capsules)
+Drug: Induction chemotherapy using PF (5-Fluorouracil)
+Drug: Placebo (D5W)
+Drug: Fluorometholone 1% topical ocular steroid
+Drug: Methotrexate(MTX)
+Drug: gel loaded with steroids (momentasone)
+Drug: HD Cytarabine
+Drug: Pentoxifylline
+Drug: Recombinant Human Choriogonadotropin alfa Solution for Injection
+Drug: BCD-085 Q2W
+Drug: Telotristat etiprate tablets (250 mg)
+Drug: COR-003
+Drug: 2% ketoconazole cream
+Drug: Gefitinib 250mg po qd or Tarceva 150mg po qd or Icotinib 125mg po tid Other Name: Gefitinib/Tarceva/Icotinib
+Drug: Basal Insulin and Bolus Insulin
+Drug: Placebo AZD9291 80 mg/ 40 mg
+Drug: MHOS/SHP615
+Drug: Mycophenolate mofetil
+Drug: Aducanumab (BIIB037)
+Drug: Emtricitabine/tenofovir alafenamide
+Drug: CardioCell
+Drug: Progesterone
+Drug: ALLN-177
+Drug: Rivaroxaban 10 Milligrams
+Drug: Dexmedetomidine intervention
+Drug: risankizumab SC
+Drug: Advair Diskus 100/50 Dry Powder Inhaler, 60 ACTUAT
+Drug: Insulin detemir
+Drug: carboplatin,
+Drug: etrolizumab
+Drug: Asenapine
+Drug: Riluzole
+Drug: Additive classical homeopathy
+Drug: saline infusion
+Drug: SoluMatrix™ Abiraterone Acetate
+Drug: Liposomal daunorubicin
+Drug: Placebo Matched to Tocilizumab
+Drug: Padsevonil
+Drug: 17-Hydroxyprogesterone Capronate
+Drug: carfilzomib
+Drug: Mosapride
+Drug: Low-dose methotrexate (MTX)
+Drug: Placebo (for sarilumab)
+Drug: Custodiol-N
+Drug: Induction chemotherapy with gemcitabine or FOLFIRINOX
+Drug: CQ and PQ starting on Day 42
+Drug: Telbivudine
+Drug: Bosutinib
+Drug: IOHEXOL
+Drug: Third ARV agent
+Drug: Artemether-lumefantrine + Primaquine
+Drug: Nicotine replacement therapy - Nicotine lozenge
+Drug: Rituximab (RTX)
+Drug: leflunomide
+Drug: Ferric maltol 30 mg (Feraccru®)
+Drug: Triptorelin (GnRHa) + Chemotherapy
+Drug: Pre-operative SN mapping with Nanocis
+Drug: FOLFOX6m
+Drug: Paclitaxel/ Gemcitabine
+Drug: PA-824
+Drug: nilotinib
+Drug: Intravitreal Ranibizumab 0.5 mg
+Drug: sumatriptan nasal powder
+Drug: Normal saline 1ml
+Drug: Galcanezumab
+Drug: Denosumab (reduced dosing)
+Drug: DTG 50 mg /ABC 600 mg /3TC 300 mg FDC tablets
+Drug: givinostat
+Drug: Alitretinoin
+Drug: FOLFOXIRI
+Drug: Ringer lactate
+Drug: intranasal fentanyl
+Drug: atomoxetine
+Drug: CYC
+Drug: Glutamin
+Drug: Daprodustat (GSK1278863)
+Drug: BL-8040 1.25mg/kg + G-CSF
+Drug: Hydroxychloroquine
+Drug: Nebulized normal saline
+Drug: DAPT
+Drug: exenatide extended-release
+Drug: tofacitinib
+Drug: Neupogen
+Drug: Placebo, intranasal
+Drug: Lithium
+Drug: Temozolomide + Chloroquine
+Drug: 6 cycles chemotherapy
+Drug: Glargine
+Drug: rhTPO
+Drug: Sbv
+Drug: Rasagiline
+Drug: Canagliflozin 100 mg
+Drug: Epirubicin, Paclitaxel
+Drug: Standard: Aprepitant
+Drug: Ixekizumab 80 mg Q2W
+Drug: Placebo +G-CSF
+Drug: Placebo - Concentrate
+Drug: Placebo to match MTX
+Drug: Limaprost
+Drug: Prednisone,Vincristine, Cyclophosphamide
+Drug: Oral Gentamycin
+Drug: Tong-Luo-Qu-Tong Plaster
+Drug: Hypotonic Riboflavin
+Drug: EVD + IVF with Alteplase
+Drug: Acamprosate
+Drug: Best available therapy (BAT)
+Drug: CMF regimen
+Drug: DLBS1442 200
+Drug: Sacituzumab govitecan
+Drug: TT3-LITE Regimen (L-TT3)
+Drug: Abraxane + carboplatin
+Drug: Nitrous Oxide
+Drug: Placebo subcutaneous injections
+Drug: Testosterone gel
+Drug: Secretin, Pig
+Drug: Placebo of HS-25
+Drug: Merional
+Drug: Bardoxolone methyl capsules
+Drug: Pioglitazone
+Drug: FLAG-IDA (Granulocyte-Colony Stimulating Factor (G-CSF), Fludarabine, Cytarabine, Idarubicin)
+Drug: Infliximab
+Drug: Daunorubicin
+Drug: Fumaderm
+Drug: ribociclib
+Drug: Myeloablative Chemotherapy Regimen for Lymphoid Malignancies or Cord Blood Unit Recipients
+Drug: Maltose
+Drug: mefenamic acid (ponstan forte)
+Drug: Dabigatran
+Drug: Glucose-Insulin-Potassium
+Drug: talimogene laherparepvec
+Drug: Glucosamine and chondroitin sulfate combination (Eurofarma)
+Drug: Methoxyflurane
+Drug: levothyroxin
+Drug: Eculizumab
+Drug: Atezolizumab (MPDL3280A), an engineered anti-PD-L1 antibody
+Drug: Tryptophan
+Drug: Terbinafine
+Drug: Capoten®
+Drug: Amoxicillin 750 mg bid
+Drug: FDC Bromopride 10 mg and Simethicone 80 mg
+Drug: Dorzolamide-timolol
+Drug: FG-4592
+Drug: FF/UMEC/VI
+Drug: Placebo for Tamsulosin
+Drug: Teduglutide + Normal Saline
+Drug: Imatinib maintenance
+Drug: Exemestane and GnRH analogue
+Drug: buserelin
+Drug: NKTR-102
+Drug: Chemotherapy(pemetrexed/gemcitabine)
+Drug: F/TAF Placebo
+Drug: Placebo subcutanous injection matching to ofatumumab
+Drug: Placebo Lotion
+Drug: Moxifloxacin
+Drug: Vinorelbine, cisplatin
+Drug: Arsenic trioxide
+Drug: CQ coadministered with PQ
+Drug: 0.075% Capsaicin Lotion
+Drug: Etoposide Injection plus Methotrexate Injection
+Drug: PET MPI
+Drug: Chinese Red Yeast Rice (CRYR)
+Drug: Placebo 300 mg
+Drug: Placebe of HS-25 and Atorvastatin
+Drug: fluoruracil
+Drug: Delamanid (DLM)
+Drug: ABVD (Adriamycin, Bleomycin, Vincristine, Dacarbazine)
+Drug: ENIA11
+Drug: Naloxegol 25 MG
+Drug: insulin aspart
+Drug: Fumaric Acid Esters
+Drug: Recombinant Factor VIII (On-demand treatment)
+Drug: BCX7353
+Drug: Bemiparin
+Drug: Placebo to Grazoprevir 100 mg/Elbasvir 50 mg FDC tablet
+Drug: pioglitazone
+Drug: Sodium Chloride
+Drug: nilotinib 400 mg BID
+Drug: TAS-118 plus Oxaliplatin
+Drug: injection Combined Bevacizumab and Fasudil
+Drug: Bismuth quadruple therapy
+Drug: Celebrex
+Drug: Aspirin 300mg
+Drug: Treprostinil sodium
+Drug: Maribavir
+Drug: Fesoterodine PR
+Drug: Niraparib
+Drug: arachides oleum raffinatum
+Drug: ferric carboxymaltose
+Drug: Fulvestrant Injectable Product
+Drug: CHF 1535 200/6 µg + Tiotropium Respimat 2.5 µg
+Drug: Human chorionic gonadotrophin
+Drug: Oral dexamethasone
+Drug: epoetin alfa
+Drug: Topiramate
+Drug: Tobramycin solution for inhalation
+Drug: Glecaprevir/Pibrentasvir (G/P) 300mg/120mg
+Drug: Pomalidomide 0.5 mg
+Drug: Etonogestrel-Delayed
+Drug: Red yeast rice and atorvastatin
+Drug: Enteral nutrition alanyl-glutamin, Dipeptiven
+Drug: MEDI4736 (durvalumab)
+Drug: Bromopride 10 mg
+Drug: Steroid
+Drug: cyclophosphamide
+Drug: 20 mg Rupatadine
+Drug: mFolfirinox
+Drug: betamethasone 24 mg
+Drug: Edoxaban-based Regimen
+Drug: Conventional adjuvant FOLFOX
+Drug: Sofosbuvir , daclatasvir
+Drug: Guselkumab Dose 2
+Drug: Matched Placebos
+Drug: dimethyl fumarate
+Drug: Vitamin C 1 GM Oral Tablet
+Drug: Budesonide 0.5 MG/ML
+Drug: Imiglucerase GZ437843
+Drug: suprachoroidal sham + IVT aflibercept
+Drug: Docetaxel,Cisplatin,Fluorouracil
+Drug: Tenofovir disoproxil fumarate
+Drug: Cosyntropin Injectable Suspension, 1 mg/mL
+Drug: Fluticasone/salmeterol (FSC)
+Drug: photosensitizer(photofrin)
+Drug: JCM-16021
+Drug: Lidocaine 4% Topical Application Cream [LMX 4]
+Drug: GP MDI 14.4 µg
+Drug: letrozole plus metformin
+Drug: Tranexamic Acid
+Drug: CORETOX®
+Drug: Normal saline
+Drug: 0.25% Timolol gel with paraffin gauze dressings
+Drug: Placebo Ophthalmic solution
+Drug: Mifamurtide arm
+Drug: Contrast agent: SonoVue®.
+Drug: CAR
+Drug: Vitamin E
+Drug: Brotizolam
+Drug: Fexinidazole
+Drug: Placebo (canagliflozin)
+Drug: dabrafenib
+Drug: Ustekinumab (approximately 6 mg/kg)
+Drug: Wellbutrin XL
+Drug: Cabotegravir tablets
+Drug: Olaparib 300mg tablets
+Drug: inhaled nitric oxide
+Drug: 6-Mercaptopurine
+Drug: Thiotepa
+Drug: SHR3824
+Drug: Triostat
+Drug: Placebo medication
+Drug: Pimavanserin 34 mg
+Drug: Rosuvastatin
+Drug: Rituximab plus CHOP
+Drug: VM-1500
+Drug: Quadruple therapy
+Drug: Dapagliflozin 10mg
+Drug: Topical application Tranexamic acid
+Drug: Furosemide
+Drug: carboplatin, thiotepa, and cyclophosphamide
+Drug: Placebo + Lenalidomide + Dexamethasone
+Drug: Administration of Ropivacaïne
+Drug: Plinabulin
+Drug: Vitamin C
+Drug: Opioids
+Drug: G-PERT
+Drug: LHRHA
+Drug: Dexamethasone acetate
+Drug: Oral saline
+Drug: amifampridine phosphate
+Drug: Daunomycin and Cytarabine (DA Regimen)
+Drug: CI-581b
+Drug: Eslicarbazepine acetate
+Drug: Entinostat
+Drug: [18F]NAV4694
+Drug: Atabecestat, 25 mg
+Drug: Ethinyl estradiol and drospirenone (Yarina, BAY86-5131)
+Drug: brentuximab vedotin
+Drug: EDS-EP dose range of ~5-10 mg DSP/infusion
+Drug: AG-221
+Drug: DRV/COBI FDC
+Drug: Stavudine
+Drug: GP MDI 28.8 µg
+Drug: Bupivacaine Group
+Drug: Adderall XR
+Drug: Tinzaparin
+Drug: open-label PTH(1-84)
+Drug: Methionine
+Drug: Genvoya 150Mg-150Mg-200Mg-10Mg Tablet
+Drug: AV2
+Drug: Spiriva Respimat 2.5 µg
+Drug: combined oral contraceptive pills
+Drug: COBI
+Drug: Dydrogesterone
+Drug: chemotherapy (Mitoxantrone, Cytarabine)
+Drug: dasatinib
+Drug: Technetium99
+Drug: Teriflunomide 14 MG Oral Tablet [Aubagio]
+Drug: Busulfan, Fludarabine, ATG, TLI
+Drug: Epirubicin plus Cyclophosphamide
+Drug: Vedolizumab
+Drug: Darunavir
+Drug: Terlipressin administration
+Drug: Placebo Gefitinib 250 mg
+Drug: Adalimumab
+Drug: clotrimazole
+Drug: ATV/co
+Drug: Mesalazine (3,600 mg)
+Drug: 10 mg Bupivacaine
+Drug: Methotrexate (low dose)
+Drug: CJ-12420 100 mg QD
+Drug: Sham
+Drug: S5G4T-1
+Drug: uracil-tegafur
+Drug: Alirocumab 150 mg/mL
+Drug: Busulfan
+Drug: rituximab+chlorambucil
+Drug: Placebo Oral
+Drug: Flecainide (monotherapy)
+Drug: Vehicle gel
+Drug: Post radiotherapy commencement of anastrozole
+Drug: Pentamidine Isethionate
+Drug: letrozole
+Drug: Lorcaserin
+Drug: Melatonin (N-acetyl-5-methoxytryptamine)
+Drug: metyrapone
+Drug: Baseline regimen of cobicistat-boosted elvitegravir
+Drug: Standard Anticoagulation Therapy
+Drug: Memantine Hydrochloride
+Drug: Placebo Oral Capsule [CEBOCAP]
+Drug: Golimumab
+Drug: RO7034067
+Drug: Amitriptyline
+Drug: Dornase Alfa Inhalant Solution [Pulmozyme]
+Drug: Mirena
+Drug: Lactulose
+Drug: ET group
+Drug: Lumacaftor
+Drug: Lenalidomide
+Drug: Vigantol oil and MCT oil
+Drug: Placebo for bexagliflozin
+Drug: Standard Maintenance
+Drug: tocilizumab
+Drug: Donepezil
+Drug: Losartan group
+Drug: Ketorolac, intravenous
+Drug: GV1001
+Drug: Apremilast tablet 30 mg BID
+Drug: Placebo (semaglutide)
+Drug: Estrogen patch
+Drug: Nicotine Bitartrate Lozenge 4mg
+Drug: Dorzolamide-Timolol Ophthalmic
+Drug: Lysobact Complete Sprey
+Drug: Oxaliplatin; Capecitabine
+Drug: IL-1Ra Placebo
+Drug: Regorafenib (BAY73- 4506)
+Drug: Isoniazid
+Drug: rAAV2-ND4
+Drug: MC2-01 cream
+Drug: KPS-0373
+Drug: Aromatase Inhibitors (Femara)
+Drug: Placebo (saline)
+Drug: gel loaded with both steroids and antibiotic
+Drug: Acetylsalicylic acid (ASA)/aspirin 100 mg daily
+Drug: osilodrostat Placebo
+Drug: daunoxome
+Drug: Single intravenous bolus of cyclosporine A (2.5 mg/kg) at the onset of resuscitation
+Drug: Dexmedetomidine 0.5µg/kg /h
+Drug: Low dose DFD07 once daily
+Drug: Normal saline group
+Drug: 7+3 (cytarabine and daunorubicin)
+Drug: ASCT conditioning
+Drug: Pregabalin
+Drug: 300mg Berberine hydrochloride
+Drug: Matched-Placebo for Primaquine
+Drug: Vasoconstrictor eye drop
+Drug: 180 mcg of 90 mcg of PROAIR® HFA
+Drug: Magnesia calcinada
+Drug: Oxaliplatin IV
+Drug: B arm (FLAG-IDA)
+Drug: Placebo (for Bezafibrate)
+Drug: Daprodustat
+Drug: Somatostatin
+Drug: Insulin Aspart
+Drug: Placebo for levosimendan
+Drug: Tapentadol 20 mg/mL
+Drug: 1 to 4 mg tablets of GSK1278863
+Drug: pemetrexed
+Drug: Transplants from 8/8-matched Unrelated donors
+Drug: Enema
+Drug: Gemcitabine, Cisplatin
+Drug: 5-Aminolevulinic acid (ALA)
+Drug: Sevelamer Carbonate (GZ419831)
+Drug: Liposomal Bupivacaine
+Drug: Hyperthermic intraperitoneal perfusion chemotherapy
+Drug: Surgiguard
+Drug: Ferric maltol
+Drug: icotinib
+Drug: rhEPO
+Drug: LY2963016
+Drug: VX-445
+Drug: NCCN Chemotherapy
+Drug: Cefaliv® & Placebo
+Drug: Chronocort®
+Drug: CI-581-b
+Drug: Sodium Zirconium Cyclosilicate 5g
+Drug: dexamethasone and rituximab
+Drug: Low dose methotrexate
+Drug: Duloxetine
+Drug: Omega 3 fatty acid
+Drug: LEGALON
+Drug: Insulin Glulisine (HMR1964)
+Drug: sulphadoxine-pyrimethamine
+Drug: Denosumab 60 MG/ML Prefilled Syringe
+Drug: Nebulized Epinephrine
+Drug: Romiplostim
+Drug: Tinzaparin Sodium
+Drug: Apatinib Oral Tablet
+Drug: Ranitidine or equivalent
+Drug: Transdermal 17Beta-estradiol, progesterone
+Drug: Topical corticosteroids (TCS)
+Drug: high-dose ifosfamide 14 g/m2, given in in 14 days
+Drug: SENS-111 100mg
+Drug: DAG181
+Drug: X0002
+Drug: Patisiran (ALN-TTR02)
+Drug: Zonisamide
+Drug: iron isomaltoside(Monofer®)
+Drug: Etoposide Capsule + Methotrexate Tablet + Topotecan Capsule
+Drug: TAP block w Liposomal bupivacaine
+Drug: teriflunomide
+Drug: Dopamine
+Drug: Goserelin
+Drug: ThermoDox
+Drug: Faster-acting insulin aspart
+Drug: VAS203
+Drug: PGA mesh reinforcement
+Drug: FOLFOX/ FOLFIRI with panitumumab
