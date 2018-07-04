@@ -1,0 +1,189 @@
+Drug: Iobenguane I 123 Injection
+Drug: Venetoclax
+Drug: cabotegravir, CAB
+Drug: Pirfenidone
+Drug: Afatinib
+Drug: 131 I-MIBG
+Drug: Elotuzumab
+Drug: Baricitinib
+Drug: Omegaven
+Drug: BMN190, recombinant human tripeptidyl peptidase-1 (rhTPP1)
+Drug: droxidopa
+Drug: Estradiol 2Mg Tablet
+Drug: 131-I-meta-iodobenzylguanidine
+Drug: TMC207
+Drug: Lorlatinib
+Drug: Pasireotide
+Drug: raltegravir
+Drug: LOXO-195
+Drug: suspension of erythrocytes encapsulating L-asparaginase
+Drug: cabozantinib
+Drug: Mepolizumab
+Drug: Sapropterin dihydrochloride
+Drug: eculizumab
+Drug: Oxcarbazepine Extended Release
+Drug: Rosuvastatin,SFC fenofibrate
+Drug: Pegylated Interferon
+Drug: Fenretinide Lym-X-Sorb Oral Powder
+Drug: Abemaciclib
+Drug: Belatacept
+Drug: Cannabidiol
+Drug: cemiplimab
+Drug: 68Ga DOTATATE
+Drug: Midostaurin
+Drug: Inotersen
+Drug: ABT-414
+Drug: OFF in experimental arm
+Drug: Everolimus
+Drug: ABC294640
+Drug: Daratumumab
+Drug: LDK378
+Drug: 18F-DOPA
+Drug: SMOFlipid
+Drug: Lenvatinib
+Drug: Fostamatinib disodium 150 mg
+Drug: Cannabidiol (Epidiolex)
+Drug: SUVN-502
+Drug: nusinersen
+Drug: 3,4 diaminopyridine
+Drug: AMD3100 + G-CSF
+Drug: Sutent
+Drug: Moxetumomab Pasudotox
+Drug: BMN 110
+Drug: TRx0237
+Drug: Lenalidomide
+Drug: Eribulin Mesylate
+Drug: Aztreonam lysine
+Drug: 3, 4-Diaminopyridine
+Drug: ponatinib
+Drug: LJPC-501
+Drug: migalastat HCl
+Drug: Adding Magnesium Sulfate to the standard epidural and interscalene blocks for chronic pain
+Drug: Fleet enema
+Drug: Brivaracetam
+Drug: Lacosamide
+Drug: Avelumab
+Drug: Ritonavir
+Drug: deferiprone
+Drug: Dasatinib and Imatinib
+Drug: Triheptanoin
+Drug: Brincidofovir
+Drug: 3,4-diaminopyridine
+Drug: Macugen (Pegaptanib Sodium)
+Drug: ivosidenib (AG-120)
+Drug: Panobinostat
+Drug: pibrentasvir
+Drug: Ribavirin
+Drug: ARQ 092
+Drug: [18 F]-6-L-fluorodihydroxyphenylalanine (18F-FDOPA)
+Drug: Voclosporin
+Drug: TAS-102
+Drug: Cannabidiol oral solution
+Drug: Tipranavir
+Drug: Carbon-11 Sodium Acetate
+Drug: Crizotinib
+Drug: VAL-083
+Drug: Veliparib
+Drug: PCI-32765 (Ibrutinib)
+Drug: velaglucerase alfa
+Drug: Carfilzomib
+Drug: oral pregabalin 150 mg
+Drug: Ganitumab
+Drug: 131 I-Metaiodobenzylguanidine (131 I-MIBG)
+Drug: Pasireotide long acting release formulation
+Drug: Rituximab
+Drug: VariZIG™
+Drug: gilteritinib
+Drug: sodium stibogluconate (Pentostam)
+Drug: Trametinib 2 mg
+Drug: 3,4-Diaminopyridine
+Drug: Idelalisib
+Drug: oral lamotrigine 100 mg
+Drug: 18 F-DOPA
+Drug: nintedanib
+Drug: TMC-114
+Drug: Olaparib tablets
+Drug: larotrectinib
+Drug: 11C-choline
+Drug: Metaiodobenzylguanidine (MIBG)
+Drug: Ustekinumab
+Drug: Omegaven IV lipid emulsion
+Drug: MT-3724
+Drug: Pemetrexed
+Drug: Dexamethasone
+Drug: Paclitaxel Cisplatin
+Drug: Inotuzumab Ozogamicin
+Drug: Pimavanserin tartrate
+Drug: Fremanezumab
+Drug: tezacaftor/ivacaftor
+Drug: Certolizumab Pegol
+Drug: rovalpituzumab tesirine
+Drug: glecaprevir
+Drug: Ketoconazole
+Drug: 177Lu-DOTA0-Tyr3-Octreotate
+Drug: Oral Domperidone
+Drug: Dextromethorphan
+Drug: docetaxel oxaliplatin
+Drug: rosuvastatin,fenofibrate
+Drug: brentuximab vedotin
+Drug: Elotuzumab in combination with Lenalidomide and Dexamethasone
+Drug: lapatinib + capecitabine
+Drug: Adefovir Dipivoxil
+Drug: Pitolisant
+Drug: C-11 Choline PET Imaging
+Drug: Omegaven 10%
+Drug: Riluzole
+Drug: Aztreonam Lysine for Inhalation
+Drug: afatinib
+Drug: Fostamatinib disodium 100 mg
+Drug: tetrabenazine
+Drug: 3, 4 DAP
+Drug: Arbekacin Sulfate
+Drug: Abroma Augusta Q (mother tincture)
+Drug: Pomalidomide
+Drug: Blinatumomab
+Drug: 4-Demethyl-4-cholesteryloxycarbonylpenclomedine
+Drug: Triclabendazole
+Drug: Voraxaze (glucarpidase)
+Drug: Cisplatin
+Drug: BIBW 2992
+Drug: Phase I Dose-finding Study of Sorafenib Study
+Drug: Idebenone
+Drug: Dupilumab
+Drug: Prednisone\Prednisolone
+Drug: Amifampridine Phosphate
+Drug: CPX-351
+Drug: Dasatinib
+Drug: Tacrolimus
+Drug: LCZ696
+Drug: Domperidone
+Drug: Vinorelbine
+Drug: Volanesorsen
+Drug: Glassia
+Drug: Sofosbuvir
+Drug: Nilotinib
+Drug: sildenafil
+Drug: Niraparib
+Drug: Tecovirimat
+Drug: Deferiprone
+Drug: Ruxolitinib
+Drug: Bortezomib/Dexamethasone/Melphalan
+Drug: uridine triacetate
+Drug: Perampanel
+Drug: Miralax
+Drug: Ultratrace Iobenguane I131
+Drug: VX-770
+Drug: SCB01A
+Drug: Selumetinib
+Drug: Deflazacort
+Drug: Paromomycin
+Drug: vismodegib (GDC-0449)
+Drug: CTH Chronic Hepatitis B
+Drug: Stiripentol
+Drug: LY2503029
+Drug: Abiraterone Acetate
+Drug: HBOC-201
+Drug: Diclofenac
+Drug: triheptanoin
+Drug: gemtuzumab ozogamicin
+Drug: patisiran (ALN-TTR02)
