@@ -14,7 +14,7 @@ class Lexicon():
     	self.nRecords = 0
      
     def containsTerm(self, term):
-        return term in self.allTerms
+        return term in self.allTerms.values()
 
     def containsTermLowerCase(self, term):
     	return term.lower() in self.allTermsLowerCase
@@ -35,7 +35,7 @@ class Lexicon():
     	return self.nRecords
 
     def getMainNameForTerm(self, term):
-    	if(term not in self.allTerms):
+    	if(term not in self.allTerms.values()):
     		return None
     	return termToMainNameMap.get(term)
 
@@ -44,60 +44,50 @@ class Lexicon():
     		return None
     	return idToMainNameMap.get(id)
 
+    def getSynonyms(self, term):
+        mainName = getMainNameForTerm(term)
+        if(term not in self.synonymMap):
+            return None
+        return synonymMap.get(term)
 
-    def gill(self):
-     	print("hi")
 
-x = Lexicon()
-print(x.containsTermLowerCase('HI'))
+    #double check this one not sure if handling null's conversion from java code right
+    def getId(self, term):
+        if (containsTermLowerCase(term) == None):
+            return None
+        mainName = termToMainNameMap.get(term.lower())
+        return termToIdMap.get(mainName)
+
+    def getParents(self, myId):
+        if(myId not in self.parentMap):
+            return []
+        parentIds = parentMap.get(myId)
+        parents = []
+        for p_id in parentIds:
+            parents.append(p_id)
+            for id in getParents(p_id):
+                parents.append(id)
+        return parents
+
+    def getAncestors(self, name):
+        id = getId(name)
+        if (id == None):
+            return None
+        return getParents(id)
+
+    #formating stuff didn't convert
+    def getSynonymsLowercaseConcatenated(self, term):
+        mainName = getMainNameForTerm(term)
+        if(mainName not in self.synonymMap):
+            return None
+        synmap = synonymMap.get(mainName)
+        formattedSynonyms = []
+        for synonym in synmap:
+            formattedSynonyms.append(synonym.lower().replace(' ', '_'))
+        return formattedSynonyms
 
 '''
-  public String getId(String term) {
-        if (!containsTermLowerCase(term)) {
-            return null;
-        }
-        String mainName = termToMainNameMap.getOrDefault(term.toLowerCase(Locale.US), null);
-        return termToIdMap.getOrDefault(mainName, null);
-    }
 
-    public List<String> getParents(String myId) {
-        if (!parentMap.containsKey(myId)) {
-            return new ArrayList<>();
-        }
-        List<String> parentIds = parentMap.get(myId);
-        List<String> parents = new ArrayList<>();
-        parents.addAll(parentIds);
-        for (String parentId : parentIds) {
-            parents.addAll(getParents(parentId));
-        }
-        return parents;
-    }
-
-    public List<String> getAncestors(String name) {
-        String id = getId(name);
-        if (id == null) {
-            return null;
-        }
-        return getParents(id);
-    }
-
-    public Set<String> getSynonyms(String term) {
-        String mainName = getMainNameForTerm(term);
-        if (!synonymMap.containsKey(mainName)) {  // if this term is not a main term, it won't be in the synonym map
-            return null;
-        }
-        return synonymMap.get(mainName);
-    }
-
-    public Set<String> getSynonymsLowercaseConcatenated(String term) {
-        String mainName = getMainNameForTerm(term);
-        if (!synonymMap.containsKey(mainName)) {  // if this term is not a main term, it won't be in the synonym map
-            return null;
-        }
-        Set<String> formattedSynonyms = synonymMap.get(mainName).stream().map(
-                synonym -> synonym.toLowerCase().replace(' ', '_')).collect(Collectors.toSet());
-        return formattedSynonyms;
-    }
 
     abstract void readFromInputStream(InputStream inputStream);
 }
