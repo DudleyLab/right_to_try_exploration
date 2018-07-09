@@ -44,7 +44,7 @@ class Lexicon():
 
      
     def containsTerm(self, term):
-        return term in self.allTerms.values()
+        return term in self.allTerms
 
     def containsTermLowerCase(self, term):
     	return term.lower() in self.allTermsLowerCase
@@ -65,7 +65,7 @@ class Lexicon():
     	return self.nRecords
 
     def getMainNameForTerm(self, term):
-    	if(term not in self.allTerms.values()):
+    	if(term not in self.allTerms):
     		return None
     	return termToMainNameMap.get(term)
 
