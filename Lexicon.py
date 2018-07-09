@@ -7,11 +7,28 @@ class Lexicon():
     	self.termToIdMap = {}
     	self.idToMainNameMap = {}
     	self.synonymMap = {}
-    	self.allTerms = {}
-    	self.allTermsLowerCase = {'hi'}
-    	self.allTermsWhitespaceTokenized = {}
+    	self.allTerms = []
+    	self.allTermsLowerCase = []
+    	self.allTermsWhitespaceTokenized = []
     	self.parentMap = {}
     	self.nRecords = 0
+
+    def addLineDataToMaps(self, mainName, id, otherNames, parents):
+        self.allTerms.append(mainName)
+        self.allTermsLowerCase.append(mainName.lower())
+        for term in mainName.split(' '):
+            self.allTermsWhitespaceTokenized.append(term)
+        self.termToMainNameMap[mainName] = mainName
+        self.termToMainNameMap[mainName.lower()] = mainName
+        self.termToIdMap[mainName] = id
+        self.synonymMap.setdefault(mainName, [])
+        self.synonymMap.setdefault(mainName, []).append(mainName)
+
+        self.nRecords = self.nRecords + 1
+
+
+
+
      
     def containsTerm(self, term):
         return term in self.allTerms.values()
@@ -52,6 +69,7 @@ class Lexicon():
 
 
     #double check this one not sure if handling null's conversion from java code right
+    #check if the default or stuff is working
     def getId(self, term):
         if (containsTermLowerCase(term) == None):
             return None
@@ -86,9 +104,8 @@ class Lexicon():
             formattedSynonyms.append(synonym.lower().replace(' ', '_'))
         return formattedSynonyms
 
-'''
 
 
-    abstract void readFromInputStream(InputStream inputStream);
-}
-'''
+    def readFromInputStream(self, inputStream):
+        raise NotImplementedError("Python doesn't have abstract classes")
+
