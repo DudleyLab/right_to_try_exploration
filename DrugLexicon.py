@@ -3,6 +3,7 @@
 from Lexicon import Lexicon
 import pandas as pd
 import re
+import unittest
 
 
 
@@ -36,23 +37,7 @@ class DrugLexicon(Lexicon):
             except:
                 print("file reading error")
 
-
-
-
-            #both matcher parts literally just regex to parse drugs out of Generic Names and Trade Names
-            #basically reading shit in line by line and then parsing out names 
-            #need to figure out   addLineDataToMaps(mainName, pgkbId, otherNames, null);
-
+#playing more with regex
 drugs = DrugLexicon()
-#drugs.readFromInputStream('drugs.tsv')
 drugs.readFromInputStream('drug-lexicon-sample.tsv')
-print(len(drugs.getAllTerms()))
-print(drugs.containsTerm("1,7-dimethylxanthine"))
-print(drugs.containsTerm("paraxanthine"))
-print(drugs.containsTerm("MEDR-640"))
-print(drugs.containsTerm("Adinazolamum [INN-Latin]"))
-print(drugs.containsTerm("T-cell growth factor"))
-print(drugs.containsTerm("Proleukin"))
-print(drugs.containsTerm("Aldose reductase inhibitors"))
-print(drugs.containsTerm(""))
-
+print(drugs.getAllTerms())
