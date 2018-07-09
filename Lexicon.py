@@ -26,6 +26,19 @@ class Lexicon():
 
         self.nRecords = self.nRecords + 1
 
+        for otherName in otherNames:
+            self.termToMainNameMap[otherName] = mainName
+            self.termToMainNameMap[otherName.lower()] = mainName
+            self.allTerms.append(otherName)
+            self.allTermsLowerCase.append(otherName.lower())
+            for term in otherName.split(' '):
+                self.allTermsWhitespaceTokenized.append(term)
+            self.synonymMap.setdefault(mainName, []).append(otherName)
+
+            #parent stuff not appliacable for drug application
+
+
+
 
 
 
