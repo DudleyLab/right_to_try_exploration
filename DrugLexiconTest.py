@@ -24,5 +24,26 @@ class testLexicon(unittest.TestCase):
         self.assertTrue(drugs.containsTerm("Aldose reductase inhibitors"))
         self.assertFalse(drugs.containsTerm(""))
 
+    def testContainsTermLowerCase(self):
+        pass
+
+    def testGetAllMainTerms(self):
+        pass
+
+    def testGetnRecords(self):
+        pass
+
+    def testGetMainNameForTerm(self):
+        pass
+
+    def testGetMainNameForId(self):
+        pass
+
+    def testGetSynonyms(self):
+        pass
+
+    def testGetId(self):
+        pass
+
 if __name__ == '__main__':
     unittest.main(verbosity=2)

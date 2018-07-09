@@ -9,6 +9,8 @@ import unittest
 
 class DrugLexicon(Lexicon):
 
+    findPattern = re.compile("""?>[^,'\"]++""")
+
     def processLine(self, line):
             splitLine = line.split("\t")
             pgkbId = splitLine[0]
