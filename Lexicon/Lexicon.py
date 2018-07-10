@@ -1,7 +1,3 @@
-'''
-Based off Dr. Percha's code
-'''
-
 class Lexicon():
     def __init__(self):
     	self.termToMainNameMap = {}
@@ -124,6 +120,15 @@ class Lexicon():
         for synonym in synmap:
             formattedSynonyms.append(synonym.lower().replace(' ', '_'))
         return formattedSynonyms
+
+    def getPipeSeparatedTermsById(self):
+    	for id in self.idToMainNameMap:
+    		mainName = self.getMainNameForId(id)
+    		terms = self.getSynonyms(mainName)
+
+    		print("%s %s" %(id, "|".join([str(x) for x in self.getSynonyms(mainName)])))
+
+    		
 
 
 

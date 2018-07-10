@@ -45,6 +45,7 @@ class DrugLexicon(Lexicon):
 
     def DrugLexicon(self, inputStream):
         self.readFromInputStream(inputStream)
-        
-
+drugs = DrugLexicon()
+drugs.DrugLexicon("drug-lexicon-sample.tsv")
+drugs.getPipeSeparatedTermsById()
 
