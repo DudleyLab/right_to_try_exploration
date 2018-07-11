@@ -49,10 +49,10 @@ class Lexicon():
     	return self.termToIdMap.values()
 
     def getAllTerms(self):
-    	return self.allTerms
+    	return list(set(self.allTerms))
 
     def getAllTermsLowerCase(self):
-    	return self.allTermsLowerCase
+    	return list(set(self.allTermsLowerCase))
 
     def getAllTermsWhitespaceTokenized(self):
     	return self.allTermsWhitespaceTokenized

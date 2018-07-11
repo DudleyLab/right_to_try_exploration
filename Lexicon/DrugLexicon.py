@@ -41,15 +41,11 @@ class DrugLexicon(Lexicon):
             lines = fp.readlines()
             try:
                 for inputLine in lines[1:]:
-                    self.processLine(inputLine.replace(" ", ""))
+                    self.processLine(inputLine)
             except:
                 print("file reading error")
 
     def DrugLexicon(self, inputStream):
         self.readFromInputStream(inputStream)
-drugs = DrugLexicon()
-drugs.DrugLexicon("drug-lexicon-sample.tsv")
-for x in sorted(drugs.allTerms, key=len):
-    print(x)
-print(len(sorted(drugs.allTerms, key=len)))
+
 
