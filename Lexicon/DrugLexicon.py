@@ -26,9 +26,11 @@ class DrugLexicon(Lexicon):
             #    print(re.match(">[^,'\"]+|(['\"])(>[^\"'\\\\]+\\\\.|(?!\\1))", splitLine[3]))
 
             for name in prelimOtherNames:
-                if name != '':
-                    for names in name.split(','):
-                        otherNames.append(names.replace('"',''))
+                if (name != ''):
+                    for names in name.split(',"'):
+                        parsed_name = names.replace('"','')
+                        if(parsed_name != mainName and parsed_name not in otherNames):
+                            otherNames.append(parsed_name)
             self.addLineDataToMaps(mainName, pgkbId, otherNames, None)          
 
 
@@ -39,7 +41,7 @@ class DrugLexicon(Lexicon):
             lines = fp.readlines()
             try:
                 for inputLine in lines[1:]:
-                    self.processLine(inputLine)
+                    self.processLine(inputLine.replace(" ", ""))
             except:
                 print("file reading error")
 
@@ -47,5 +49,7 @@ class DrugLexicon(Lexicon):
         self.readFromInputStream(inputStream)
 drugs = DrugLexicon()
 drugs.DrugLexicon("drug-lexicon-sample.tsv")
-drugs.getPipeSeparatedTermsById()
+for x in sorted(drugs.allTerms, key=len):
+    print(x)
+print(len(sorted(drugs.allTerms, key=len)))
 
