@@ -1,5 +1,4 @@
 
-#it's a lot harder to read regex then write it
 from Lexicon import Lexicon
 import re
 
@@ -9,7 +8,6 @@ import re
 class DrugLexicon(Lexicon):
 
     def processLine(self, line):
-            #pattern = re.compile(">[^,'\"]+|(['\"])(>[^\"'\\\\]+\\\\.|(?!\\1)[\"'])*\\1|(?<=,|^)\\s*(?=,|$)")
             splitLine = line.split("\t")
             pgkbId = splitLine[0]
             mainName = splitLine[1]
@@ -18,12 +16,6 @@ class DrugLexicon(Lexicon):
 
             prelimOtherNames.append(splitLine[2])
             prelimOtherNames.append(splitLine[3])
-            #print("hi")
-            #if splitLine[2] != None:
-            #    print(pattern.findall(splitLine[2]))
-                
-            #if splitLine[3] != None:
-            #    print(re.match(">[^,'\"]+|(['\"])(>[^\"'\\\\]+\\\\.|(?!\\1))", splitLine[3]))
 
             for name in prelimOtherNames:
                 if (name != ''):
@@ -48,4 +40,6 @@ class DrugLexicon(Lexicon):
     def DrugLexicon(self, inputStream):
         self.readFromInputStream(inputStream)
 
-
+drugs = DrugLexicon()
+drugs.DrugLexicon("drugs.tsv")
+drugs.getPipeSeparatedTermsById()

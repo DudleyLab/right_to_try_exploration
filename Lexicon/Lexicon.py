@@ -122,11 +122,13 @@ class Lexicon():
         return formattedSynonyms
 
     def getPipeSeparatedTermsById(self):
+    	f = open('drugs_r.tsv', 'w')
+    	f.write("PharmagkbID\tDrug Names\n")
     	for id in self.idToMainNameMap:
     		mainName = self.getMainNameForId(id)
     		terms = self.getSynonyms(mainName)
-
-    		print("%s %s" %(id, "|".join([str(x) for x in self.getSynonyms(mainName)])))
+    		f.write("%s\t%s\n" %(id, "|".join([str(x) for x in self.getSynonyms(mainName)])))
+    	f.close()
 
     		
 
