@@ -1,3 +1,5 @@
+import pandas as pd
+
 class Lexicon():
     def __init__(self):
     	self.termToMainNameMap = {}
@@ -129,6 +131,28 @@ class Lexicon():
     		terms = self.getSynonyms(mainName)
     		f.write("%s\t%s\n" %(id, "|".join([str(x) for x in self.getSynonyms(mainName)])))
     	f.close()
+
+    def getPipeSeparatedTermsByIdWithApprovalStatus(self):
+    	f = open('drugs_r.tsv', 'w')
+    	g = open('../drugsatfda/Approved_drugs_r.txt')
+    	lines = g.read().lower().split('\n')
+    	f.write("PharmagkbID\tDrug Names\tApproved\n")
+    	for id in self.idToMainNameMap:
+    		approved = "False"
+    		mainName = self.getMainNameForId(id)
+    		terms = self.getSynonyms(mainName)
+    		for term in terms:
+    			if(term.lower() in lines or mainName.lower() in lines):
+    				approved = "True"
+    				print(term)
+    			else:
+    			    pass
+    		if(approved == "False"):
+    			pass
+    			#print(terms)
+	    	f.write("%s\t%s\t%s\n" %(id, "|".join([str(x) for x in self.getSynonyms(mainName)]), approved))
+    	f.close()
+
 
     		
 
