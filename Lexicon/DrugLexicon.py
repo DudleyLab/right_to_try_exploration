@@ -42,4 +42,4 @@ class DrugLexicon(Lexicon):
 
 drugs = DrugLexicon()
 drugs.DrugLexicon("drugs.tsv")
-drugs.getDrugDescript()
+drugs.getUses()

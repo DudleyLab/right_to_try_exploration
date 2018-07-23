@@ -153,7 +153,38 @@ class Lexicon():
 	    	f.write("%s\t%s\t%s\n" %(id, "|".join([str(x) for x in self.getSynonyms(mainName)]), approved))
     	f.close()
 
+    def getUses(self):
+        d = {}
+        name = ""
+        status = ""
+        indication = ""
+        with open('../../full database.xml', 'r' , encoding='utf-8') as f:
+            for line in f:
+                if((len(line) > 10) & (line[2:8] == "<name>")):
+                    name = line[8:-8].lower()
+                    status = ""
+                    indication = ""
+                if((len(line) > 25) & (line[4:27] == "<group>approved</group>")):
+                    status = "approved"
+                if((len(line) > 30) & (line[2:14] == "<indication>")):
+                    indication = line[14:-15].split('.')
+                    if((status == "approved") & (name != "")):
+                        d[name] = indication[0].lower().encode('ascii','ignore')
 
+        f = open('drugs_usage_r.tsv', 'w')
+        f.write("PharmagkbID\tDrug Names\tUse\n")
+
+        for id in self.idToMainNameMap:
+            approved = "False"
+            mainName = self.getMainNameForId(id)
+            terms = self.getSynonyms(mainName)
+            if(mainName.lower() in d):
+                f.write("%s\t%s\t%s\n" %(id, "|".join([str(x) for x in self.getSynonyms(mainName)]), d[mainName.lower()]))
+            else:
+                for term in terms:
+                    if(term.lower() in d):
+                        f.write("%s\t%s\t%s\n" %(id, "|".join([str(x) for x in self.getSynonyms(mainName)]), d[term.lower()]))
+        f.close()
     		
 
 
