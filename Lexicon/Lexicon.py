@@ -167,9 +167,9 @@ class Lexicon():
                 if((len(line) > 25) & (line[4:27] == "<group>approved</group>")):
                     status = "approved"
                 if((len(line) > 30) & (line[2:14] == "<indication>")):
-                    indication = line[14:-15].split('.')
+                    indication = line[14:-15]
                     if((status == "approved") & (name != "")):
-                        d[name] = indication[0].lower().encode('ascii','ignore')
+                        d[name] = indication.lower().encode('ascii','ignore')
 
         f = open('drugs_usage_r.tsv', 'w')
         f.write("PharmagkbID\tDrug Names\tUse\n")
