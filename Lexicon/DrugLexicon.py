@@ -1,6 +1,5 @@
 
 from Lexicon import Lexicon
-import re
 
 
 

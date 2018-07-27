@@ -1,4 +1,9 @@
 import pandas as pd
+import nltk
+from nltk.corpus import stopwords
+import re
+
+
 
 class Lexicon():
     def __init__(self):
@@ -154,6 +159,8 @@ class Lexicon():
     	f.close()
 
     def getUses(self):
+        stopwords = nltk.corpus.stopwords.words('english')
+        stopwords.append(',')
         d = {}
         name = ""
         status = ""
@@ -167,9 +174,13 @@ class Lexicon():
                 if((len(line) > 25) & (line[4:27] == "<group>approved</group>")):
                     status = "approved"
                 if((len(line) > 30) & (line[2:14] == "<indication>")):
-                    indication = line[14:-15]
+                    indication = line[14:-15].split('.')
                     if((status == "approved") & (name != "")):
-                        d[name] = indication.lower().encode('ascii','ignore')
+                        regex = r'\b(?:{})\b'.format('|'.join(stopwords))
+                        indication = indication[0].lower().encode('ascii','ignore')
+
+
+                        d[name] = re.split(regex, indication.decode('ascii'))
 
         f = open('drugs_usage_r.tsv', 'w')
         f.write("PharmagkbID\tDrug Names\tUse\n")
